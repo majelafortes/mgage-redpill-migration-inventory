@@ -2,17 +2,17 @@ cls
 @echo off
 
 Rem -- Variables Enviroment
-SET USER=mercadogov
-SET PASS=oracle123
-SET SID=mercadogov
-SET VPATH=D:\ORACLEREDPILL\
-SET DATABASE=amidada
+SET USER=snowflake
+SET PASS=snowflake
+SET SID=amidala
+SET VPATH=D:\mgage-redpill-migration-inventory\
+SET DATABASE=amidala
 
 ECHO Carga Execução Mgage- Objetcs Database %DATABASE%
 
 rem -- FOR %%db IN ( Database1, database2, database3, databasen ) DO ECHO %%db
 
-sqlplus -s  %USER%/%PASS%@%SID% @SQLPLUS_Oracle_%DATABASE%.sql
+sqlplus -s  %USER%/%PASS%@%SID% @SQLPLUS_Oracle_DATABASE.sql
 
 rem -- Add %DATABASE%
 git add "oracle_table_%DATABASE%.csv"
