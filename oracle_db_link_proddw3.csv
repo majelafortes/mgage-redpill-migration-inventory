@@ -1,5 +1,4 @@
-
-SERVER_NAME   ,OWNER               ,DB_LINK                                           ,USERNAME            ,OBJECT_TYPE
+SERVER_NAME   ,OWNER               ,DB_LINK                                           ,USERNAME            ,OBJECT_TYPE
 PRODDW3       ,PUBLIC              ,EDWADM_TYPHO.MQUBE.US                             ,EDWADM              ,DATABASE LINK
 PRODDW3       ,EDWMART             ,EDWADM_TYPHO.MQUBE.US                             ,EDWADM              ,DATABASE LINK
 PRODDW3       ,EDWMART             ,TYPHO.MQUBE.US                                    ,BILLING             ,DATABASE LINK

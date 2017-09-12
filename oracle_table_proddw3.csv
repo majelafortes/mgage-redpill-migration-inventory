@@ -1,5 +1,4 @@
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
+SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,AVAIL               ,TABLESPACE_HISTORY                      ,29/08/17,         0,       162,TABLE
 PRODDW3       ,AVAIL               ,TABLESPACE_MONITORING                   ,29/08/17,         0,         0,TABLE
 PRODDW3       ,AVAIL               ,RMAN_NOBACKUP_FILES                     ,29/08/17,         0,         0,TABLE
@@ -12,8 +11,6 @@ PRODDW3       ,AVAIL               ,FILE_NAME_SCAN                          ,29/
 PRODDW3       ,AVAIL               ,KEEP_ARCH_AVG_HIST                      ,29/08/17,         0,         4,TABLE
 PRODDW3       ,AVAIL               ,OBJECT_VERSION                          ,29/08/17,         0,        18,TABLE
 PRODDW3       ,AVAIL               ,KNOWN_SYSTEM_SCHEMAS                    ,29/08/17,         0,        36,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,AVAIL               ,KNOWN_DISABLED_CONSTRAINTS01            ,29/08/17,         0,        23,TABLE
 PRODDW3       ,AVAIL               ,KNOWN_LONG_RUNNING_JOBS                 ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_STATISTICS                    ,29/08/17,         0,         0,TABLE
@@ -26,8 +23,6 @@ PRODDW3       ,DBSNMP              ,MGMT_BSLN_METRICS                       ,29/
 PRODDW3       ,DBSNMP              ,MGMT_CAPTURE_SQL                        ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_THRESHOLD_PARMS               ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_HISTORY                            ,29/08/17,         0,         0,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,DBSNMP              ,MGMT_CAPTURE                            ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_SNAPSHOT                           ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_INTERVALS                     ,29/08/17,         0,         0,TABLE
@@ -40,8 +35,6 @@ PRODDW3       ,EDWMART             ,CARRIERS_11_SEP_2017                    ,12/
 PRODDW3       ,EDWMART             ,IPCCUSTOMVALUE_10_SEP_2017              ,11/09/17,         2,     28995,TABLE
 PRODDW3       ,EDWMART             ,CARRIERS_10_SEP_2017                    ,11/09/17,         0,       220,TABLE
 PRODDW3       ,EDWMART             ,RECON_SUMMARY_PV_28_OCT_2014            ,29/08/17,         1,      9082,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_04_SEP_2009               ,29/08/17,       520,   1475606,TABLE
 PRODDW3       ,EDWMART             ,VW_100DAYS_REFUNDS_15_NOV_2009          ,29/08/17,       408,   1137382,TABLE
 PRODDW3       ,EDWMART             ,VW_REFUND_DETAILS_29_OCT_2014           ,29/08/17,         0,         0,TABLE
@@ -54,8 +47,6 @@ PRODDW3       ,EDWMART             ,DATES_11_SEP_2017                       ,12/
 PRODDW3       ,EDWMART             ,ERR_SRC_PROTOCOLS_10_SEP_2017           ,11/09/17,         0,        88,TABLE
 PRODDW3       ,EDWMART             ,REV_PURCH_MODELS_10_SEP_2017            ,11/09/17,         0,         5,TABLE
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_06_SEP_2009               ,29/08/17,       512,   1449148,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,ERRORS_10_SEP_2017                      ,11/09/17,         0,       519,TABLE
 PRODDW3       ,EDWMART             ,PROGRAMS_11_SEP_2017                    ,12/09/17,         3,      7800,TABLE
 PRODDW3       ,EDWMART             ,CONTENT_PROVIDERS_10_SEP_2017           ,11/09/17,         0,      1086,TABLE
@@ -68,8 +59,6 @@ PRODDW3       ,EDWMART             ,CARRIER_PYMT_SMRY_29_OCT_2014           ,29/
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_03_SEP_2009               ,29/08/17,       528,   1482726,TABLE
 PRODDW3       ,EDWMART             ,INTERNAL_PRODUCTS_11_SEP_2017           ,12/09/17,         2,     24960,TABLE
 PRODDW3       ,EDWMART             ,HOURS_11_SEP_2017                       ,12/09/17,         0,        25,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,MTH_DAILY_MEASURES_10_SEP_2017          ,11/09/17,     25064,  92322355,TABLE
 PRODDW3       ,EDWMART             ,CURRENCIES_11_SEP_2017                  ,12/09/17,         0,       114,TABLE
 PRODDW3       ,EDWMART             ,TOAD_PLAN_TABLE                         ,29/08/17,         1,         8,TABLE
@@ -82,8 +71,6 @@ PRODDW3       ,EDWMART             ,IPCCUSTOMVALUE_11_SEP_2017              ,12/
 PRODDW3       ,EDWMART             ,CARRIER_PRODUCTS_10_SEP_2017            ,11/09/17,         2,     36805,TABLE
 PRODDW3       ,EDWMART             ,TIME_ZONES_11_SEP_2017                  ,12/09/17,         0,        25,TABLE
 PRODDW3       ,EDWMART             ,CONTENT_PROVIDERS_09_SEP_2017           ,10/09/17,         0,      1086,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,CURRENCIES_10_SEP_2017                  ,11/09/17,         0,       114,TABLE
 PRODDW3       ,EDWMART             ,SCHEMA_PRIVILEGES                       ,29/08/17,         0,         6,TABLE
 PRODDW3       ,EDWMART             ,PROGRAMS_09_SEP_2017                    ,10/09/17,         3,      7872,TABLE
@@ -96,8 +83,6 @@ PRODDW3       ,EDWMART             ,CARRIER_REGIONS_11_SEP_2017             ,12/
 PRODDW3       ,EDWMART             ,CONTENT_TYPES_11_SEP_2017               ,12/09/17,         0,         1,TABLE
 PRODDW3       ,EDWMART             ,DATES_10_SEP_2017                       ,11/09/17,         3,      5877,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_REGIONS_09_SEP_2017             ,10/09/17,         0,        41,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,RFND_RPRT_RFND_RSN_29_OCT_2014          ,29/08/17,         0,        16,TABLE
 PRODDW3       ,EDWMART             ,REV_PURCH_MODELS_09_SEP_2017            ,10/09/17,         0,         5,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_PYMT_SMRY_28_OCT_2014           ,29/08/17,       392,   3016714,TABLE
@@ -110,8 +95,6 @@ PRODDW3       ,EDWMART             ,CONTENT_TYPES_09_SEP_2017               ,10/
 PRODDW3       ,EDWMART             ,SCHEMA_PRIVILEGES_EXCEPTIONS            ,29/08/17,         0,         4,TABLE
 PRODDW3       ,EDWMART             ,SYS_EXPORT_SCHEMA_01                    ,29/08/17,         0,      1740,TABLE
 PRODDW3       ,EDWMART             ,RDR_YDXIEQRBRJ                          ,29/08/17,         5,     51964,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,CARRIERS_09_SEP_2017                    ,10/09/17,         0,       220,TABLE
 PRODDW3       ,EDWMART             ,P_09_SEP_2017                           ,10/09/17,         0,        21,TABLE
 PRODDW3       ,EDWMART             ,CNTRY_SPEC_DATES_10_SEP_2017            ,11/09/17,         0,         0,TABLE
@@ -124,8 +107,6 @@ PRODDW3       ,EDWMART             ,CONTENT_TYPES_10_SEP_2017               ,11/
 PRODDW3       ,EDWMART             ,RFND_RPRT_RFND_RSN_28_OCT_2014          ,29/08/17,         0,        16,TABLE
 PRODDW3       ,EDWMART             ,RECON_SUMMARY_PV_29_OCT_2014            ,29/08/17,         1,      9082,TABLE
 PRODDW3       ,EDWMART             ,SHORT_CODES_06_SEP_2009                 ,29/08/17,         0,      5652,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,SHORT_CODES_05_SEP_2009                 ,29/08/17,         0,      5651,TABLE
 PRODDW3       ,EDWMART             ,MTH_DAILY_08_FEB_2010                   ,29/08/17,      4992,  20856178,TABLE
 PRODDW3       ,EDWMART             ,MTH_DAILY_10_FEB_2010                   ,29/08/17,      4992,  20558799,TABLE
@@ -138,8 +119,6 @@ PRODDW3       ,EDWMART             ,P_11_SEP_2017                           ,12/
 PRODDW3       ,EDWMART             ,SHORT_CODES_07_SEP_2009                 ,29/08/17,         0,      5653,TABLE
 PRODDW3       ,EDWMART             ,MTH_DAILY_09_FEB_2010                   ,29/08/17,      4992,  20830548,TABLE
 PRODDW3       ,EDWMART             ,SHORT_CODES_08_SEP_2009                 ,29/08/17,         0,      5664,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,EDWMART             ,RECON_SUMMARY_PV_27_OCT_2014            ,29/08/17,         1,      9082,TABLE
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_05_SEP_2009               ,29/08/17,       520,   1462868,TABLE
 PRODDW3       ,EDWMART             ,SHORT_CODES_04_SEP_2009                 ,29/08/17,         0,      5647,TABLE
@@ -152,8 +131,6 @@ PRODDW3       ,OUTLN               ,OL$                                     ,22/
 PRODDW3       ,OUTLN               ,OL$HINTS                                ,22/10/08,         0,         0,TABLE
 PRODDW3       ,OUTLN               ,OL$NODES                                ,22/10/08,         0,         0,TABLE
 PRODDW3       ,TSMSYS              ,SRS$                                    ,29/08/17,         0,         0,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,WMSYS               ,WM$NESTED_COLUMNS_TABLE                 ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$REPLICATION_TABLE                    ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$LOCKROWS_INFO                        ,22/10/08,         0,         0,TABLE
@@ -166,8 +143,6 @@ PRODDW3       ,WMSYS               ,WM$VERSIONED_TABLES                     ,22/
 PRODDW3       ,WMSYS               ,WM$EVENTS_INFO                          ,22/10/08,         0,        12,TABLE
 PRODDW3       ,WMSYS               ,WM$LOG_TABLE_ERRORS                     ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$RIC_LOCKING_TABLE                    ,22/10/08,         0,         0,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,WMSYS               ,WM$RIC_TRIGGERS_TABLE                   ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$INSTEADOF_TRIGS_TABLE                ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$WORKSPACE_PRIV_TABLE                 ,22/10/08,         0,         8,TABLE
@@ -180,8 +155,6 @@ PRODDW3       ,WMSYS               ,WM$NEXTVER_TABLE                        ,22/
 PRODDW3       ,WMSYS               ,WM$WORKSPACES_TABLE                     ,22/10/08,         0,         1,TABLE
 PRODDW3       ,WMSYS               ,WM$MODIFIED_TABLES                      ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$SYSPARAM_ALL_VALUES                  ,22/10/08,         0,        27,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,WMSYS               ,WM$RIC_TABLE                            ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$VT_ERRORS_TABLE                      ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$MP_PARENT_WORKSPACES_TABLE           ,22/10/08,         0,         0,TABLE
@@ -194,6 +167,4 @@ PRODDW3       ,WMSYS               ,WM$VERSION_TABLE                        ,22/
 PRODDW3       ,WMSYS               ,WM$CONS_COLUMNS                         ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,AQ$_WM$EVENT_QUEUE_TABLE_S              ,22/10/08,         0,         1,TABLE
 PRODDW3       ,WMSYS               ,WM$CONSTRAINTS_TABLE                    ,22/10/08,         0,         0,TABLE
-
-SERVER_NAME   ,OWNER               ,TABLE_NAME                              ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3       ,WMSYS               ,WM$UDTRIG_DISPATCH_PROCS                ,22/10/08,         0,         0,TABLE
