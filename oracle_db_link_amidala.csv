@@ -1,6 +1,6 @@
 
-AMIDALA       ,MMREAD              ,TYPHO.MQUBE.COM                                   ,BRAT
-AMIDALA       ,DIALOGSERVER        ,TYPHO.MQUBE.US                                    ,BILLING
-AMIDALA       ,REFUND_API          ,TYPHO.MQUBE.US                                    ,BRAT
-AMIDALA       ,DBADMIN             ,TYPHO.MQUBE.US                                    ,EDWADM
-AMIDALA       ,PUBLIC              ,MSGDB6.MQUBE.US                                   ,SMX
+AMIDALA       ,MMREAD              ,TYPHO.MQUBE.COM                                   ,BRAT                ,DATABASE LINK
+AMIDALA       ,DIALOGSERVER        ,TYPHO.MQUBE.US                                    ,BILLING             ,DATABASE LINK
+AMIDALA       ,REFUND_API          ,TYPHO.MQUBE.US                                    ,BRAT                ,DATABASE LINK
+AMIDALA       ,DBADMIN             ,TYPHO.MQUBE.US                                    ,EDWADM              ,DATABASE LINK
+AMIDALA       ,PUBLIC              ,MSGDB6.MQUBE.US                                   ,SMX                 ,DATABASE LINK
