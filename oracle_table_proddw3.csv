@@ -1,3 +1,4 @@
+SP2-0042: comando desconhecido "union all" - restante da linha ignorado.
 PRODDW3       ,AVAIL               ,TABLESPACE_HISTORY                      ,29/08/17,         0,       162,TABLE
 PRODDW3       ,AVAIL               ,TABLESPACE_MONITORING                   ,29/08/17,         0,         0,TABLE
 PRODDW3       ,AVAIL               ,RMAN_NOBACKUP_FILES                     ,29/08/17,         0,         0,TABLE
