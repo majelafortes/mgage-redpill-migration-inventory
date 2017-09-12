@@ -1,8 +1,8 @@
 
-ORCL          ,MERCADOGOV          ,TB_FAT_ADPF_0_ORCAMENTO                 ,27/07/17,       526,   1446309
-ORCL          ,MERCADOGOV          ,TB_FAT_BRF_0_LICITACAO                  ,02/08/17,       100,    231034
-ORCL          ,MERCADOGOV          ,TB_FAT_CB_0_MOVIMENTO                   ,04/06/17,       594,   3963212
-ORCL          ,MERCADOGOV          ,TB_FAT_FED_0_MOVIMENTO                  ,06/06/17,         0,       757
-ORCL          ,MERCADOGOV          ,TB_FAT_FNE_0_FENAE                      ,05/09/17,         6,    136244
-ORCL          ,MERCADOGOV          ,TB_FAT_2RL_0_COMISSAO                   ,21/06/17,         1,      5669
-ORCL          ,MERCADOGOV          ,TB_FAT_2RL_0_PREV_FINANCA               ,29/06/17,         0,        54
+ORCL          ,MERCADOGOV          ,TB_FAT_ADPF_0_ORCAMENTO                 ,27/07/17,       526,   1446309,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_BRF_0_LICITACAO                  ,02/08/17,       100,    231034,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_CB_0_MOVIMENTO                   ,04/06/17,       594,   3963212,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_FED_0_MOVIMENTO                  ,06/06/17,         0,       757,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_FNE_0_FENAE                      ,05/09/17,         6,    136244,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_2RL_0_COMISSAO                   ,21/06/17,         1,      5669,TABLE PARTITION
+ORCL          ,MERCADOGOV          ,TB_FAT_2RL_0_PREV_FINANCA               ,29/06/17,         0,        54,TABLE PARTITION
