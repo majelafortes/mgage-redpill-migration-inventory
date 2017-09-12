@@ -1,5 +1,89 @@
 AMIDALA.MQUBE.US
+REPORTS                       ,IPCPROGRAMVIEW                ,        623,SELECT P.PROGRAM_ID, P.NAME, NVL(P.CP_COMPANY_NAME,O.ORGANIZATION_NAME) CP_COMPA,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QAMMG                         ,        159,SELECT DIALOGSERVER.MMGMSGLOG.DEST_ADDRESS, DIALOGSERVER.MMGMSGLOG.MESSAGE_DATE,,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QASMX                         ,        159,SELECT DIALOGSERVER.SMXMSGLOG.DEST_ADDRESS, DIALOGSERVER.SMXMSGLOG.MESSAGE_DATE,,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QAPREM                        ,        149,SELECT DIALOGSERVER.PREMIUMAUTHTXCONTROL.MESSAGE_DATE, DIALOGSERVER.PREMIUMAUTHT,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QASUB                         ,        368,SELECT SUBSCRIPTIONS.SUBSCRIPTION.CARRIER_ID,                                   ,VIEW
+                              ,                              ,           ,    SUBSCRIPTIONS.SUBSCRIPTION.IN                                               ,
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QASUBEVENT                    ,        446,SELECT SUBSCRIPTIONS.SUBSCRIPTION.INTERNAL_PRODUCT_CODE, SUBSCRIPTIONS.SUBSCRIPT,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QAPROGSTATS                   ,        264,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","HOST_ID","INSTANCE_ID","SERVICE_CODE",,VIEW
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QADIALOGSUBMITTAGLOG          ,        256,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","HOST_ID","INSTANCE_ID","SUBSCRIBER_ID",VIEW
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVCARRIERCONFIG               ,        119,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
+                              ,                              ,           ,           CARRIER_ID,                                                          ,
+                              ,                              ,           ,           NAME,                                                                ,
+                              ,                              ,           ,                                                                                ,
+
+AMIDALA.MQUBE.US
+QAUSER                        ,QAPREMIUMAUTHTXCONTROLBWS     ,       1886,SELECT                                                                          ,VIEW
+                              ,                              ,           ,    DIALOGSERVER.PREMIUMAUTHTXCONTROLBWS.AUTH_CONFIRMATION_ID,                  ,
+                              ,                              ,           ,    DIALOG                                                                      ,
+
+AMIDALA.MQUBE.US
 QAUSER                        ,QARSTEVENT                    ,        196,select "RST_ID","EVENT_TIMESTAMP","RST_EVENT_TYPE","MESSAGE_ID","MESSAGE_DISP",",VIEW
+
+AMIDALA.MQUBE.US
+DIALOGSERVER                  ,TSEDIALOGSUBMITTAGLOG         ,        689,SELECT DIALOGSERVER.DIALOGSUBMITTAGLOG.ADDITIONAL_PARAMETERS, DIALOGSERVER.DIALO,VIEW
+
+AMIDALA.MQUBE.US
+SMX                           ,SMSROUTINGRANGEVIEW           ,        312,SELECT l.prefix, l.from_range, l.to_range, l.ocn, l.emaildomain, l.wapdomain, l.,VIEW
+
+AMIDALA.MQUBE.US
+SMX                           ,LNPOCNCACHE_EXPIRATION_VIEW   ,         95,select mdn,expiration_date,status, o.company_name from lnpocncache L, ocn O     ,VIEW
+                              ,                              ,           ,wher                                                                            ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVCARRIERDETAIL               ,        862,SELECT PCB.INTERNAL_PRODUCT_CODE,                                               ,VIEW
+                              ,                              ,           ,           PCB.CARRIER_ID,                                                      ,
+                              ,                              ,           ,           PCB.DESC                                                             ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVCARRIERMESSAGE              ,        291,SELECT PCB.INTERNAL_PRODUCT_CODE,                                               ,VIEW
+                              ,                              ,           ,           PCB.CARRIER_ID,                                                      ,
+                              ,                              ,           ,           SOM.MESS                                                             ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVCONTENTTYPE                 ,        127,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
+                              ,                              ,           ,           CONTENT_TYPE,                                                        ,
+                              ,                              ,           ,           MAX_DOWNLOADS_                                                       ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVBILLINGBEHAVIOR             ,        154,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
+                              ,                              ,           ,           CARRIER_ID,                                                          ,
+                              ,                              ,           ,           PREMIUM_BILLING_                                                     ,
+
+AMIDALA.MQUBE.US
+DBSNMP                        ,MGMT_RESPONSE_BASELINE        ,        235,SELECT b.instance_number, s.sql_text, s.hash_value, v.address, s.t_per_exec     ,VIEW
+                              ,                              ,           ,                                                                                ,
+
+AMIDALA.MQUBE.US
+DIALOGSERVER                  ,QAVZWUSAGE                    ,        566,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","MESSAGE_ID","PROGRAM_ID","SESSION_ID",,VIEW
+
+AMIDALA.MQUBE.US
+SMX                           ,CARRIEROCNVIEW                ,        293,SELECT C.CARRIER_ID, CARRIER_NAME, O.OCN,                                       ,VIEW
+                              ,                              ,           ,         C.SMPP_SERVICE_TYPE, C.SMPP_V                                          ,
+
+AMIDALA.MQUBE.US
+CAMPAIGNAPP                   ,V_FEEDDELIVERY                ,         44,SELECT MAX(ENTRY_DATE)-1 FROM FEEDDELIVERY                                      ,VIEW
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,IPCPROGRAMVIEW                ,        722,SELECT p.program_id, p.NAME,                                                    ,VIEW
+                              ,                              ,           ,          NVL (p.cp_company_name, o.organization_na                             ,
 
 AMIDALA.MQUBE.US
 WMSYS                         ,USER_WM_PRIVS                 ,        960,select workspace,                                                               ,VIEW
@@ -21,9 +105,6 @@ WMSYS                         ,DBA_WM_SYS_PRIVS              ,        789,select
                               ,                              ,           ,                                                                                ,
 
 AMIDALA.MQUBE.US
-WMSYS                         ,USER_WORKSPACES               ,       2107,select st.workspace, st.workspace_lock_id workspace_id, st.parent_workspace, ssp,VIEW
-
-AMIDALA.MQUBE.US
 WMSYS                         ,USER_WORKSPACE_PRIVS          ,        840,select spt.grantee,                                                             ,VIEW
                               ,                              ,           ,       spt.workspace,                                                           ,
                               ,                              ,           ,       decode(spt.priv,'A','ACCESS_WOR                                          ,
@@ -42,11 +123,6 @@ AMIDALA.MQUBE.US
 WMSYS                         ,USER_WM_VERSIONED_TABLES      ,        482,select t.table_name, t.owner,                                                   ,VIEW
                               ,                              ,           ,       disabling_ver state,                                                     ,
                               ,                              ,           ,       t.hist history,                                                          ,
-
-AMIDALA.MQUBE.US
-WMSYS                         ,ALL_WM_VERSIONED_TABLES       ,       1105,select /*+ ORDERED */ t.table_name, t.owner,                                    ,VIEW
-                              ,                              ,           ,        disabling_ver state,                                                    ,
-                              ,                              ,           ,                                                                                ,
 
 AMIDALA.MQUBE.US
 WMSYS                         ,DBA_WM_VERSIONED_TABLES       ,        544,select /*+ ORDERED */ t.table_name, t.owner,                                    ,VIEW
@@ -123,10 +199,6 @@ AMIDALA.MQUBE.US
 WMSYS                         ,WM$CURRENT_PARVERS_VIEW       ,        933,select vht.version parent_vers                                                  ,VIEW
                               ,                              ,           ,from wmsys.wm$version_hierarchy_table  vht                                      ,
                               ,                              ,           ,where                                                                           ,
-
-AMIDALA.MQUBE.US
-WMSYS                         ,WM$CURRENT_NEXTVERS_VIEW      ,        980,select /*+ INDEX(nvt WM$NEXTVER_TABLE_NV_INDX) */ nvt.next_vers, nvt.version    ,VIEW
-                              ,                              ,           ,                                                                                ,
 
 AMIDALA.MQUBE.US
 WMSYS                         ,WM$VER_BEF_INST_NEXTVERS_VIEW ,        166,select next_vers                                                                ,VIEW
@@ -257,51 +329,37 @@ WMSYS                         ,WM$REPLICATION_INFO           ,         98,select
                               ,                              ,           ,         from wmsys.wm$replication_ta                                           ,
 
 AMIDALA.MQUBE.US
-WMSYS                         ,USER_REMOVED_WORKSPACES       ,        298,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
-
-AMIDALA.MQUBE.US
-WMSYS                         ,ALL_REMOVED_WORKSPACES        ,       1048,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
-
-AMIDALA.MQUBE.US
-WMSYS                         ,DBA_REMOVED_WORKSPACES        ,        273,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
-
-AMIDALA.MQUBE.US
-WMSYS                         ,WM$WORKSPACE_SESSIONS_VIEW    ,        226,select st.username, wt.workspace, st.sid, st.saddr                              ,VIEW
-                              ,                              ,           ,from   v$lock dl,                                                               ,
-                              ,                              ,           ,       wmsy                                                                     ,
-
-AMIDALA.MQUBE.US
-WMSYS                         ,DBA_WORKSPACE_SESSIONS        ,        235,select sut.username,                                                            ,VIEW
-                              ,                              ,           ,       sut.workspace,                                                           ,
-                              ,                              ,           ,       sut.sid,                                                                 ,
-                              ,                              ,           ,       decode(t.ses_a                                                           ,
-
-AMIDALA.MQUBE.US
-WMSYS                         ,ALL_WORKSPACES                ,       2120,select asp.workspace, asp.workspace_lock_id workspace_id, asp.parent_workspace, ,VIEW
-
-AMIDALA.MQUBE.US
-WMSYS                         ,DBA_WORKSPACES                ,       1781,select asp.workspace, asp.workspace_lock_id workspace_id, asp.parent_workspace, ,VIEW
-
-AMIDALA.MQUBE.US
-WMSYS                         ,WM_COMPRESS_BATCH_SIZES       ,       1389,select /*+ RULE */ vt.owner, vt.table_name,                                     ,VIEW
-                              ,                              ,           ,decode(dt.data_type,                                                            ,
-                              ,                              ,           ,'CHAR',decode(d                                                                 ,
-
-AMIDALA.MQUBE.US
-WMSYS                         ,WM_INSTALLATION               ,        238,select "NAME","VALUE" from WMSYS.WM$ENV_VARS union                              ,VIEW
-                              ,                              ,           ,       select name, value fro                                                   ,
-
-AMIDALA.MQUBE.US
-DIALOGSERVER                  ,SMXMSGLOGVIEW                 ,       1857,SELECT DIALOGSERVER.SMXMSGLOG.BILLING_TYPE,                                     ,VIEW
-                              ,                              ,           ,    DIALOGSERVER.SMXMSGLOG.CARRIER_                                             ,
-
-AMIDALA.MQUBE.US
-DIALOGSERVER                  ,PREMIUMAUTHTXCONTROLVIEW      ,       1978,SELECT                                                                          ,VIEW
-                              ,                              ,           ,    DIALOGSERVER.PREMIUMAUTHTXCONTROL.AUTH_CONFIRMATION_DATE,                   ,
-                              ,                              ,           ,    DIALO                                                                       ,
+WMSYS                         ,WM$CURRENT_NEXTVERS_VIEW      ,        980,select /*+ INDEX(nvt WM$NEXTVER_TABLE_NV_INDX) */ nvt.next_vers, nvt.version    ,VIEW
+                              ,                              ,           ,                                                                                ,
 
 AMIDALA.MQUBE.US
 DIALOGSERVER                  ,VZWPRODUCTCATEGORYVIEW        ,        370,SELECT PC.PRODUCT_CATEGORY, C.INTERNAL_PRODUCT_CODE, C.CARRIER_PRODUCT_DESCRIPTI,VIEW
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVMANAGEDSC                   ,       1088,SELECT SC.SHORTCODE,                                                            ,VIEW
+                              ,                              ,           ,        O.ORGANIZATION_NAME,                                                    ,
+                              ,                              ,           ,        DECODE(MAX(NVL(MANAGED                                                  ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVMANAGEDOPT                  ,        362,SELECT TMP.ROUTING_CARRIER_ID,                                                  ,VIEW
+                              ,                              ,           ,		TMP.NAME,                                                                     ,
+                              ,                              ,           ,		NVL(MCT.VALUE, TMP.VALUE) VALUE                                               ,
+                              ,                              ,           ,		F                                                                             ,
+
+AMIDALA.MQUBE.US
+CMPADMIN                      ,PVCPCOVERRIDE                 ,         85,SELECT CARRIER_ID,                                                              ,VIEW
+                              ,                              ,           ,          ORIGINAL_CPC,                                                         ,
+                              ,                              ,           ,          OVERRIDE_CPC                                                          ,
+                              ,                              ,           ,   FROM CPCOVE                                                                  ,
+
+AMIDALA.MQUBE.US
+SUBSCRIPTIONS                 ,TSESUBSCRIPTION               ,       1332,SELECT SUBSCRIPTIONS.SUBSCRIPTION.BILLING_COUNT, SUBSCRIPTIONS.SUBSCRIPTION.CARR,VIEW
+
+AMIDALA.MQUBE.US
+SUBSCRIPTIONS                 ,TSESUBSCRIPTIONEVENTLOG       ,        860,SELECT SUBSCRIPTIONS.SUBSCRIPTIONEVENTLOG.AFTER_STATE, SUBSCRIPTIONS.SUBSCRIPTIO,VIEW
+
+AMIDALA.MQUBE.US
+MMSGW                         ,TSEMMSGWLOG                   ,        912,SELECT MMSGW.MMSGWLOG.BEFORE_SEND_DATE, MMSGW.MMSGWLOG.CARRIER_ID, MMSGW.MMSGWLO,VIEW
 
 AMIDALA.MQUBE.US
 REPORTS                       ,CONNECTIONMSGTOTALVIEW        ,        774,SELECT MESSAGE_DATE, M.CONNECTION_ID, CONNECTION_NAME, SHORT_CODE, M.SERVICE_COD,VIEW
@@ -315,67 +373,7 @@ REPORTS                       ,PREMIUMMSGTOTALVIEW           ,        522,SELECT
                               ,                              ,           , PROGRAM_ID, D.                                                                 ,
 
 AMIDALA.MQUBE.US
-REPORTS                       ,IPCPROGRAMVIEW                ,        623,SELECT P.PROGRAM_ID, P.NAME, NVL(P.CP_COMPANY_NAME,O.ORGANIZATION_NAME) CP_COMPA,VIEW
-
-AMIDALA.MQUBE.US
 CAMPAIGNAPP                   ,SUBSCRIBERLISTROUTINGVIEW     ,        459,SELECT LIST_ID, SUBSCRIBER_ID, to_number(SUBSTR(subscriber_id,5,7)||'000') prefi,VIEW
-
-AMIDALA.MQUBE.US
-CAMPAIGNAPP                   ,V_FEEDDELIVERY                ,         44,SELECT MAX(ENTRY_DATE)-1 FROM FEEDDELIVERY                                      ,VIEW
-
-AMIDALA.MQUBE.US
-DBSNMP                        ,MGMT_RESPONSE_BASELINE        ,        235,SELECT b.instance_number, s.sql_text, s.hash_value, v.address, s.t_per_exec     ,VIEW
-                              ,                              ,           ,                                                                                ,
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QADIALOGSUBMITTAGLOG          ,        256,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","HOST_ID","INSTANCE_ID","SUBSCRIBER_ID",VIEW
-
-AMIDALA.MQUBE.US
-SMX                           ,CARRIEROCNVIEW                ,        293,SELECT C.CARRIER_ID, CARRIER_NAME, O.OCN,                                       ,VIEW
-                              ,                              ,           ,         C.SMPP_SERVICE_TYPE, C.SMPP_V                                          ,
-
-AMIDALA.MQUBE.US
-SMX                           ,SMSROUTINGRANGEVIEW           ,        312,SELECT l.prefix, l.from_range, l.to_range, l.ocn, l.emaildomain, l.wapdomain, l.,VIEW
-
-AMIDALA.MQUBE.US
-SMX                           ,LNPOCNCACHE_EXPIRATION_VIEW   ,         95,select mdn,expiration_date,status, o.company_name from lnpocncache L, ocn O     ,VIEW
-                              ,                              ,           ,wher                                                                            ,
-
-AMIDALA.MQUBE.US
-CMPADMIN                      ,PVCPCOVERRIDE                 ,         85,SELECT CARRIER_ID,                                                              ,VIEW
-                              ,                              ,           ,          ORIGINAL_CPC,                                                         ,
-                              ,                              ,           ,          OVERRIDE_CPC                                                          ,
-                              ,                              ,           ,   FROM CPCOVE                                                                  ,
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QAMMG                         ,        159,SELECT DIALOGSERVER.MMGMSGLOG.DEST_ADDRESS, DIALOGSERVER.MMGMSGLOG.MESSAGE_DATE,,VIEW
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QASMX                         ,        159,SELECT DIALOGSERVER.SMXMSGLOG.DEST_ADDRESS, DIALOGSERVER.SMXMSGLOG.MESSAGE_DATE,,VIEW
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QAPREM                        ,        149,SELECT DIALOGSERVER.PREMIUMAUTHTXCONTROL.MESSAGE_DATE, DIALOGSERVER.PREMIUMAUTHT,VIEW
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QASUB                         ,        368,SELECT SUBSCRIPTIONS.SUBSCRIPTION.CARRIER_ID,                                   ,VIEW
-                              ,                              ,           ,    SUBSCRIPTIONS.SUBSCRIPTION.IN                                               ,
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QAPROGSTATS                   ,        264,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","HOST_ID","INSTANCE_ID","SERVICE_CODE",,VIEW
-
-AMIDALA.MQUBE.US
-CMPADMIN                      ,PVMANAGEDOPT                  ,        362,SELECT TMP.ROUTING_CARRIER_ID,                                                  ,VIEW
-                              ,                              ,           ,		TMP.NAME,                                                                     ,
-                              ,                              ,           ,		NVL(MCT.VALUE, TMP.VALUE) VALUE                                               ,
-                              ,                              ,           ,		F                                                                             ,
-
-AMIDALA.MQUBE.US
-CMPADMIN                      ,PVMANAGEDSC                   ,       1088,SELECT SC.SHORTCODE,                                                            ,VIEW
-                              ,                              ,           ,        O.ORGANIZATION_NAME,                                                    ,
-                              ,                              ,           ,        DECODE(MAX(NVL(MANAGED                                                  ,
-
-AMIDALA.MQUBE.US
-DIALOGSERVER                  ,TSEDIALOGSUBMITTAGLOG         ,        689,SELECT DIALOGSERVER.DIALOGSUBMITTAGLOG.ADDITIONAL_PARAMETERS, DIALOGSERVER.DIALO,VIEW
 
 AMIDALA.MQUBE.US
 DIALOGSERVER                  ,TSEMMGMSGLOG                  ,       1660,SELECT DIALOGSERVER.MMGMSGLOG.CARRIER_ID, DIALOGSERVER.MMGMSGLOG.DEST_ADDRESS, D,VIEW
@@ -390,27 +388,10 @@ AMIDALA.MQUBE.US
 DIALOGSERVER                  ,TSESMXMSGLOG                  ,       1600,SELECT DIALOGSERVER.SMXMSGLOG.BILLING_ID, DIALOGSERVER.SMXMSGLOG.BILLING_TYPE, D,VIEW
 
 AMIDALA.MQUBE.US
-SUBSCRIPTIONS                 ,TSESUBSCRIPTION               ,       1332,SELECT SUBSCRIPTIONS.SUBSCRIPTION.BILLING_COUNT, SUBSCRIPTIONS.SUBSCRIPTION.CARR,VIEW
-
-AMIDALA.MQUBE.US
-SUBSCRIPTIONS                 ,TSESUBSCRIPTIONEVENTLOG       ,        860,SELECT SUBSCRIPTIONS.SUBSCRIPTIONEVENTLOG.AFTER_STATE, SUBSCRIPTIONS.SUBSCRIPTIO,VIEW
-
-AMIDALA.MQUBE.US
-MMSGW                         ,TSEMMSGWLOG                   ,        912,SELECT MMSGW.MMSGWLOG.BEFORE_SEND_DATE, MMSGW.MMSGWLOG.CARRIER_ID, MMSGW.MMSGWLO,VIEW
-
-AMIDALA.MQUBE.US
-CMPADMIN                      ,PVCARRIERCONFIG               ,        119,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
-                              ,                              ,           ,           CARRIER_ID,                                                          ,
-                              ,                              ,           ,           NAME,                                                                ,
-                              ,                              ,           ,                                                                                ,
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QASUBEVENT                    ,        446,SELECT SUBSCRIPTIONS.SUBSCRIPTION.INTERNAL_PRODUCT_CODE, SUBSCRIPTIONS.SUBSCRIPT,VIEW
-
-AMIDALA.MQUBE.US
-QAUSER                        ,QAPREMIUMAUTHTXCONTROLBWS     ,       1886,SELECT                                                                          ,VIEW
-                              ,                              ,           ,    DIALOGSERVER.PREMIUMAUTHTXCONTROLBWS.AUTH_CONFIRMATION_ID,                  ,
-                              ,                              ,           ,    DIALOG                                                                      ,
+CAMPAIGNS                     ,VW_STATE_DURATION             ,         95,SELECT program_id,                                                              ,VIEW
+                              ,                              ,           ,          carrier_name,                                                         ,
+                              ,                              ,           ,          state_name                                                            ,
+                              ,                              ,           ,     FROM workfl                                                                ,
 
 AMIDALA.MQUBE.US
 CMPADMIN                      ,PVPRODUCT                     ,       4869,SELECT IPC.INTERNAL_PRODUCT_CODE,                                               ,VIEW
@@ -419,24 +400,17 @@ CMPADMIN                      ,PVPRODUCT                     ,       4869,SELECT
                               ,                              ,           ,                                                                                ,
 
 AMIDALA.MQUBE.US
-CMPADMIN                      ,PVCARRIERDETAIL               ,        862,SELECT PCB.INTERNAL_PRODUCT_CODE,                                               ,VIEW
-                              ,                              ,           ,           PCB.CARRIER_ID,                                                      ,
-                              ,                              ,           ,           PCB.DESC                                                             ,
+DIALOGSERVER                  ,SMXMSGLOGVIEW                 ,       1857,SELECT DIALOGSERVER.SMXMSGLOG.BILLING_TYPE,                                     ,VIEW
+                              ,                              ,           ,    DIALOGSERVER.SMXMSGLOG.CARRIER_                                             ,
 
 AMIDALA.MQUBE.US
-CMPADMIN                      ,PVCARRIERMESSAGE              ,        291,SELECT PCB.INTERNAL_PRODUCT_CODE,                                               ,VIEW
-                              ,                              ,           ,           PCB.CARRIER_ID,                                                      ,
-                              ,                              ,           ,           SOM.MESS                                                             ,
+DIALOGSERVER                  ,PREMIUMAUTHTXCONTROLVIEW      ,       1978,SELECT                                                                          ,VIEW
+                              ,                              ,           ,    DIALOGSERVER.PREMIUMAUTHTXCONTROL.AUTH_CONFIRMATION_DATE,                   ,
+                              ,                              ,           ,    DIALO                                                                       ,
 
 AMIDALA.MQUBE.US
-CMPADMIN                      ,PVCONTENTTYPE                 ,        127,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
-                              ,                              ,           ,           CONTENT_TYPE,                                                        ,
-                              ,                              ,           ,           MAX_DOWNLOADS_                                                       ,
-
-AMIDALA.MQUBE.US
-CMPADMIN                      ,PVBILLINGBEHAVIOR             ,        154,SELECT INTERNAL_PRODUCT_CODE,                                                   ,VIEW
-                              ,                              ,           ,           CARRIER_ID,                                                          ,
-                              ,                              ,           ,           PREMIUM_BILLING_                                                     ,
+REFUND_API                    ,REFUND_MDN_LOOKUP             ,         65,SELECT                                                                          ,VIEW
+                              ,                              ,           ,MSISDN, LAST_REFUND_TS FROM REFUND_MDN_LOOKUP_11_SEP_2017                       ,
 
 AMIDALA.MQUBE.US
 CAMPAIGNS                     ,VW_HOLD_STATUS                ,        178,SELECT 1 HOLD_ID, 'Hold' HOLD_STATUS FROM DUAL                                  ,VIEW
@@ -486,21 +460,27 @@ CAMPAIGNS                     ,VW_SHORTCODES                 ,        119,SELECT
                               ,                              ,           ,     FROM CMPADMIN.JBPM_VARIABLEINST                                            ,
 
 AMIDALA.MQUBE.US
-DIALOGSERVER                  ,QAVZWUSAGE                    ,        566,select "MESSAGE_DATE_NTZ","MESSAGE_DATE","MESSAGE_ID","PROGRAM_ID","SESSION_ID",,VIEW
+WMSYS                         ,USER_REMOVED_WORKSPACES       ,        298,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
 
 AMIDALA.MQUBE.US
-REFUND_API                    ,REFUND_MDN_LOOKUP             ,         65,SELECT                                                                          ,VIEW
-                              ,                              ,           ,MSISDN, LAST_REFUND_TS FROM REFUND_MDN_LOOKUP_11_SEP_2017                       ,
+WMSYS                         ,ALL_REMOVED_WORKSPACES        ,       1048,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
 
 AMIDALA.MQUBE.US
-CAMPAIGNS                     ,VW_STATE_DURATION             ,         95,SELECT program_id,                                                              ,VIEW
-                              ,                              ,           ,          carrier_name,                                                         ,
-                              ,                              ,           ,          state_name                                                            ,
-                              ,                              ,           ,     FROM workfl                                                                ,
+WMSYS                         ,DBA_REMOVED_WORKSPACES        ,        273,select owner, workspace_name, workspace_id, parent_workspace_name, parent_worksp,VIEW
 
 AMIDALA.MQUBE.US
-CMPADMIN                      ,IPCPROGRAMVIEW                ,        722,SELECT p.program_id, p.NAME,                                                    ,VIEW
-                              ,                              ,           ,          NVL (p.cp_company_name, o.organization_na                             ,
+WMSYS                         ,WM$WORKSPACE_SESSIONS_VIEW    ,        226,select st.username, wt.workspace, st.sid, st.saddr                              ,VIEW
+                              ,                              ,           ,from   v$lock dl,                                                               ,
+                              ,                              ,           ,       wmsy                                                                     ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,DBA_WORKSPACE_SESSIONS        ,        235,select sut.username,                                                            ,VIEW
+                              ,                              ,           ,       sut.workspace,                                                           ,
+                              ,                              ,           ,       sut.sid,                                                                 ,
+                              ,                              ,           ,       decode(t.ses_a                                                           ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,USER_WORKSPACES               ,       2107,select st.workspace, st.workspace_lock_id workspace_id, st.parent_workspace, ssp,VIEW
 
 AMIDALA.MQUBE.US
 XDB                           ,RESOURCE_VIEW                 ,        133,select value(p) res, abspath(9999) any_path, sys_nc_oid$ resid                  ,VIEW
@@ -653,10 +633,10 @@ AMIDALA.MQUBE.US
 WMSYS                         ,AQ$WM$EVENT_QUEUE_TABLE_S     ,        194,SELECT queue_name QUEUE, name NAME , address ADDRESS , protocol PROTOCOL, trans_,VIEW
 
 AMIDALA.MQUBE.US
-WMSYS                         ,AQ$_WM$EVENT_QUEUE_TABLE_F    ,       1011,SELECT qt.q_name Q_NAME, qt.rowid ROW_ID, qt.msgid MSGID, qt.corrid CORRID, qt.p,VIEW
+WMSYS                         ,AQ$WM$EVENT_QUEUE_TABLE       ,       3408,SELECT  q_name QUEUE, qt.msgid MSG_ID, corrid CORR_ID,  priority MSG_PRIORITY,  ,VIEW
 
 AMIDALA.MQUBE.US
-WMSYS                         ,AQ$WM$EVENT_QUEUE_TABLE       ,       3408,SELECT  q_name QUEUE, qt.msgid MSG_ID, corrid CORR_ID,  priority MSG_PRIORITY,  ,VIEW
+WMSYS                         ,AQ$_WM$EVENT_QUEUE_TABLE_F    ,       1011,SELECT qt.q_name Q_NAME, qt.rowid ROW_ID, qt.msgid MSGID, qt.corrid CORRID, qt.p,VIEW
 
 AMIDALA.MQUBE.US
 WMSYS                         ,AQ$WM$EVENT_QUEUE_TABLE_R     ,        314,SELECT queue_name QUEUE, s.name NAME , address ADDRESS , protocol PROTOCOL, rule,VIEW
@@ -680,4 +660,24 @@ WMSYS                         ,WM_COMPRESSIBLE_TABLES        ,       3093,select
 AMIDALA.MQUBE.US
 WMSYS                         ,DBA_WM_VT_ERRORS              ,        806,select vt.owner,vt.table_name,vt.state,vt.sql_str,et.status,et.error_msg        ,VIEW
                               ,                              ,           ,  from                                                                          ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,ALL_WM_VERSIONED_TABLES       ,       1105,select /*+ ORDERED */ t.table_name, t.owner,                                    ,VIEW
+                              ,                              ,           ,        disabling_ver state,                                                    ,
+                              ,                              ,           ,                                                                                ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,WM_COMPRESS_BATCH_SIZES       ,       1389,select /*+ RULE */ vt.owner, vt.table_name,                                     ,VIEW
+                              ,                              ,           ,decode(dt.data_type,                                                            ,
+                              ,                              ,           ,'CHAR',decode(d                                                                 ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,WM_INSTALLATION               ,        238,select "NAME","VALUE" from WMSYS.WM$ENV_VARS union                              ,VIEW
+                              ,                              ,           ,       select name, value fro                                                   ,
+
+AMIDALA.MQUBE.US
+WMSYS                         ,ALL_WORKSPACES                ,       2120,select asp.workspace, asp.workspace_lock_id workspace_id, asp.parent_workspace, ,VIEW
+
+AMIDALA.MQUBE.US
+WMSYS                         ,DBA_WORKSPACES                ,       1781,select asp.workspace, asp.workspace_lock_id workspace_id, asp.parent_workspace, ,VIEW
 
