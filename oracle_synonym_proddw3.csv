@@ -1,4 +1,3 @@
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES_21_APR_2009        ,EDWMART        ,TIME_ZONES_21_APR_2009        ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MEDIA_TYPES_21_APR_2009       ,EDWMART        ,MEDIA_TYPES_21_APR_2009       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MESSAGE_DIRECTION_15_APR_2009 ,EDWMART        ,MESSAGE_DIRECTION_15_APR_2009 ,               ,SYNONYM
@@ -12,7 +11,6 @@ PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_15_APR_2009         ,EDWMART        ,MT
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_16_APR_2009         ,EDWMART        ,MTH_DAILY_16_APR_2009         ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_17_APR_2009         ,EDWMART        ,MTH_DAILY_17_APR_2009         ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_18_APR_2009         ,EDWMART        ,MTH_DAILY_18_APR_2009         ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_19_APR_2009         ,EDWMART        ,MTH_DAILY_19_APR_2009         ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_20_APR_2009         ,EDWMART        ,MTH_DAILY_20_APR_2009         ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_21_APR_2009         ,EDWMART        ,MTH_DAILY_21_APR_2009         ,               ,SYNONYM
@@ -26,7 +24,6 @@ PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY_MEASURES_21_APR_2009,EDWMART        ,MT
 PRODDW3       ,EDWDBENGUSR    ,PKG_CLONE                     ,EDWMART        ,PKG_CLONE                     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,PROGRAMS_15_APR_2009          ,EDWMART        ,PROGRAMS_15_APR_2009          ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,PROGRAMS_16_APR_2009          ,EDWMART        ,PROGRAMS_16_APR_2009          ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,PROGRAMS_17_APR_2009          ,EDWMART        ,PROGRAMS_17_APR_2009          ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,PROGRAMS_18_APR_2009          ,EDWMART        ,PROGRAMS_18_APR_2009          ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,PROGRAMS_19_APR_2009          ,EDWMART        ,PROGRAMS_19_APR_2009          ,               ,SYNONYM
@@ -40,7 +37,6 @@ PRODDW3       ,EDWDBENGUSR    ,P_19_APR_2009                 ,EDWMART        ,P_
 PRODDW3       ,EDWDBENGUSR    ,P_20_APR_2009                 ,EDWMART        ,P_20_APR_2009                 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,P_21_APR_2009                 ,EDWMART        ,P_21_APR_2009                 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,REV_PURCH_MODELS_15_APR_2009  ,EDWMART        ,REV_PURCH_MODELS_15_APR_2009  ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,REV_PURCH_MODELS_16_APR_2009  ,EDWMART        ,REV_PURCH_MODELS_16_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,REV_PURCH_MODELS_17_APR_2009  ,EDWMART        ,REV_PURCH_MODELS_17_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,REV_PURCH_MODELS_18_APR_2009  ,EDWMART        ,REV_PURCH_MODELS_18_APR_2009  ,               ,SYNONYM
@@ -54,7 +50,6 @@ PRODDW3       ,EDWDBENGUSR    ,RFND_RPRT_RFND_RSN_18_APR_2009,EDWMART        ,RF
 PRODDW3       ,EDWDBENGUSR    ,RFND_RPRT_RFND_RSN_19_APR_2009,EDWMART        ,RFND_RPRT_RFND_RSN_19_APR_2009,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,RFND_RPRT_RFND_RSN_20_APR_2009,EDWMART        ,RFND_RPRT_RFND_RSN_20_APR_2009,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,RFND_RPRT_RFND_RSN_21_APR_2009,EDWMART        ,RFND_RPRT_RFND_RSN_21_APR_2009,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,SHORT_CODES_15_APR_2009       ,EDWMART        ,SHORT_CODES_15_APR_2009       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,SHORT_CODES_16_APR_2009       ,EDWMART        ,SHORT_CODES_16_APR_2009       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,SHORT_CODES_17_APR_2009       ,EDWMART        ,SHORT_CODES_17_APR_2009       ,               ,SYNONYM
@@ -68,7 +63,6 @@ PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES_17_APR_2009        ,EDWMART        ,TI
 PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES_18_APR_2009        ,EDWMART        ,TIME_ZONES_18_APR_2009        ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES_19_APR_2009        ,EDWMART        ,TIME_ZONES_19_APR_2009        ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES_20_APR_2009        ,EDWMART        ,TIME_ZONES_20_APR_2009        ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CNTRY_SPEC_DATES_20_APR_2009  ,EDWMART        ,CNTRY_SPEC_DATES_20_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CNTRY_SPEC_DATES_21_APR_2009  ,EDWMART        ,CNTRY_SPEC_DATES_21_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_PROVIDERS_15_APR_2009 ,EDWMART        ,CONTENT_PROVIDERS_15_APR_2009 ,               ,SYNONYM
@@ -82,7 +76,6 @@ PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_15_APR_2009     ,EDWMART        ,CO
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_16_APR_2009     ,EDWMART        ,CONTENT_TYPES_16_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_17_APR_2009     ,EDWMART        ,CONTENT_TYPES_17_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_18_APR_2009     ,EDWMART        ,CONTENT_TYPES_18_APR_2009     ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_19_APR_2009     ,EDWMART        ,CONTENT_TYPES_19_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_20_APR_2009     ,EDWMART        ,CONTENT_TYPES_20_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CONTENT_TYPES_21_APR_2009     ,EDWMART        ,CONTENT_TYPES_21_APR_2009     ,               ,SYNONYM
@@ -96,7 +89,6 @@ PRODDW3       ,EDWDBENGUSR    ,CURRENCIES_21_APR_2009        ,EDWMART        ,CU
 PRODDW3       ,EDWDBENGUSR    ,DATES_15_APR_2009             ,EDWMART        ,DATES_15_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,DATES_16_APR_2009             ,EDWMART        ,DATES_16_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,DATES_17_APR_2009             ,EDWMART        ,DATES_17_APR_2009             ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,DATES_18_APR_2009             ,EDWMART        ,DATES_18_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,DATES_19_APR_2009             ,EDWMART        ,DATES_19_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,DATES_20_APR_2009             ,EDWMART        ,DATES_20_APR_2009             ,               ,SYNONYM
@@ -110,7 +102,6 @@ PRODDW3       ,EDWDBENGUSR    ,ERRORS_20_APR_2009            ,EDWMART        ,ER
 PRODDW3       ,EDWDBENGUSR    ,ERRORS_21_APR_2009            ,EDWMART        ,ERRORS_21_APR_2009            ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,ERR_SRC_PROTOCOLS_15_APR_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_15_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,ERR_SRC_PROTOCOLS_16_APR_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_16_APR_2009 ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,ERR_SRC_PROTOCOLS_17_APR_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_17_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,ERR_SRC_PROTOCOLS_18_APR_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_18_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,ERR_SRC_PROTOCOLS_19_APR_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_19_APR_2009 ,               ,SYNONYM
@@ -124,7 +115,6 @@ PRODDW3       ,EDWDBENGUSR    ,HOURS_19_APR_2009             ,EDWMART        ,HO
 PRODDW3       ,EDWDBENGUSR    ,HOURS_20_APR_2009             ,EDWMART        ,HOURS_20_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,HOURS_21_APR_2009             ,EDWMART        ,HOURS_21_APR_2009             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,INTERNAL_PRODUCTS_15_APR_2009 ,EDWMART        ,INTERNAL_PRODUCTS_15_APR_2009 ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,INTERNAL_PRODUCTS_16_APR_2009 ,EDWMART        ,INTERNAL_PRODUCTS_16_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,INTERNAL_PRODUCTS_17_APR_2009 ,EDWMART        ,INTERNAL_PRODUCTS_17_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,INTERNAL_PRODUCTS_18_APR_2009 ,EDWMART        ,INTERNAL_PRODUCTS_18_APR_2009 ,               ,SYNONYM
@@ -138,7 +128,6 @@ PRODDW3       ,EDWDBENGUSR    ,MEDIA_TYPES_18_APR_2009       ,EDWMART        ,ME
 PRODDW3       ,EDWDBENGUSR    ,MEDIA_TYPES_19_APR_2009       ,EDWMART        ,MEDIA_TYPES_19_APR_2009       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MEDIA_TYPES_20_APR_2009       ,EDWMART        ,MEDIA_TYPES_20_APR_2009       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL                 ,EDWMART        ,CARRIERDETAIL                 ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CARRIERS                      ,EDWMART        ,CARRIERS                      ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PAYMENT_SUMMARY       ,EDWMART        ,CARRIER_PAYMENT_SUMMARY       ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS              ,EDWMART        ,CARRIER_PRODUCTS              ,               ,SYNONYM
@@ -152,7 +141,6 @@ PRODDW3       ,EDWDBENGUSR    ,ERRORS                        ,EDWMART        ,ER
 PRODDW3       ,EDWDBENGUSR    ,ERROR_SOURCE_PROTOCOLS        ,EDWMART        ,ERROR_SOURCE_PROTOCOLS        ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,HOURS                         ,EDWMART        ,HOURS                         ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,INTERNAL_PRODUCTS             ,EDWMART        ,INTERNAL_PRODUCTS             ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,MEDIA_TYPES                   ,EDWMART        ,MEDIA_TYPES                   ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MESSAGE_DIRECTION             ,EDWMART        ,MESSAGE_DIRECTION             ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,MTH_DAILY                     ,EDWMART        ,MTH_DAILY                     ,               ,SYNONYM
@@ -166,7 +154,6 @@ PRODDW3       ,EDWDBENGUSR    ,TIME_ZONES                    ,EDWMART        ,TI
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_15_APR_2009     ,EDWMART        ,CARRIERDETAIL_15_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_16_APR_2009     ,EDWMART        ,CARRIERDETAIL_16_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_17_APR_2009     ,EDWMART        ,CARRIERDETAIL_17_APR_2009     ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_18_APR_2009     ,EDWMART        ,CARRIERDETAIL_18_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_19_APR_2009     ,EDWMART        ,CARRIERDETAIL_19_APR_2009     ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIERDETAIL_20_APR_2009     ,EDWMART        ,CARRIERDETAIL_20_APR_2009     ,               ,SYNONYM
@@ -180,7 +167,6 @@ PRODDW3       ,EDWDBENGUSR    ,CARRIERS_20_APR_2009          ,EDWMART        ,CA
 PRODDW3       ,EDWDBENGUSR    ,CARRIERS_21_APR_2009          ,EDWMART        ,CARRIERS_21_APR_2009          ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS_15_APR_2009  ,EDWMART        ,CARRIER_PRODUCTS_15_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS_16_APR_2009  ,EDWMART        ,CARRIER_PRODUCTS_16_APR_2009  ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS_17_APR_2009  ,EDWMART        ,CARRIER_PRODUCTS_17_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS_18_APR_2009  ,EDWMART        ,CARRIER_PRODUCTS_18_APR_2009  ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PRODUCTS_19_APR_2009  ,EDWMART        ,CARRIER_PRODUCTS_19_APR_2009  ,               ,SYNONYM
@@ -194,7 +180,6 @@ PRODDW3       ,EDWDBENGUSR    ,CARRIER_PYMT_SMRY_19_APR_2009 ,EDWMART        ,CA
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PYMT_SMRY_20_APR_2009 ,EDWMART        ,CARRIER_PYMT_SMRY_20_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_PYMT_SMRY_21_APR_2009 ,EDWMART        ,CARRIER_PYMT_SMRY_21_APR_2009 ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_REGIONS_15_APR_2009   ,EDWMART        ,CARRIER_REGIONS_15_APR_2009   ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_REGIONS_16_APR_2009   ,EDWMART        ,CARRIER_REGIONS_16_APR_2009   ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_REGIONS_17_APR_2009   ,EDWMART        ,CARRIER_REGIONS_17_APR_2009   ,               ,SYNONYM
 PRODDW3       ,EDWDBENGUSR    ,CARRIER_REGIONS_18_APR_2009   ,EDWMART        ,CARRIER_REGIONS_18_APR_2009   ,               ,SYNONYM
@@ -208,7 +193,6 @@ PRODDW3       ,EDWDBENGUSR    ,CNTRY_SPEC_DATES_18_APR_2009  ,EDWMART        ,CN
 PRODDW3       ,EDWDBENGUSR    ,CNTRY_SPEC_DATES_19_APR_2009  ,EDWMART        ,CNTRY_SPEC_DATES_19_APR_2009  ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MESSAGE_DIRECTION_19_DEC_2009 ,EDWMART        ,MESSAGE_DIRECTION_19_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MESSAGE_DIRECTION_20_DEC_2009 ,EDWMART        ,MESSAGE_DIRECTION_20_DEC_2009 ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,MESSAGE_DIRECTION_21_DEC_2009 ,EDWMART        ,MESSAGE_DIRECTION_21_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MTH_DAILY                     ,EDWMART        ,MTH_DAILY                     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MTH_DAILY_19_DEC_2009         ,EDWMART        ,MTH_DAILY_19_DEC_2009         ,               ,SYNONYM
@@ -222,7 +206,6 @@ PRODDW3       ,MMREAD         ,PKG_CLONE                     ,EDWMART        ,PK
 PRODDW3       ,MMREAD         ,PROGRAMS                      ,EDWMART        ,PROGRAMS                      ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,PROGRAMS_19_DEC_2009          ,EDWMART        ,PROGRAMS_19_DEC_2009          ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,PROGRAMS_20_DEC_2009          ,EDWMART        ,PROGRAMS_20_DEC_2009          ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,PROGRAMS_21_DEC_2009          ,EDWMART        ,PROGRAMS_21_DEC_2009          ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,PROTOCOLS                     ,EDWMART        ,PROTOCOLS                     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,P_19_DEC_2009                 ,EDWMART        ,P_19_DEC_2009                 ,               ,SYNONYM
@@ -236,7 +219,6 @@ PRODDW3       ,MMREAD         ,REV_PURCH_MODELS_20_DEC_2009  ,EDWMART        ,RE
 PRODDW3       ,MMREAD         ,REV_PURCH_MODELS_21_DEC_2009  ,EDWMART        ,REV_PURCH_MODELS_21_DEC_2009  ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,RFND_RPRT_RFND_RSN_19_DEC_2009,EDWMART        ,RFND_RPRT_RFND_RSN_19_DEC_2009,               ,SYNONYM
 PRODDW3       ,MMREAD         ,RFND_RPRT_RFND_RSN_20_DEC_2009,EDWMART        ,RFND_RPRT_RFND_RSN_20_DEC_2009,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,RFND_RPRT_RFND_RSN_21_DEC_2009,EDWMART        ,RFND_RPRT_RFND_RSN_21_DEC_2009,               ,SYNONYM
 PRODDW3       ,MMREAD         ,SHORT_CODES                   ,EDWMART        ,SHORT_CODES                   ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,SHORT_CODES_03_SEP_2009       ,EDWMART        ,SHORT_CODES_03_SEP_2009       ,               ,SYNONYM
@@ -250,7 +232,6 @@ PRODDW3       ,MMREAD         ,TIME_ZONES                    ,EDWMART        ,TI
 PRODDW3       ,MMREAD         ,TIME_ZONES_19_DEC_2009        ,EDWMART        ,TIME_ZONES_19_DEC_2009        ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,TIME_ZONES_20_DEC_2009        ,EDWMART        ,TIME_ZONES_20_DEC_2009        ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,TIME_ZONES_21_DEC_2009        ,EDWMART        ,TIME_ZONES_21_DEC_2009        ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,VW_100DAYS_REFUNDS_15_NOV_2009,EDWMART        ,VW_100DAYS_REFUNDS_15_NOV_2009,               ,SYNONYM
 PRODDW3       ,MMREAD         ,VW_100DAYS_REFUNDS_16_NOV_2009,EDWMART        ,VW_100DAYS_REFUNDS_16_NOV_2009,               ,SYNONYM
 PRODDW3       ,MMREAD         ,VW_100DAYS_REFUNDS_17_NOV_2009,EDWMART        ,VW_100DAYS_REFUNDS_17_NOV_2009,               ,SYNONYM
@@ -264,7 +245,6 @@ PRODDW3       ,MMREAD         ,CARRIERDETAIL_05_SEP_2009     ,EDWMART        ,CA
 PRODDW3       ,MMREAD         ,CARRIERDETAIL_06_SEP_2009     ,EDWMART        ,CARRIERDETAIL_06_SEP_2009     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIERDETAIL_07_SEP_2009     ,EDWMART        ,CARRIERDETAIL_07_SEP_2009     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIERDETAIL_08_SEP_2009     ,EDWMART        ,CARRIERDETAIL_08_SEP_2009     ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,CARRIERS                      ,EDWMART        ,CARRIERS                      ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIERS_19_DEC_2009          ,EDWMART        ,CARRIERS_19_DEC_2009          ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIERS_20_DEC_2009          ,EDWMART        ,CARRIERS_20_DEC_2009          ,               ,SYNONYM
@@ -278,7 +258,6 @@ PRODDW3       ,MMREAD         ,CARRIER_PYMT_SMRY_19_DEC_2009 ,EDWMART        ,CA
 PRODDW3       ,MMREAD         ,CARRIER_PYMT_SMRY_20_DEC_2009 ,EDWMART        ,CARRIER_PYMT_SMRY_20_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIER_PYMT_SMRY_21_DEC_2009 ,EDWMART        ,CARRIER_PYMT_SMRY_21_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIER_REGIONS               ,EDWMART        ,CARRIER_REGIONS               ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,CARRIER_REGIONS_19_DEC_2009   ,EDWMART        ,CARRIER_REGIONS_19_DEC_2009   ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIER_REGIONS_20_DEC_2009   ,EDWMART        ,CARRIER_REGIONS_20_DEC_2009   ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CARRIER_REGIONS_21_DEC_2009   ,EDWMART        ,CARRIER_REGIONS_21_DEC_2009   ,               ,SYNONYM
@@ -292,7 +271,6 @@ PRODDW3       ,MMREAD         ,CONTENT_PROVIDER_ORGANIZATIONS,EDWMART        ,CO
 PRODDW3       ,MMREAD         ,CONTENT_TYPES                 ,EDWMART        ,CONTENT_TYPES                 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CONTENT_TYPES_19_DEC_2009     ,EDWMART        ,CONTENT_TYPES_19_DEC_2009     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CONTENT_TYPES_20_DEC_2009     ,EDWMART        ,CONTENT_TYPES_20_DEC_2009     ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,CONTENT_TYPES_21_DEC_2009     ,EDWMART        ,CONTENT_TYPES_21_DEC_2009     ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,COUNTRY_SPECIFIC_DATES        ,EDWMART        ,COUNTRY_SPECIFIC_DATES        ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,CURRENCIES                    ,EDWMART        ,CURRENCIES                    ,               ,SYNONYM
@@ -306,7 +284,6 @@ PRODDW3       ,MMREAD         ,DATES_21_DEC_2009             ,EDWMART        ,DA
 PRODDW3       ,MMREAD         ,ERRORS                        ,EDWMART        ,ERRORS                        ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,ERRORS_19_DEC_2009            ,EDWMART        ,ERRORS_19_DEC_2009            ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,ERRORS_20_DEC_2009            ,EDWMART        ,ERRORS_20_DEC_2009            ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,ERRORS_21_DEC_2009            ,EDWMART        ,ERRORS_21_DEC_2009            ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,ERROR_SOURCE_PROTOCOLS        ,EDWMART        ,ERROR_SOURCE_PROTOCOLS        ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,ERR_SRC_PROTOCOLS_19_DEC_2009 ,EDWMART        ,ERR_SRC_PROTOCOLS_19_DEC_2009 ,               ,SYNONYM
@@ -320,7 +297,6 @@ PRODDW3       ,MMREAD         ,INTERNAL_PRODUCTS             ,EDWMART        ,IN
 PRODDW3       ,MMREAD         ,INTERNAL_PRODUCTS_19_DEC_2009 ,EDWMART        ,INTERNAL_PRODUCTS_19_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,INTERNAL_PRODUCTS_20_DEC_2009 ,EDWMART        ,INTERNAL_PRODUCTS_20_DEC_2009 ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,INTERNAL_PRODUCTS_21_DEC_2009 ,EDWMART        ,INTERNAL_PRODUCTS_21_DEC_2009 ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,MMREAD         ,MEDIA_TYPES                   ,EDWMART        ,MEDIA_TYPES                   ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MEDIA_TYPES_19_DEC_2009       ,EDWMART        ,MEDIA_TYPES_19_DEC_2009       ,               ,SYNONYM
 PRODDW3       ,MMREAD         ,MEDIA_TYPES_20_DEC_2009       ,EDWMART        ,MEDIA_TYPES_20_DEC_2009       ,               ,SYNONYM
@@ -334,7 +310,6 @@ PRODDW3       ,PUBLIC         ,ALL_WORKSPACES                ,WMSYS          ,AL
 PRODDW3       ,PUBLIC         ,ALL_WORKSPACES_INTERNAL       ,WMSYS          ,ALL_WORKSPACES_INTERNAL       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,USER_WORKSPACE_PRIVS          ,WMSYS          ,USER_WORKSPACE_PRIVS          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_WORKSPACE_PRIVS           ,WMSYS          ,ALL_WORKSPACE_PRIVS           ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,USER_WM_VERSIONED_TABLES      ,WMSYS          ,USER_WM_VERSIONED_TABLES      ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_WM_VERSIONED_TABLES       ,WMSYS          ,ALL_WM_VERSIONED_TABLES       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,USER_WM_MODIFIED_TABLES       ,WMSYS          ,USER_WM_MODIFIED_TABLES       ,               ,SYNONYM
@@ -348,7 +323,6 @@ PRODDW3       ,PUBLIC         ,USER_WM_RIC_INFO              ,WMSYS          ,US
 PRODDW3       ,PUBLIC         ,ALL_WM_RIC_INFO               ,WMSYS          ,ALL_WM_RIC_INFO               ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_WM_LOCKED_TABLES          ,WMSYS          ,ALL_WM_LOCKED_TABLES          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,USER_WM_LOCKED_TABLES         ,WMSYS          ,USER_WM_LOCKED_TABLES         ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,ALL_VERSION_HVIEW             ,WMSYS          ,ALL_VERSION_HVIEW             ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,DBA_WORKSPACES                ,WMSYS          ,DBA_WORKSPACES                ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,DBA_WORKSPACE_SAVEPOINTS      ,WMSYS          ,DBA_WORKSPACE_SAVEPOINTS      ,               ,SYNONYM
@@ -362,7 +336,6 @@ PRODDW3       ,PUBLIC         ,WM$CURCONFLICT_NEXTVERS_VIEW  ,WMSYS          ,WM
 PRODDW3       ,PUBLIC         ,WM$PARCONFLICT_PARVERS_VIEW   ,WMSYS          ,WM$PARCONFLICT_PARVERS_VIEW   ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$PARCONFLICT_NEXTVERS_VIEW  ,WMSYS          ,WM$PARCONFLICT_NEXTVERS_VIEW  ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CURRENT_WORKSPACE_VIEW     ,WMSYS          ,WM$CURRENT_WORKSPACE_VIEW     ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,WM$PARENT_WORKSPACE_VIEW      ,WMSYS          ,WM$PARENT_WORKSPACE_VIEW      ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CURRENT_HIERARCHY_VIEW     ,WMSYS          ,WM$CURRENT_HIERARCHY_VIEW     ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$PARENT_HIERARCHY_VIEW      ,WMSYS          ,WM$PARENT_HIERARCHY_VIEW      ,               ,SYNONYM
@@ -376,7 +349,6 @@ PRODDW3       ,PUBLIC         ,WM$DIFF1_NEXTVER_VIEW         ,WMSYS          ,WM
 PRODDW3       ,PUBLIC         ,WM$DIFF2_NEXTVER_VIEW         ,WMSYS          ,WM$DIFF2_NEXTVER_VIEW         ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$BASE_NEXTVER_VIEW          ,WMSYS          ,WM$BASE_NEXTVER_VIEW          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CURRENT_VER_VIEW           ,WMSYS          ,WM$CURRENT_VER_VIEW           ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,WM$VER_BEF_INST_PARVERS_VIEW  ,WMSYS          ,WM$VER_BEF_INST_PARVERS_VIEW  ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$VER_BEF_INST_NEXTVERS_VIEW ,WMSYS          ,WM$VER_BEF_INST_NEXTVERS_VIEW ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_WM_VT_ERRORS              ,WMSYS          ,ALL_WM_VT_ERRORS              ,               ,SYNONYM
@@ -390,7 +362,6 @@ PRODDW3       ,PUBLIC         ,WM$TABLE_WS_PARVERS_VIEW      ,WMSYS          ,WM
 PRODDW3       ,PUBLIC         ,WM_REPLICATION_INFO           ,WMSYS          ,WM$REPLICATION_INFO           ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_INSTALLATION               ,WMSYS          ,WM_INSTALLATION               ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,DBMS_WM                       ,WMSYS          ,LT                            ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,PRODUCT_PROFILE               ,SYSTEM         ,PRODUCT_PRIVS                 ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,PRODUCT_USER_PROFILE          ,SYSTEM         ,PRODUCT_PRIVS                 ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$SNAPSHOT_ID             ,PERFSTAT       ,STATS$SNAPSHOT_ID             ,               ,SYNONYM
@@ -404,7 +375,6 @@ PRODDW3       ,PUBLIC         ,STATS$LATCH                   ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,STATS$LATCH_CHILDREN          ,PERFSTAT       ,STATS$LATCH_CHILDREN          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$LATCH_PARENT            ,PERFSTAT       ,STATS$LATCH_PARENT            ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$LATCH_MISSES_SUMMARY    ,PERFSTAT       ,STATS$LATCH_MISSES_SUMMARY    ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,STATS$LIBRARYCACHE            ,PERFSTAT       ,STATS$LIBRARYCACHE            ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$BUFFER_POOL_STATISTICS  ,PERFSTAT       ,STATS$BUFFER_POOL_STATISTICS  ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$ROLLSTAT                ,PERFSTAT       ,STATS$ROLLSTAT                ,               ,SYNONYM
@@ -418,7 +388,6 @@ PRODDW3       ,PUBLIC         ,STATS$SESSION_EVENT           ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,STATS$BG_EVENT_SUMMARY        ,PERFSTAT       ,STATS$BG_EVENT_SUMMARY        ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$WAITSTAT                ,PERFSTAT       ,STATS$WAITSTAT                ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$ENQUEUE_STAT            ,PERFSTAT       ,STATS$ENQUEUE_STAT            ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,STATS$SQL_SUMMARY             ,PERFSTAT       ,STATS$SQL_SUMMARY             ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$SQLTEXT                 ,PERFSTAT       ,STATS$SQLTEXT                 ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$SQL_STATISTICS          ,PERFSTAT       ,STATS$SQL_STATISTICS          ,               ,SYNONYM
@@ -432,7 +401,6 @@ PRODDW3       ,PUBLIC         ,STATS$SEG_STAT_OBJ            ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,STATS$PGASTAT                 ,PERFSTAT       ,STATS$PGASTAT                 ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$IDLE_EVENT              ,PERFSTAT       ,STATS$IDLE_EVENT              ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$PARAMETER               ,PERFSTAT       ,STATS$PARAMETER               ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,STATS$INSTANCE_RECOVERY       ,PERFSTAT       ,STATS$INSTANCE_RECOVERY       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$STATSPACK_PARAMETER     ,PERFSTAT       ,STATS$STATSPACK_PARAMETER     ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$SHARED_POOL_ADVICE      ,PERFSTAT       ,STATS$SHARED_POOL_ADVICE      ,               ,SYNONYM
@@ -446,7 +414,6 @@ PRODDW3       ,PUBLIC         ,STATS$BUFFERED_SUBSCRIBERS    ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,STATS$RULE_SET                ,PERFSTAT       ,STATS$RULE_SET                ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$OSSTATNAME              ,PERFSTAT       ,STATS$OSSTATNAME              ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$OSSTAT                  ,PERFSTAT       ,STATS$OSSTAT                  ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,STATS$PROCESS_ROLLUP          ,PERFSTAT       ,STATS$PROCESS_ROLLUP          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$PROCESS_MEMORY_ROLLUP   ,PERFSTAT       ,STATS$PROCESS_MEMORY_ROLLUP   ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$SGA_TARGET_ADVICE       ,PERFSTAT       ,STATS$SGA_TARGET_ADVICE       ,               ,SYNONYM
@@ -460,7 +427,6 @@ PRODDW3       ,PUBLIC         ,STATS$INSTANCE_CACHE_TRANSFER ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,STATS$JAVA_POOL_ADVICE        ,PERFSTAT       ,STATS$JAVA_POOL_ADVICE        ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$THREAD                  ,PERFSTAT       ,STATS$THREAD                  ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$FILE_HISTOGRAM          ,PERFSTAT       ,STATS$FILE_HISTOGRAM          ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,STATS$TEMP_HISTOGRAM          ,PERFSTAT       ,STATS$TEMP_HISTOGRAM          ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$EVENT_HISTOGRAM         ,PERFSTAT       ,STATS$EVENT_HISTOGRAM         ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,STATS$TIME_MODEL_STATNAME     ,PERFSTAT       ,STATS$TIME_MODEL_STATNAME     ,               ,SYNONYM
@@ -474,7 +440,6 @@ PRODDW3       ,PUBLIC         ,STATS$BUFFERED_QUEUES         ,PERFSTAT       ,ST
 PRODDW3       ,PUBLIC         ,WM_PERIOD                     ,WMSYS          ,WM_PERIOD                     ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_CONCAT                     ,WMSYS          ,WM_CONCAT                     ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_OVERLAPS                   ,WMSYS          ,WM_OVERLAPS                   ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,WM_INTERSECTION               ,WMSYS          ,WM_INTERSECTION               ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_LDIFF                      ,WMSYS          ,WM_LDIFF                      ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_RDIFF                      ,WMSYS          ,WM_RDIFF                      ,               ,SYNONYM
@@ -488,7 +453,6 @@ PRODDW3       ,PUBLIC         ,ALL_WM_CONSTRAINTS            ,WMSYS          ,AL
 PRODDW3       ,PUBLIC         ,USER_WM_IND_COLUMNS           ,WMSYS          ,USER_WM_IND_COLUMNS           ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_WM_IND_COLUMNS            ,WMSYS          ,ALL_WM_IND_COLUMNS            ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,USER_WM_IND_EXPRESSIONS       ,WMSYS          ,USER_WM_IND_EXPRESSIONS       ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,ALL_WM_IND_EXPRESSIONS        ,WMSYS          ,ALL_WM_IND_EXPRESSIONS        ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CONF1_HIERARCHY_VIEW       ,WMSYS          ,WM$CONF1_HIERARCHY_VIEW       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CONF2_HIERARCHY_VIEW       ,WMSYS          ,WM$CONF2_HIERARCHY_VIEW       ,               ,SYNONYM
@@ -502,7 +466,6 @@ PRODDW3       ,PUBLIC         ,ALL_WM_CONS_COLUMNS           ,WMSYS          ,AL
 PRODDW3       ,PUBLIC         ,WM$CURRENT_CHILD_VERSIONS_VIEW,WMSYS          ,WM$CURRENT_CHILD_VERSIONS_VIEW,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CURRENT_CHILD_NEXTVERS_VIEW,WMSYS          ,WM$CURRENT_CHILD_NEXTVERS_VIEW,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$BASE_VERSION_VIEW          ,WMSYS          ,WM$BASE_VERSION_VIEW          ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,WM$MW_VERSIONS_VIEW           ,WMSYS          ,WM$MW_VERSIONS_VIEW           ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$MW_NEXTVERS_VIEW           ,WMSYS          ,WM$MW_NEXTVERS_VIEW           ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM$CURRENT_CONS_VERSIONS_VIEW ,WMSYS          ,WM$CURRENT_CONS_VERSIONS_VIEW ,               ,SYNONYM
@@ -516,7 +479,6 @@ PRODDW3       ,PUBLIC         ,WM$MW_VERSIONS_VIEW_9I        ,WMSYS          ,WM
 PRODDW3       ,PUBLIC         ,WM$ALL_VERSION_HVIEW_WDEPTH   ,WMSYS          ,ALL_VERSION_HVIEW_WDEPTH      ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_COMPRESS_BATCH_SIZES       ,WMSYS          ,WM_COMPRESS_BATCH_SIZES       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,WM_COMPRESSIBLE_TABLES        ,WMSYS          ,WM_COMPRESSIBLE_TABLES        ,               ,SYNONYM
-SERVER_NAME   ,OWNER          ,SYNONYM_NAME                  ,TABLE_OWNER    ,TABLE_NAME                    ,DB_LINK        ,OBJECT_TYPE
 PRODDW3       ,PUBLIC         ,DBA_WM_VT_ERRORS              ,WMSYS          ,DBA_WM_VT_ERRORS              ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,USER_REMOVED_WORKSPACES       ,WMSYS          ,USER_REMOVED_WORKSPACES       ,               ,SYNONYM
 PRODDW3       ,PUBLIC         ,ALL_REMOVED_WORKSPACES        ,WMSYS          ,ALL_REMOVED_WORKSPACES        ,               ,SYNONYM
