@@ -1,0 +1,6 @@
+         c.segment_type
+            *
+ERRO na linha 17:
+ORA-00904: "C"."SEGMENT_TYPE": invalid identifier 
+
+
