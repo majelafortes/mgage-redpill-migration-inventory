@@ -4,9 +4,9 @@ cls
 Rem -- Variables Enviroment
 SET USER=snowflake
 SET PASS=snowflake
-SET SID=amidala
+SET SID=mercadogov
 SET VPATH=D:\mgage-redpill-migration-inventory\
-SET DATABASE=amidala
+SET DATABASE=mercadogov
 
 ECHO Carga Execução Mgage- Objetcs Database %DATABASE%
 
@@ -21,6 +21,7 @@ git add "oracle_synonym_%DATABASE%.csv"
 git add "oracle_procedure_%DATABASE%.csv"
 git add "oracle_db_link_%DATABASE%.csv"
 git add "oracle_sequence_%DATABASE%.csv"
+git add "oracle_views_%DATABASE%.csv"
 
 
 rem -- Commit %DATABASE%
