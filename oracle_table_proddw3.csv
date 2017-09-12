@@ -1,4 +1,5 @@
 SP2-0042: comando desconhecido "union all" - restante da linha ignorado.
+
 PRODDW3       ,AVAIL               ,TABLESPACE_HISTORY                      ,29/08/17,         0,       162,TABLE
 PRODDW3       ,AVAIL               ,TABLESPACE_MONITORING                   ,29/08/17,         0,         0,TABLE
 PRODDW3       ,AVAIL               ,RMAN_NOBACKUP_FILES                     ,29/08/17,         0,         0,TABLE
@@ -12,6 +13,7 @@ PRODDW3       ,AVAIL               ,KEEP_ARCH_AVG_HIST                      ,29/
 PRODDW3       ,AVAIL               ,OBJECT_VERSION                          ,29/08/17,         0,        18,TABLE
 PRODDW3       ,AVAIL               ,KNOWN_SYSTEM_SCHEMAS                    ,29/08/17,         0,        36,TABLE
 PRODDW3       ,AVAIL               ,KNOWN_DISABLED_CONSTRAINTS01            ,29/08/17,         0,        23,TABLE
+
 PRODDW3       ,AVAIL               ,KNOWN_LONG_RUNNING_JOBS                 ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_STATISTICS                    ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_RESPONSE_CONFIG                    ,29/08/17,         0,         0,TABLE
@@ -25,6 +27,7 @@ PRODDW3       ,DBSNMP              ,MGMT_BSLN_THRESHOLD_PARMS               ,29/
 PRODDW3       ,DBSNMP              ,MGMT_HISTORY                            ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_CAPTURE                            ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_SNAPSHOT                           ,29/08/17,         0,         0,TABLE
+
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_INTERVALS                     ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_BASELINES                     ,29/08/17,         0,         0,TABLE
 PRODDW3       ,DBSNMP              ,MGMT_BSLN_DATASOURCES                   ,29/08/17,         0,         0,TABLE
@@ -38,6 +41,7 @@ PRODDW3       ,EDWMART             ,RECON_SUMMARY_PV_28_OCT_2014            ,29/
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_04_SEP_2009               ,29/08/17,       520,   1475606,TABLE
 PRODDW3       ,EDWMART             ,VW_100DAYS_REFUNDS_15_NOV_2009          ,29/08/17,       408,   1137382,TABLE
 PRODDW3       ,EDWMART             ,VW_REFUND_DETAILS_29_OCT_2014           ,29/08/17,         0,         0,TABLE
+
 PRODDW3       ,EDWMART             ,SHORT_CODES_03_SEP_2009                 ,29/08/17,         0,      5644,TABLE
 PRODDW3       ,EDWMART             ,RDR_ZLMHJNQSWT                          ,29/08/17,         0,      2615,TABLE
 PRODDW3       ,EDWMART             ,CARRIERDETAIL_07_SEP_2009               ,29/08/17,       512,   1444023,TABLE
@@ -51,6 +55,7 @@ PRODDW3       ,EDWMART             ,ERRORS_10_SEP_2017                      ,11/
 PRODDW3       ,EDWMART             ,PROGRAMS_11_SEP_2017                    ,12/09/17,         3,      7800,TABLE
 PRODDW3       ,EDWMART             ,CONTENT_PROVIDERS_10_SEP_2017           ,11/09/17,         0,      1086,TABLE
 PRODDW3       ,EDWMART             ,MESSAGE_DIRECTION_11_SEP_2017           ,12/09/17,         0,         4,TABLE
+
 PRODDW3       ,EDWMART             ,MTH_DAILY_MEASURES_11_SEP_2017          ,12/09/17,     25059,  92341260,TABLE
 PRODDW3       ,EDWMART             ,CONTENT_PROVIDERS_11_SEP_2017           ,12/09/17,         0,      1086,TABLE
 PRODDW3       ,EDWMART             ,PROGRAMS_10_SEP_2017                    ,11/09/17,         3,      7895,TABLE
@@ -64,6 +69,7 @@ PRODDW3       ,EDWMART             ,CURRENCIES_11_SEP_2017                  ,12/
 PRODDW3       ,EDWMART             ,TOAD_PLAN_TABLE                         ,29/08/17,         1,         8,TABLE
 PRODDW3       ,EDWMART             ,IPCCUSTOMVALUE_09_SEP_2017              ,10/09/17,         2,     28900,TABLE
 PRODDW3       ,EDWMART             ,ERR_SRC_PROTOCOLS_09_SEP_2017           ,10/09/17,         0,        88,TABLE
+
 PRODDW3       ,EDWMART             ,MESSAGE_DIRECTION_09_SEP_2017           ,10/09/17,         0,         4,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_REGIONS_10_SEP_2017             ,11/09/17,         0,        41,TABLE
 PRODDW3       ,EDWMART             ,HOURS_09_SEP_2017                       ,10/09/17,         0,        25,TABLE
@@ -77,6 +83,7 @@ PRODDW3       ,EDWMART             ,PROGRAMS_09_SEP_2017                    ,10/
 PRODDW3       ,EDWMART             ,REV_PURCH_MODELS_11_SEP_2017            ,12/09/17,         0,         5,TABLE
 PRODDW3       ,EDWMART             ,VW_REFUND_DETAILS_28_OCT_2014           ,29/08/17,         0,         0,TABLE
 PRODDW3       ,EDWMART             ,MEDIA_TYPES_11_SEP_2017                 ,12/09/17,         0,         1,TABLE
+
 PRODDW3       ,EDWMART             ,ERRORS_09_SEP_2017                      ,10/09/17,         0,       519,TABLE
 PRODDW3       ,EDWMART             ,HOURS_10_SEP_2017                       ,11/09/17,         0,        25,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_REGIONS_11_SEP_2017             ,12/09/17,         0,        41,TABLE
@@ -90,6 +97,7 @@ PRODDW3       ,EDWMART             ,INTERNAL_PRODUCTS_09_SEP_2017           ,10/
 PRODDW3       ,EDWMART             ,INTERNAL_PRODUCTS_10_SEP_2017           ,11/09/17,         2,     25150,TABLE
 PRODDW3       ,EDWMART             ,MEDIA_TYPES_10_SEP_2017                 ,11/09/17,         0,         1,TABLE
 PRODDW3       ,EDWMART             ,CNTRY_SPEC_DATES_09_SEP_2017            ,10/09/17,         0,         0,TABLE
+
 PRODDW3       ,EDWMART             ,ERR_SRC_PROTOCOLS_11_SEP_2017           ,12/09/17,         0,        88,TABLE
 PRODDW3       ,EDWMART             ,CONTENT_TYPES_09_SEP_2017               ,10/09/17,         0,         1,TABLE
 PRODDW3       ,EDWMART             ,SCHEMA_PRIVILEGES_EXCEPTIONS            ,29/08/17,         0,         4,TABLE
@@ -103,6 +111,7 @@ PRODDW3       ,EDWMART             ,TIME_ZONES_09_SEP_2017                  ,10/
 PRODDW3       ,EDWMART             ,VW_REFUND_DETAILS_27_OCT_2014           ,29/08/17,         0,         0,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_PRODUCTS_11_SEP_2017            ,12/09/17,         2,     36550,TABLE
 PRODDW3       ,EDWMART             ,CARRIER_PRODUCTS_09_SEP_2017            ,10/09/17,         2,     36570,TABLE
+
 PRODDW3       ,EDWMART             ,CONTENT_TYPES_10_SEP_2017               ,11/09/17,         0,         1,TABLE
 PRODDW3       ,EDWMART             ,RFND_RPRT_RFND_RSN_28_OCT_2014          ,29/08/17,         0,        16,TABLE
 PRODDW3       ,EDWMART             ,RECON_SUMMARY_PV_29_OCT_2014            ,29/08/17,         1,      9082,TABLE
@@ -116,6 +125,7 @@ PRODDW3       ,EDWMART             ,RDR_QPKQTWMWGT                          ,29/
 PRODDW3       ,EDWMART             ,RFND_RPRT_RFND_RSN_27_OCT_2014          ,29/08/17,         0,        16,TABLE
 PRODDW3       ,EDWMART             ,MEDIA_TYPES_09_SEP_2017                 ,10/09/17,         0,         1,TABLE
 PRODDW3       ,EDWMART             ,P_11_SEP_2017                           ,12/09/17,         0,        21,TABLE
+
 PRODDW3       ,EDWMART             ,SHORT_CODES_07_SEP_2009                 ,29/08/17,         0,      5653,TABLE
 PRODDW3       ,EDWMART             ,MTH_DAILY_09_FEB_2010                   ,29/08/17,      4992,  20830548,TABLE
 PRODDW3       ,EDWMART             ,SHORT_CODES_08_SEP_2009                 ,29/08/17,         0,      5664,TABLE
@@ -129,6 +139,7 @@ PRODDW3       ,EDWMART             ,CARRIERDETAIL_08_SEP_2009               ,29/
 PRODDW3       ,EDWMART             ,DATES_09_SEP_2017                       ,10/09/17,         3,      5840,TABLE
 PRODDW3       ,OUTLN               ,OL$                                     ,22/10/08,         0,         0,TABLE
 PRODDW3       ,OUTLN               ,OL$HINTS                                ,22/10/08,         0,         0,TABLE
+
 PRODDW3       ,OUTLN               ,OL$NODES                                ,22/10/08,         0,         0,TABLE
 PRODDW3       ,TSMSYS              ,SRS$                                    ,29/08/17,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$NESTED_COLUMNS_TABLE                 ,22/10/08,         0,         0,TABLE
@@ -142,6 +153,7 @@ PRODDW3       ,WMSYS               ,WM$ADT_FUNC_TABLE                       ,22/
 PRODDW3       ,WMSYS               ,WM$VERSIONED_TABLES                     ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$EVENTS_INFO                          ,22/10/08,         0,        12,TABLE
 PRODDW3       ,WMSYS               ,WM$LOG_TABLE_ERRORS                     ,22/10/08,         0,         0,TABLE
+
 PRODDW3       ,WMSYS               ,WM$RIC_LOCKING_TABLE                    ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$RIC_TRIGGERS_TABLE                   ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$INSTEADOF_TRIGS_TABLE                ,22/10/08,         0,         0,TABLE
@@ -155,6 +167,7 @@ PRODDW3       ,WMSYS               ,WM$NEXTVER_TABLE                        ,22/
 PRODDW3       ,WMSYS               ,WM$WORKSPACES_TABLE                     ,22/10/08,         0,         1,TABLE
 PRODDW3       ,WMSYS               ,WM$MODIFIED_TABLES                      ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$SYSPARAM_ALL_VALUES                  ,22/10/08,         0,        27,TABLE
+
 PRODDW3       ,WMSYS               ,WM$RIC_TABLE                            ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$VT_ERRORS_TABLE                      ,22/10/08,         0,         0,TABLE
 PRODDW3       ,WMSYS               ,WM$MP_PARENT_WORKSPACES_TABLE           ,22/10/08,         0,         0,TABLE
