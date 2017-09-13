@@ -1,0 +1,6 @@
+       (select name from v$database  ) ||','||
+                                       *
+ERRO na linha 1:
+ORA-00933: SQL command not properly ended
+
+
