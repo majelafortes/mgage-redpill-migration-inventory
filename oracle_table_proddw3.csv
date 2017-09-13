@@ -1,4 +1,4 @@
-SP2-0734: início de comando desconhecido "union   al..." - restante da linha ignorado.
+server_name,owner,table_name,last_analyzed,size_mb,num_rows,object_type
 PRODDW3,EDWMART,ERR_SRC_PROTOCOLS_10_SEP_2017,11/09/17,0,88,TABLE
 PRODDW3,EDWMART,P_09_SEP_2017,10/09/17,0,21,TABLE
 PRODDW3,EDWMART,CARRIER_PYMT_SMRY_27_OCT_2014,29/08/17,392,3116451,TABLE
