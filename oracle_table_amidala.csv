@@ -648,13 +648,13 @@ AMIDALA  ,DIALOGSERVER                  ,BQS_SIMPLE_TRIGGERS           ,08/09/17
 AMIDALA  ,DIALOGSERVER                  ,BQS_SCHEDULER_STATE           ,08/09/17,        ,1,         1,TABLE
 AMIDALA  ,DIALOGSERVER                  ,SYS_IOT_OVER_25964            ,08/09/17,        ,1,         0,TABLE
 AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_BIGBRO_2010_07_08    ,08/09/17,         2,      4602,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGDATA                       ,08/09/17,       136,    916700,TABLE
+AMIDALA  ,DIALOGSERVER                  ,MMGDATA                       ,08/09/17,       232,    916700,TABLE
 AMIDALA  ,DIALOGSERVER                  ,BILLINGTRANS_09_JUL_2012      ,08/09/17,        ,1,         1,TABLE
 AMIDALA  ,DIALOGSERVER                  ,IPC_INSERT                    ,08/09/17,        ,1,       503,TABLE
 AMIDALA  ,DIALOGSERVER                  ,APPLICATIONREGISTRYAUDIT      ,08/09/17,        81,     10499,TABLE
 AMIDALA  ,DIALOGSERVER                  ,APPLICATION_REGISTRY          ,08/09/17,        10,      1441,TABLE
 AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHSTATUSCONTROL      ,08/09/17,        10,        31,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG                     ,08/09/17,  724973,4,1518712100,TABLE PARTITION
+AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG                     ,08/09/17,  726125,4,1518712100,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,DIALOGXMLLOG                  ,08/09/17,       1,4,         0,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,VZWSUBSCRIBERCLASS            ,08/09/17,        ,1,         1,TABLE
 AMIDALA  ,DIALOGSERVER                  ,VZWCATEGORY                   ,08/09/17,        ,1,         3,TABLE
@@ -765,9 +765,9 @@ AMIDALA  ,DIALOGSERVER                  ,DEVICE_DATA                   ,08/09/17
 AMIDALA  ,DIALOGSERVER                  ,BQS_CRON_TRIGGERS             ,08/09/17,        ,1,         3,TABLE
 AMIDALA  ,DIALOGSERVER                  ,BQS_TRIGGER_LISTENERS         ,08/09/17,        ,1,         0,TABLE
 AMIDALA  ,DIALOGSERVER                  ,SYS_IOT_OVER_25966            ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,CORRELATIONLOG                ,08/09/17,   13312,4, 147748800,TABLE PARTITION
+AMIDALA  ,DIALOGSERVER                  ,CORRELATIONLOG                ,08/09/17,   13344,4, 147748800,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100712,08/09/17,        ,1,        41,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMSDATA                       ,08/09/17,         6,      3690,TABLE
+AMIDALA  ,DIALOGSERVER                  ,MMSDATA                       ,08/09/17,        ,4,      3690,TABLE
 AMIDALA  ,DIALOGSERVER                  ,MMG1                          ,08/09/17,        ,4,      4326,TABLE
 AMIDALA  ,MMREAD                        ,CONNECTIONS                   ,29/08/17,        ,1,       517,TABLE
 AMIDALA  ,MMREAD                        ,TMP_VZW_4A6FAILURES           ,29/08/17,         1,      1732,TABLE
