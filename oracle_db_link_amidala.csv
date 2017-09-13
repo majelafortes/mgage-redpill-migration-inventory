@@ -1,6 +1,0 @@
-SERVER_NA,OWNER                         ,DB_LINK                                                                                                                         ,USERNAME                      ,OBJECT_TYPE
-AMIDALA  ,MMREAD                        ,TYPHO.MQUBE.COM                                                                                                                 ,BRAT                          ,DATABASE LINK
-AMIDALA  ,DIALOGSERVER                  ,TYPHO.MQUBE.US                                                                                                                  ,BILLING                       ,DATABASE LINK
-AMIDALA  ,REFUND_API                    ,TYPHO.MQUBE.US                                                                                                                  ,BRAT                          ,DATABASE LINK
-AMIDALA  ,DBADMIN                       ,TYPHO.MQUBE.US                                                                                                                  ,EDWADM                        ,DATABASE LINK
-AMIDALA  ,PUBLIC                        ,MSGDB6.MQUBE.US                                                                                                                 ,SMX                           ,DATABASE LINK

@@ -1,1025 +1,1025 @@
-SERVER_NA,OWNER                         ,TABLE_NAME                    ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
-AMIDALA  ,AVAIL                         ,OBJECT_VERSION                ,29/08/17,        ,1,        18,TABLE
-AMIDALA  ,AVAIL                         ,KEEP_ARCH_AVG_HIST            ,29/08/17,        ,1,         4,TABLE
-AMIDALA  ,AVAIL                         ,KNOWN_LONG_RUNNING_JOBS       ,29/08/17,        ,1,         3,TABLE
-AMIDALA  ,AVAIL                         ,AVAIL_TEST                    ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,AVAIL                         ,TABLESPACE_MONITORING         ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,AVAIL                         ,RMAN_BACKUP_SCHEDULE          ,29/08/17,        ,1,         2,TABLE
-AMIDALA  ,AVAIL                         ,TABLESPACE_HISTORY            ,29/08/17,        ,3,      4325,TABLE
-AMIDALA  ,AVAIL                         ,STARTUP_LOG                   ,29/08/17,        ,1,         1,TABLE
-AMIDALA  ,AVAIL                         ,TABLESPACE_OFFLINE            ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,AVAIL                         ,KNOWN_SYSTEM_SCHEMAS          ,29/08/17,        ,1,        36,TABLE
-AMIDALA  ,AVAIL                         ,KNOWN_DISABLED_CONSTRAINTS01  ,29/08/17,        ,1,        39,TABLE
-AMIDALA  ,AVAIL                         ,KNOWN_INVALID_OBJECTS         ,29/08/17,        ,1,       451,TABLE
-AMIDALA  ,AVAIL                         ,RMAN_NOBACKUP_FILES           ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,AVAIL                         ,FILE_NAME_SCAN                ,29/08/17,        ,1,       550,TABLE
-AMIDALA  ,BRAT                          ,SUBBILLING_CLEAN              ,12/09/17,         2,     12126,TABLE
-AMIDALA  ,BRAT                          ,SUBBILLING_AMIDALA_1          ,12/09/17,         8,     72460,TABLE
-AMIDALA  ,BRAT                          ,SUBBILLING_AMIDALA_1_CLEAN    ,12/09/17,         8,     72040,TABLE
-AMIDALA  ,BRAT                          ,SUBBILLING_DELETE_SUBS_AMIDALA,12/09/17,         2,     44020,TABLE
-AMIDALA  ,BRAT                          ,SUBBILLING_AMIDALA            ,12/09/17,         2,     12074,TABLE
-AMIDALA  ,BRAT                          ,TMP_SUBBILLING                ,12/09/17,         1,      4933,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,POLLRESPONSE                  ,12/09/17,        ,1,       195,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXELSPRINTFIX                ,12/09/17,        ,9,     19152,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOLOG                     ,12/09/17,      3757,  44352060,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CUSTBULKSENDMESSAGECONTROL    ,12/09/17,         5,     66810,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMEDIAPLAYERUSERAGENT    ,12/09/17,        ,1,       259,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONELOG               ,12/09/17,       216,   1516170,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_TRIGGERS                 ,12/09/17,         1,      1352,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_TRIGGER_LISTENERS      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FDUSERLISTBAK090906           ,12/09/17,        ,3,      1876,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONDELIVERYCOUNT     ,12/09/17,        ,6,      7210,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONECC_LOG            ,12/09/17,         3,     23894,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUNKISTPLAYER                 ,12/09/17,        ,5,      8172,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCAREFEATURES           ,12/09/17,        ,2,        45,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,PLAN_TABLE                    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REMYQUESTION                  ,12/09/17,        ,1,        77,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONSTATS             ,12/09/17,         2,     35430,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCAREMT                       ,12/09/17,      1280,   4659280,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURELIST             ,12/09/17,        ,5,        66,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURELIST2            ,12/09/17,        ,9,       182,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURESUSERAGENTS      ,12/09/17,        ,2,      1240,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOHANDSETDETAILS          ,12/09/17,        ,1,       163,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCONTENTMAPPING          ,12/09/17,        ,1,        39,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_JOB_LISTENERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_SIMPLE_TRIGGERS        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOETUBLACKLISTLOG         ,12/09/17,        ,1,        92,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_SIMPLE_TRIGGERS          ,12/09/17,        ,4,       982,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_TRIGGER_LISTENERS      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_FIRED_TRIGGERS         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_SCHEDULER_STATE        ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_CALENDARS              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWADBANNER        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ARAMARKOFFER                  ,12/09/17,        ,1,       174,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CHANNELTYPE                   ,12/09/17,         3,         6,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CLUSERALERT                   ,12/09/17,         2,     27770,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CSGREGISTRATION               ,12/09/17,        ,3,       163,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CTIASHOWALERTSUBSCRIBER       ,12/09/17,        ,3,       137,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DEPENDENCY                    ,12/09/17,        10,     35170,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGETYPETOTALSREPORT       ,12/09/17,        10,        13,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QUIZ                          ,12/09/17,        ,3,        49,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SERVICE_SMS_EMAIL             ,12/09/17,         3,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WHEELDATA                     ,12/09/17,         3,       233,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CAMPAIGNFLOW                  ,12/09/17,         7,      9181,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENTSUBSCRIBERRESP         ,12/09/17,        40,        14,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TESTCARL_MAX                  ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,HERBALALERT                   ,12/09/17,        ,1,        24,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,JEEPZIPCODE                   ,12/09/17,         2,     41350,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWADBANNER2       ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEW2               ,12/09/17,        ,6,        53,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONBLACKLISTLOG      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBGAMEUPDATE                 ,12/09/17,        ,4,      2312,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSORGMGMT2                   ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSUSERAPPLICATION            ,12/09/17,        ,4,      2079,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QUESTIONPOLL                  ,12/09/17,        ,1,         9,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTFCLOG                  ,12/09/17,     11712, 113562560,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONDELIVERYQUEUE     ,12/09/17,       207,   2506030,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMEDIAPLAYER2PRIORITY    ,12/09/17,         2,       269,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_JOB_LISTENERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_BLOB_TRIGGERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_CALENDARS              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_FIRED_TRIGGERS         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_TRIGGERS               ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOABADDBANNER             ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_FIRED_TRIGGERS         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOETULOG                  ,12/09/17,        ,3,      2596,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFABCONTACTS             ,12/09/17,         8,     48260,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VIRGINRATEPLANCACHE           ,12/09/17,      1409,    922090,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETUSERS                 ,12/09/17,        ,3,       781,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_JOB_DETAILS            ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCAREFEATURESSEGMENT_TMP,12/09/17,        ,1,       146,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CTIABIGEZRESPONSE             ,12/09/17,         3,       112,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGEDELIVERYREPORT         ,12/09/17,         3,       111,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SERVICE_CODE                  ,12/09/17,         3,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,T3REGISTRATION                ,12/09/17,         6,     53120,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPUSERTDR                    ,12/09/17,         2,     19674,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CHRISTDAILYSUBSCRIBER         ,12/09/17,        ,1,      1576,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BOOSTSUBSCRIBER               ,12/09/17,         2,     11079,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INLAFLASHREWARD               ,12/09/17,        ,1,        58,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INLAFLASHREWARDENTRY          ,12/09/17,        ,6,      6500,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DEVICE                        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPHEADER                     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MARKETWATCHSUBSCRIPTION       ,12/09/17,        ,1,       150,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MARKETWATCHALERT              ,12/09/17,        ,1,        16,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQALERT                       ,12/09/17,        ,7,      1917,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQSERVICECODE                 ,12/09/17,        ,1,        38,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCDATEGENERATOR              ,12/09/17,        ,1,        35,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCGIGGLESCOPE                ,12/09/17,        ,1,       372,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCHELLOTAROT                 ,12/09/17,        ,1,        62,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCPICKUPLINES                ,12/09/17,        ,1,       227,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBPROMOTION                  ,12/09/17,        ,1,       467,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTPLAYER            ,12/09/17,         3,     23701,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,KEYWORD                       ,12/09/17,        ,1,        15,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSACLCONFIG                  ,12/09/17,        ,1,        10,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ANSWERPOLL                    ,12/09/17,        ,1,        32,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,POLLCAMPAIGN                  ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGESTATUSDATA             ,12/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,CAMPAIGNAPP                   ,PROMOINABOXDISTRIBUTOR        ,12/09/17,        ,1,         6,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETLOG                   ,12/09/17,         6,     37860,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_TRIGGERS               ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CAMPAIGN                      ,12/09/17,         4,      9267,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CTIAREGISTRATION              ,12/09/17,         3,       482,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CTIASESSION                   ,12/09/17,        ,3,        53,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CTIASHOWALERT                 ,12/09/17,        ,3,       591,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CUMULATIVESTATEREPORT         ,12/09/17,        10,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,JAMNREGISTRATION              ,12/09/17,         3,      2525,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,OFFERGENERATION               ,12/09/17,        ,3,       979,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIBER_POINTS             ,12/09/17,         3,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CF2                           ,12/09/17,         3,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENTSESSIONDATA            ,12/09/17,        40,        12,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIBERLISTDATA            ,12/09/17,     37952, 313825680,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,POPTARTSALERT                 ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPCONTENT                    ,12/09/17,        ,1,        13,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPCONTENTITEM                ,12/09/17,        ,5,       383,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPSITE                       ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLOG$_SPONSORS                ,11/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CHRISTDAILYMESSAGE            ,12/09/17,        ,1,       377,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOBULKSEND                ,12/09/17,        ,1,        32,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONSACCOUNTLOG       ,12/09/17,      2320,  11148720,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXTELMMS                     ,12/09/17,        ,1,        57,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQREPORT                      ,12/09/17,        ,1,        58,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCLUVSCOPE                   ,12/09/17,        ,1,       372,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCRESCUERINGREMINDER         ,12/09/17,        ,1,        69,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCRRINGRREMINDTASK           ,12/09/17,         2,     13233,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BOOSTSUBSCRIBERPOINTS         ,12/09/17,        ,2,      5547,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BOOSTINSTANTPRIZE             ,12/09/17,        ,1,        26,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NASCARPROMO                   ,12/09/17,        ,1,        37,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCFRENCHPICKUPLINE           ,12/09/17,        ,1,        99,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SBSUBSCRIBERPLAY              ,12/09/17,         2,     34860,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ONPACKKEYS                    ,12/09/17,         8,     58460,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CHRISTDAILYGIFTS              ,12/09/17,        ,1,        16,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBTEAMLOOKUP                 ,12/09/17,        ,1,        48,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,PROMOINABOXDATING             ,12/09/17,        ,1,        11,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TXT2SCREENMSGLOG              ,12/09/17,        14,     84320,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TXT2SCREENCONFIG              ,12/09/17,        ,1,         6,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQPROGRAM                     ,12/09/17,        ,1,        20,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NOKIARR                       ,12/09/17,        ,1,       569,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,GETITTOGO                     ,12/09/17,         3,    154750,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWREGIONSELECTED  ,12/09/17,        ,1,        63,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOASSIGNMENT              ,12/09/17,        ,1,        56,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,OFFERDATA                     ,12/09/17,         3,      1532,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QMQUIZENTRY                   ,12/09/17,         2,      8459,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,RUNDOWNREGISTRATION           ,12/09/17,         3,      4670,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENTFILTER                 ,12/09/17,        10,       356,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TEXT4TUNES_PRIZES             ,12/09/17,        ,1,       326,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INLAFLASHREWARDPIN            ,12/09/17,        ,4,      5298,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NASCARSUBSCRIBERCHOICE        ,12/09/17,         2,     25780,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BRIDALTIP                     ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONLEDGER            ,12/09/17,        ,1,       594,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONACCOUNT           ,12/09/17,        37,    181450,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBTEAMNAME                   ,12/09/17,        ,1,        31,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOSOCFEATURE              ,12/09/17,        40,    184630,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMODISCOUNTFEATURE         ,12/09/17,       152,    996410,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQALERTSTATUS                 ,12/09/17,        14,    163880,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCFASHIONFORWARD             ,12/09/17,        ,1,        31,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSOLOSUBS                    ,12/09/17,         2,     22629,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSOLOSUBSWORK                ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NESQUIKPLAYER                 ,12/09/17,         4,     57020,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CATCHAG6                      ,12/09/17,         2,     13302,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBMESSAGES                   ,12/09/17,         2,      9089,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,POLLQN                        ,12/09/17,        ,1,        79,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INSTANTWINNER                 ,12/09/17,        ,1,       590,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,PROMOINABOXTRIVIA             ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INSTANTPOLLCONFIG             ,12/09/17,        ,1,        95,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INSTANTPOLLPARTICIPANT        ,12/09/17,        49,    597970,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDDISTRIBUTIONUSERLIST      ,12/09/17,      3351,  30489760,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MILLERPIN                     ,12/09/17,        96,   5970960,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMWSAPILOG                    ,12/09/17,      2897,  13595140,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FORDREDEMPTION                ,12/09/17,        ,2,      3863,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOVIDEOHANDSET            ,12/09/17,        ,1,        22,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REMYINTERACTIONLOG            ,12/09/17,        ,6,      9356,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCAREIVR                      ,12/09/17,       152,    945840,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWSEGMENT         ,12/09/17,        ,1,       393,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SOURPATCH                     ,12/09/17,        ,6,      6542,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTFCERRORCODE            ,12/09/17,        ,1,        81,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCAREFEATURESSEGMENT    ,12/09/17,        ,2,       972,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMORPTEMP                  ,12/09/17,        ,3,       168,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMORATEPLAN                ,12/09/17,         8,      3061,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCUSTOMERINFO            ,12/09/17,        22,    122070,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_TRIGGERS               ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMPROVINCETAX                 ,12/09/17,        ,1,        10,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_PAUSED_TRIGGER_GRPS    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_SCHEDULER_STATE        ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOUSERPROFILE             ,12/09/17,        ,1,        40,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMESSAGECONFIG           ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSLOGIN                      ,12/09/17,        ,1,       202,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFABCONTACTSLIST         ,12/09/17,        72,    453290,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMO_FAB_ASSOSIATION        ,12/09/17,        59,    447030,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_JOB_DETAILS              ,12/09/17,         5,      6551,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_FIRED_TRIGGERS           ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,OFFERREDEMPTION               ,12/09/17,        ,1,        38,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,OFFERSTAGEDLOCAL              ,12/09/17,        ,1,        20,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REGISTERONGO                  ,12/09/17,        ,1,        33,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REPORT                        ,12/09/17,        10,       411,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPCONTENTLIST                ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,USWEEKLYSTORY                 ,12/09/17,        ,1,       210,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NASCARSUBSCRIBER              ,12/09/17,        ,3,      2707,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ATTRIBUTE                     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DEVICECAPABILITY              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOAOC                     ,12/09/17,        ,1,         9,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONCONTENT           ,12/09/17,        ,1,        62,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXTELMMSBLOB                 ,12/09/17,        ,1,        87,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCPEPTALK                    ,12/09/17,        ,1,        31,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SONYALERTSSUBSLOG             ,12/09/17,        ,1,      1153,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CATCHAG6RINGTONEREG           ,12/09/17,        ,1,       576,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSLOGIN2                     ,12/09/17,        ,1,       209,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,POLLCHOICE                    ,12/09/17,        ,1,       239,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SPRINTWINNERS                 ,12/09/17,        ,1,         7,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQSWEEPSSUBSCRIBER            ,12/09/17,         2,     13437,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IFUNTRANSACTION               ,12/09/17,        ,3,       330,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,USNSUBSCRIBER                 ,12/09/17,        ,1,        36,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TESTTAB                       ,12/09/17,        80,    533700,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMEDIAPLAYER             ,12/09/17,        ,6,        90,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMORATEPLANCACHE           ,12/09/17,      1886,    877330,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCAREUSERSESSION              ,12/09/17,        64,    143640,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCAREFAQ                ,12/09/17,        ,1,       100,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SOURPATCHREMINDER             ,12/09/17,        ,1,      1542,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTRANSPORTFEECHARGE      ,12/09/17,      8234,  53542450,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTFCDUPLICATES           ,12/09/17,       104,    816390,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONEUSERS             ,12/09/17,         9,     26720,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONEUSERDTLS_LOG      ,12/09/17,         7,     50040,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONEFEATURES          ,12/09/17,        48,    167390,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCUSTOMERMESSAGETEMP     ,12/09/17,        17,     37760,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCUSTOMERMESSAGE         ,12/09/17,        72,    161500,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_PAUSED_TRIGGER_GRPS    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_BLOB_TRIGGERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOETUBLACKLIST            ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURELISTADDBANNER    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOAMEOBJECT               ,12/09/17,       216,     90510,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_JOB_LISTENERS            ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_PAUSED_TRIGGER_GRPS      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCARECATEGRORY          ,12/09/17,        ,1,        13,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MYTABLE                       ,12/09/17,         3,        70,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ATTRIBUTEDEFINITION           ,12/09/17,         7,    136780,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CURRENTSTATEREPORT            ,12/09/17,        10,         7,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INODE                         ,12/09/17,        19,     72220,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGESUMMARYREPORT          ,12/09/17,         3,         8,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGETIMELINEREPORT         ,12/09/17,        10,        59,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QMQUIZ                        ,12/09/17,        ,1,       146,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REPLYNWIN                     ,12/09/17,        ,1,        66,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REPLYNWINDELIVERYTIMES        ,12/09/17,        ,1,        66,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SPONSORS                      ,12/09/17,         3,         4,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENT                       ,12/09/17,      4160,  11595090,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MEDIATYPE                     ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLOG$_INODE                   ,11/09/17,        41,    337030,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTMARKET            ,12/09/17,        ,1,        19,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDDATA                      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SONYALERTSSUBSCRIBER          ,12/09/17,        ,1,       388,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSUSERORGANIZATION           ,12/09/17,        ,1,       213,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSLOGIN2LOGS                 ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBPLAYERS                    ,12/09/17,        ,4,     10877,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCWEIRDNEWS                  ,12/09/17,        ,1,        62,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCCELEBRITYDIRT              ,12/09/17,        ,1,        62,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DEVICEPROFILE                 ,12/09/17,       128,    372350,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCARE                   ,12/09/17,        ,5,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQSWEEPS                      ,12/09/17,        ,1,        20,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMNOPAYSUBS                   ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOSELFSERVEFAQ            ,12/09/17,        ,7,       140,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCAREMO                       ,12/09/17,       347,   2299520,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SESSIONDATA                   ,12/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURESSEGMENT         ,12/09/17,        ,2,      1815,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTCAREFEATURES2          ,12/09/17,        ,3,        76,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONEUSERDTLS          ,12/09/17,         4,     30780,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_JOB_DETAILS            ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMPROVINCEMAP                 ,12/09/17,        ,1,        13,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_LOCKS                  ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_CRON_TRIGGERS            ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_TRIGGER_LISTENERS        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMRTPHONEFEATURETEMP        ,12/09/17,        ,1,        48,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETFEATURES              ,12/09/17,        ,4,      1232,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_CALENDARS              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_PAUSED_TRIGGER_GRPS    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_CRON_TRIGGERS          ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMEDIAPLAYER2            ,12/09/17,        ,1,        41,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ARAMARKOFFERDATA              ,12/09/17,         7,     33130,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,OFFER                         ,12/09/17,         3,        67,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENT_TEST                  ,12/09/17,         3,       246,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPFORMAT                     ,12/09/17,        ,1,        19,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPSITECONTENT                ,12/09/17,        ,1,        10,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,WAPREQUESTCTXT                ,12/09/17,        ,8,     16908,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TELUSKEYWORD                  ,12/09/17,        ,1,       592,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CHRISTDAILYPRAYER             ,12/09/17,        ,1,        95,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,LADDER49_PRIZES               ,12/09/17,        ,1,       202,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DEVICECARRIER                 ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOAOCPRIORITY             ,12/09/17,        ,1,        22,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONCONTENTROUTING    ,12/09/17,        ,1,       281,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQREGISTRY                    ,12/09/17,        ,1,        14,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,VMCCLASSICSCOPE               ,12/09/17,        ,1,       732,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDCATEGORY                  ,12/09/17,        ,1,      1024,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTALERT             ,12/09/17,        ,1,        69,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SBSUBSCRIBER                  ,12/09/17,        ,9,      5322,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SBGAMEPLAY                    ,12/09/17,        ,1,        46,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,USCELLULARATTACHMENT          ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CATCHAG6ATTACHMENT            ,12/09/17,        17,     25740,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLBSUBSCRIBERS                ,12/09/17,         2,     17857,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXTELMMPOLLQUESTION          ,12/09/17,        ,1,        19,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONDELIVERYLOG       ,12/09/17,       398,   5206490,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONDELIVERYPREF      ,12/09/17,         2,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INLAPARTICIPANT               ,12/09/17,        ,3,      2368,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONECC                ,12/09/17,         7,     30820,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTLOSER             ,12/09/17,         1,     10275,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWAPCONTENT              ,12/09/17,        ,2,        11,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,INSTANTPRIZE                  ,12/09/17,        ,1,       492,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REMYSUBSCRIBER                ,12/09/17,        ,1,       228,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CUSTBULKSENDMESSAGES          ,12/09/17,     12859,  58176490,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOFEATURECATEGORY         ,12/09/17,        ,1,        30,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCCBLACKLISTLOG          ,12/09/17,        ,5,      7383,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWUSERAGENT       ,12/09/17,        ,1,       526,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMSMARTPHONEUSERS_LOG         ,12/09/17,        42,    196610,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_SIMPLE_TRIGGERS        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_CRON_TRIGGERS          ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_TRIGGER_LISTENERS      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_SCHEDULER_STATE        ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_JOB_DETAILS            ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_CRON_TRIGGERS          ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,APPLICATIONREGISTRY           ,12/09/17,        ,1,       334,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSORGMGMT                    ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOSSLOG                   ,12/09/17,     11424,  54706210,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETUSERS_LOG             ,12/09/17,         2,      5192,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETUSERSADDRESS_LOG      ,12/09/17,        ,1,       897,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BTQRTZ_LOCKS                  ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_SIMPLE_TRIGGERS        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_BLOB_TRIGGERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,ARAMARKOFFERREDEMPTION        ,12/09/17,        ,1,        48,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,REPORTCAMPAIGN                ,12/09/17,         3,       415,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SEGMENTLIST                   ,12/09/17,         3,     28740,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SIMPLEATTRIBUTEREPORT         ,12/09/17,         3,       113,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUPPORT_PROGRAMINFO           ,12/09/17,         3,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,USWEEKLYSUBSCRIBER            ,12/09/17,         2,     35470,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXTELSBPOLL                  ,12/09/17,        ,1,        15,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NASCARDRIVERSPOINTS           ,12/09/17,        ,1,      2331,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIPTIONBLACKLIST         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MLOG$_FEEDDELIVERY            ,        ,      2027,          ,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MAXIMEVENT                    ,12/09/17,        ,1,       367,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOSUBS                    ,12/09/17,       200,   2536800,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,IQALERTSERVICE                ,12/09/17,        ,1,       152,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDCONFIG                    ,12/09/17,        ,2,        64,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDDELIVERY                  ,12/09/17,       864,   6138770,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FEEDDISTRIBUTION              ,12/09/17,        ,1,      1010,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTWINNER            ,12/09/17,        ,3,      2373,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,FLASHCONCERTSEGMENT           ,12/09/17,        ,1,        56,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SBSUBSCRIBERPRIZECODE         ,12/09/17,        ,3,      3205,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,USCELLULAR                    ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BOOSTSUBSCRIBERPOINTS02MAR05  ,12/09/17,        ,1,       541,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSACLLIST                    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,DWANGOVOTER                   ,12/09/17,         2,     25980,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,NEXTELMMPOLL                  ,12/09/17,        ,1,        19,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,PROMOINABOXSUBSCRIBER         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCARESUBSCRIBERS              ,12/09/17,         5,     41970,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCREDITCARDLOG           ,12/09/17,        96,   1112410,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCCBLACKLIST             ,12/09/17,        ,1,       254,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,SUBSCRIBERRESPDATA            ,12/09/17,       528,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOWHATSNEWAREALIST        ,12/09/17,         2,         3,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOSERVERSTATUSLOG         ,12/09/17,         5,    180250,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOTFCSTATUS               ,12/09/17,        ,1,         9,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOCUSTOMERINFOTEMP        ,12/09/17,         4,     23466,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCQRTZ_LOCKS                  ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMPROVINCENPA                 ,12/09/17,        ,1,       331,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BELLMOMESSAGEUSERS            ,12/09/17,        ,1,        79,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MMSUSERMANAGER                ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_BLOB_TRIGGERS            ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_CALENDARS                ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_SCHEDULER_STATE          ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,QRTZ_LOCKS                    ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETUSERSADDRESS          ,12/09/17,        ,1,       709,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BMTABLETSECRETQUESTIONS       ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,BCQRTZ_JOB_LISTENERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,TCARELOG                      ,12/09/17,       168,   2302500,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,CAMPAIGNTYPE                  ,12/09/17,         3,        10,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,GROUPEDATTRIBUTEREPORT        ,12/09/17,         3,         2,TABLE
-AMIDALA  ,CAMPAIGNAPP                   ,MESSAGETYPEREPORT             ,12/09/17,        10,        93,TABLE
-AMIDALA  ,CAMPAIGNS                     ,VW_CAMPAIGN_PARTICIPATION     ,12/09/17,        20,     74560,TABLE
-AMIDALA  ,CAMPAIGNS                     ,VW_STATE_DURATION_FACT        ,12/09/17,       168,    564860,TABLE
-AMIDALA  ,CAMPAIGNS                     ,PLAN_TABLE                    ,12/09/17,        ,2,       291,TABLE
-AMIDALA  ,CAMPAIGNS                     ,WORKFLOWHISTORY_CLEAN         ,12/09/17,       112,    580260,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMWHITELISTING           ,12/09/17,        11,     94460,TABLE
-AMIDALA  ,CMPADMIN                      ,CUSTOMVALUE                   ,12/09/17,        ,1,       258,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_VARIABLEINSTANCE_NAV_1098,12/09/17,        ,1,       886,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTDEFINITION              ,12/09/17,        ,1,        34,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS_SF04327854           ,12/09/17,        ,1,       406,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSETCONNECTION           ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULERRETRY                ,12/09/17,        ,1,        16,TABLE
-AMIDALA  ,CMPADMIN                      ,TASKS                         ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMLOB                    ,12/09/17,         2,      6032,TABLE
-AMIDALA  ,CMPADMIN                      ,ROUTINGRULECONNGROUP          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_PROCESSINSTANCE          ,12/09/17,        ,3,      6437,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TOKEN                    ,12/09/17,        10,    128050,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_SWIMLANE                 ,12/09/17,        ,1,        11,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODE                     ,12/09/17,        ,5,      4704,TABLE
-AMIDALA  ,CMPADMIN                      ,MTGLOBALTEMPLATE              ,12/09/17,        ,1,        20,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERIDMAP                  ,12/09/17,        ,1,         8,TABLE
-AMIDALA  ,CMPADMIN                      ,RSTS_AUDIT                    ,12/09/17,         8,     45050,TABLE
-AMIDALA  ,CMPADMIN                      ,ALLOWEDSYSTEM                 ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSCHEDULERPARAM          ,12/09/17,        ,1,         8,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULERSTATUS               ,12/09/17,         2,      7052,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_VARIABLEINSTANCE_NAV_1103,12/09/17,        ,2,      1843,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_EXELOG_NAV_1103          ,12/09/17,        ,1,      1820,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS_SF04796021_TRY2      ,12/09/17,        ,1,       559,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMPRODUCT                ,12/09/17,         3,     20877,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERCONTENTTYPE            ,12/09/17,        ,1,        92,TABLE
-AMIDALA  ,CMPADMIN                      ,REASONCODE                    ,12/09/17,        ,1,        52,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSETFAMILYMEMBER         ,12/09/17,        ,1,        15,TABLE
-AMIDALA  ,CMPADMIN                      ,ORGANIZATIONSERVICETYPE       ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,SUBSCRIPTIONPRODUCT           ,12/09/17,         7,     10228,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TRANSITION               ,12/09/17,        ,1,        88,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_EXELOG_NAV_1104          ,12/09/17,        ,1,       904,TABLE
-AMIDALA  ,CMPADMIN                      ,ORGROUTING                    ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSETMEMBER               ,12/09/17,        ,1,        69,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTDATERESTRICTION         ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTPARAMGROUP              ,12/09/17,        ,1,       217,TABLE
-AMIDALA  ,CMPADMIN                      ,IQUSER                        ,12/09/17,        ,4,      2161,TABLE
-AMIDALA  ,CMPADMIN                      ,IQGROUP                       ,12/09/17,        ,1,        13,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TOKEN_NAV_1103           ,12/09/17,        ,2,      1843,TABLE
-AMIDALA  ,CMPADMIN                      ,SF04796021_TEMP_TRY2          ,12/09/17,        ,4,      8015,TABLE
-AMIDALA  ,CMPADMIN                      ,PRODUCTCODERULE               ,12/09/17,        ,1,        57,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSETFAMILYORGMAPPING     ,12/09/17,        ,1,      1063,TABLE
-AMIDALA  ,CMPADMIN                      ,ORGANIZATION                  ,12/09/17,        ,3,      1082,TABLE
-AMIDALA  ,CMPADMIN                      ,ROUTINGRULE                   ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_INVOKELOG                ,12/09/17,       104,   1680230,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_VARIABLE                 ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_ACTION                   ,12/09/17,        ,1,       205,TABLE
-AMIDALA  ,CMPADMIN                      ,EMAILCAMPAIGN                 ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,CPCOVERRIDE                   ,12/09/17,        ,1,         6,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODE_GUIDS               ,12/09/17,        ,2,      1440,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODEURLTYPE              ,12/09/17,        ,1,        11,TABLE
-AMIDALA  ,CMPADMIN                      ,COMMENTHISTORY                ,12/09/17,         7,     49090,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCARRIER_NAV_1068           ,12/09/17,         3,     67820,TABLE
-AMIDALA  ,CMPADMIN                      ,OUTPUTFORMAT                  ,12/09/17,        ,1,         9,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTINVOCATION              ,12/09/17,        ,1,        43,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_NAV_1129_2                ,12/09/17,        ,1,       841,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSETFAMILY               ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMREASSIGNMENT           ,12/09/17,         6,     44090,TABLE
-AMIDALA  ,CMPADMIN                      ,PROMOTIONDETAIL               ,12/09/17,         2,      7561,TABLE
-AMIDALA  ,CMPADMIN                      ,CONNECTION                    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,TRANSFORMER                   ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TYPE                     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEMA_PRIVILEGES_EXCEPTIONS  ,12/09/17,        ,1,        54,TABLE
-AMIDALA  ,CMPADMIN                      ,MTCARRIERTEMPLATE             ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCARRIERCONFIGURATION       ,12/09/17,         5,     46960,TABLE
-AMIDALA  ,CMPADMIN                      ,SF04327854_TEMP               ,12/09/17,        ,1,      2223,TABLE
-AMIDALA  ,CMPADMIN                      ,BILLINGINTERVALS              ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,RST_UPDTS                     ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,USERALLOWEDSYSTEM             ,12/09/17,        ,2,      4149,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULERDELIVERYMETHOD       ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCARRIER                    ,12/09/17,         6,    145850,TABLE
-AMIDALA  ,CMPADMIN                      ,RULEDEFINITION                ,12/09/17,        ,1,        84,TABLE
-AMIDALA  ,CMPADMIN                      ,ORGANIZATIONROLE              ,12/09/17,        ,2,      1100,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMPRICEPOINT             ,12/09/17,        ,8,      7831,TABLE
-AMIDALA  ,CMPADMIN                      ,SUBSCRIPTIONPRODUCTCONTENTTYPE,12/09/17,        ,1,       170,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_VARIABLEINSTANCE         ,12/09/17,        36,    408290,TABLE
-AMIDALA  ,CMPADMIN                      ,WORKFLOWHISTORY_NAV_1104      ,12/09/17,        ,3,       904,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TOKEN_NAV_1098           ,12/09/17,        ,1,       886,TABLE
-AMIDALA  ,CMPADMIN                      ,WORKFLOWHISTORY_NAV_1098      ,12/09/17,        ,3,       886,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_EXELOG_NAV_1098          ,12/09/17,        ,1,       886,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTRESTRICTION             ,12/09/17,        ,1,        46,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODEURL                  ,12/09/17,        ,3,      2448,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERCONFIGURATION          ,12/09/17,        ,1,        52,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTPARAMCUSTOMVALUE        ,12/09/17,        ,1,         5,TABLE
-AMIDALA  ,CMPADMIN                      ,USERGROUP                     ,12/09/17,        ,2,      2241,TABLE
-AMIDALA  ,CMPADMIN                      ,GROUPGROUP                    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,WORKFLOWHISTORY_NAV_1103      ,12/09/17,        ,4,      1843,TABLE
-AMIDALA  ,CMPADMIN                      ,SF04888060_TEMP               ,12/09/17,        ,1,       650,TABLE
-AMIDALA  ,CMPADMIN                      ,SF04796021_TEMP1              ,12/09/17,        ,6,     12110,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_NAV_1129_1                ,12/09/17,        ,1,       784,TABLE
-AMIDALA  ,CMPADMIN                      ,PRODUCTCODEBEHAVIOR_CR        ,12/09/17,        ,1,         7,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_ORG_NAV_1129_1            ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,CMPADMIN                      ,RULEOVERRIDE                  ,12/09/17,        ,1,        10,TABLE
-AMIDALA  ,CMPADMIN                      ,CSCRESERVATION                ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,SUBSCRIPTIONOVERRIDEMESSAGE   ,12/09/17,        ,1,       772,TABLE
-AMIDALA  ,CMPADMIN                      ,BILLINGBEHAVIOR               ,12/09/17,        ,1,        17,TABLE
-AMIDALA  ,CMPADMIN                      ,PRODUCTCODEBEHAVIOR           ,12/09/17,        15,    122420,TABLE
-AMIDALA  ,CMPADMIN                      ,WORKFLOWOWNERHISTORY          ,12/09/17,         7,     59530,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMTYPE                   ,12/09/17,        16,      9320,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAMCUSTOMVALUE            ,12/09/17,        41,    279070,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_EXELOG                   ,12/09/17,       552,   6030820,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEMA_PRIVILEGES             ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODE_RSTS                ,12/09/17,        ,4,      1610,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS                      ,12/09/17,         2,      8470,TABLE
-AMIDALA  ,CMPADMIN                      ,CURRENCYCODES                 ,12/09/17,        ,1,        37,TABLE
-AMIDALA  ,CMPADMIN                      ,REGION                        ,12/09/17,        ,1,        40,TABLE
-AMIDALA  ,CMPADMIN                      ,WORKFLOWHISTORY               ,12/09/17,       144,    795310,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_DEFINITION               ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_JOB                      ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_NODE                     ,12/09/17,        ,1,        60,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_SEQUENCEBLOCK            ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODEEMAIL                ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_VARIABLEINSTANCE_NAV_1104,12/09/17,        ,1,       904,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCARRIER_NAV_1104           ,12/09/17,         3,     64660,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_INVOKELOG_NAV_1098       ,12/09/17,        ,1,       886,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERENCODING               ,12/09/17,        ,1,        28,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_ORG_NAV_1129_2            ,12/09/17,        ,1,         8,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERBILLINGINTERVALSEXCLS  ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCUSTOMVALUE                ,12/09/17,         2,     28790,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCONFIG_DBO_887_ROLLBACK    ,12/09/17,        ,1,        31,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSCHEDULER               ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULERINTERVALDETAIL       ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULEREVENTFLAG            ,12/09/17,        ,1,        42,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_ROLLBACK_CR3937_IPC_RSTS  ,12/09/17,        ,4,      2575,TABLE
-AMIDALA  ,CMPADMIN                      ,ORG_RSTS                      ,12/09/17,        ,1,       217,TABLE
-AMIDALA  ,CMPADMIN                      ,BKUP_SENDME_IPC_SUB_MIGRATION ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TOKEN_NAV_1104           ,12/09/17,        ,1,       904,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_INVOKELOG_NAV_1104       ,12/09/17,        ,1,       904,TABLE
-AMIDALA  ,CMPADMIN                      ,RPT_755_ORGANIZATION_ROLLBACK ,12/09/17,        ,3,       787,TABLE
-AMIDALA  ,CMPADMIN                      ,ORGANIZATIONWHITELISTING      ,12/09/17,        ,1,       375,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTPARAM                   ,12/09/17,        ,1,        16,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCONFIG_DBO_878_ROLLBACK    ,12/09/17,        ,1,       666,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTHISTORY                 ,12/09/17,       144,    524220,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTFAVORITEPARAM           ,12/09/17,        ,2,      1030,TABLE
-AMIDALA  ,CMPADMIN                      ,DATERANGE                     ,12/09/17,        ,1,         9,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTDEFINITION_BACKUP       ,12/09/17,        ,1,        29,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEDULERINTERVAL             ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,DELIVERYMETHOD                ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS_PRE_ROLLBACK         ,12/09/17,         2,     12555,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTSET                     ,12/09/17,        ,1,        15,TABLE
-AMIDALA  ,CMPADMIN                      ,TASKSAUDIT                    ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,CMPADMIN                      ,CSCCAMPAIGNERROR              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCC_NAV_1109                ,12/09/17,        ,3,      2258,TABLE
-AMIDALA  ,CMPADMIN                      ,SCHEMAVERSION                 ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODEALIAS                ,12/09/17,        ,5,      3682,TABLE
-AMIDALA  ,CMPADMIN                      ,REPORTFAVORITE                ,12/09/17,        ,1,       212,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_INVOKELOG_NAV_1103       ,12/09/17,        ,2,      1820,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS_SF04796021           ,12/09/17,        ,1,       559,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_TRUEDIGIT_MM_SHORTCODE    ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,CMPADMIN                      ,TMP_TRUEDIGIT_MM              ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCV_TMOACM_ROLLBACK         ,12/09/17,         2,     20876,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODERESERVATION          ,12/09/17,        ,9,      4861,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERPRODUCTCODE            ,12/09/17,         3,     35850,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERBILLINGBEHAVIOR        ,12/09/17,        ,1,       140,TABLE
-AMIDALA  ,CMPADMIN                      ,PROGRAM                       ,12/09/17,         4,      7652,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODEUSAGE                ,12/09/17,         2,      7846,TABLE
-AMIDALA  ,CMPADMIN                      ,SHORTCODERECEIPT              ,12/09/17,         2,      5094,TABLE
-AMIDALA  ,CMPADMIN                      ,CONNECTIONGROUP               ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,CARRIERPARTICIPATION          ,12/09/17,        19,    116470,TABLE
-AMIDALA  ,CMPADMIN                      ,ROUTINGRULETRANSFORMER        ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_FILE                     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_DELEGATION               ,12/09/17,        ,1,       221,TABLE
-AMIDALA  ,CMPADMIN                      ,JBPM_TASK                     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,CMPADMIN                      ,EVENTFLAG                     ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,CMPADMIN                      ,IPC_RSTS_SF04888060           ,12/09/17,         2,      8519,TABLE
-AMIDALA  ,CMPADMIN                      ,SF04796021_TEMP               ,12/09/17,        ,6,     12285,TABLE
-AMIDALA  ,CMPADMIN                      ,IPCCV_VZWSCM_ROLLBACK         ,12/09/17,         2,     20128,TABLE
-AMIDALA  ,CMPADMIN                      ,INTERNALPRODUCTCODE           ,12/09/17,         4,     25330,TABLE
-AMIDALA  ,DBADMIN                       ,ALARMEMAILDIST                ,29/08/17,        ,1,         6,TABLE
-AMIDALA  ,DBADMIN                       ,MDRPARTITION                  ,29/08/17,        15,    104004,TABLE
-AMIDALA  ,DBADMIN                       ,CONNECTIONS                   ,29/08/17,        ,1,       652,TABLE
-AMIDALA  ,DBADMIN                       ,DB_ADMIN_NAME_STANDARDS       ,29/08/17,        ,1,         1,TABLE
-AMIDALA  ,DBADMIN                       ,SCHEMA_PRIVILEGES_EXCEPTIONS  ,29/08/17,        ,1,         2,TABLE
-AMIDALA  ,DBADMIN                       ,SCHEMA_PRIVILEGES             ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBADMIN                       ,APPLICATION_REGISTRYTEST      ,29/08/17,        10,         4,TABLE
-AMIDALA  ,DBADMIN                       ,MDRADMIN                      ,29/08/17,        ,1,        38,TABLE
-AMIDALA  ,DBADMIN                       ,SCHEMA_REVISION               ,29/08/17,        ,1,       426,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_LATEST                   ,29/08/17,        ,1,         1,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_HISTORY                  ,29/08/17,        ,1,        25,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_BASELINES           ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_SNAPSHOT_SQL             ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BASELINE_SQL             ,29/08/17,        ,1,        17,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_LATEST_SQL               ,29/08/17,        ,1,         9,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_RESPONSE_CONFIG          ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_CAPTURE                  ,29/08/17,        ,1,         2,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_SNAPSHOT                 ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_STATISTICS          ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_METRICS             ,29/08/17,        ,1,        15,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_CAPTURE_SQL              ,29/08/17,        ,1,        24,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_HISTORY_SQL              ,29/08/17,        ,1,       217,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_THRESHOLD_PARMS     ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_INTERVALS           ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BSLN_DATASOURCES         ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,DBSNMP                        ,MGMT_BASELINE                 ,29/08/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGDEFAULT             ,08/09/17,        81,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWFILECONTROL                ,08/09/17,       288,   1454100,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MLOG$_DIALOGSERVICE           ,02/11/12,         7,     52173,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMSUBSCRIBERCHARGE       ,08/09/17,      2048,  36425400,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_04_SEP_2005         ,08/09/17,       328,    703300,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_TMP                  ,08/09/17,       163,    426400,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHPENDING            ,08/09/17,        80,    239799,TABLE
-AMIDALA  ,DIALOGSERVER                  ,EST_NEW_1                     ,08/09/17,         2,     19327,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VOTING_VZW_CING               ,08/09/17,        ,7,     16580,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMMESSAGE_TEMP           ,08/09/17,        12,    143596,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTH_ITV1              ,08/09/17,        ,9,      4999,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_BSGW_733             ,08/09/17,         2,      3210,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMQAMSISDN               ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100711    ,08/09/17,        ,1,        84,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTH_MSG_SEPT_PAID     ,08/09/17,        36,     89357,TABLE
-AMIDALA  ,DIALOGSERVER                  ,APPLICATION_REGISTRY_0221     ,08/09/17,        ,2,      1156,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_JOB_DETAILS               ,08/09/17,        ,1,         3,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_TRIGGERS                  ,08/09/17,        ,1,         3,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMG                           ,08/09/17,       821,   1713300,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SYNIVERSE1                    ,08/09/17,        ,3,      7688,TABLE
-AMIDALA  ,DIALOGSERVER                  ,OPTIN                         ,08/09/17,       512,   3198400,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,PROGRAMTRGSTATSLOG            ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGADMIN               ,08/09/17,        81,         9,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWPRODUCTCATEGORY            ,08/09/17,        ,1,        19,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DIALOGMSGLOG                  ,08/09/17,      41,4,     18989,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,CONNECTION                    ,08/09/17,        ,1,       277,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MULTIPARTMESSAGE              ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_DOND_SEPT18          ,08/09/17,        96,    236151,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DQA_PREMIUM_TOTALS            ,08/09/17,        ,1,       109,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMX_25                        ,08/09/17,        16,     32143,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DUP_MINS2                     ,08/09/17,        ,3,      5428,TABLE
-AMIDALA  ,DIALOGSERVER                  ,QPASSWAPPRODUCT               ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_PREM                  ,08/09/17,        61,    153146,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_TEMP     ,08/09/17,       136,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,EST_NEW                       ,08/09/17,         2,     20074,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROLBWS       ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_TEMP2    ,08/09/17,         3,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100711,08/09/17,        ,1,        84,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_PAUSED_TRIGGER_GRPS       ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PLAN_TABLE                    ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SYNIVERSE                     ,08/09/17,        ,3,      7714,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SYNDEL                        ,08/09/17,        ,3,      3526,TABLE
-AMIDALA  ,DIALOGSERVER                  ,AQUA_EXPLAIN_363190680        ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DIALOGSERVICE                 ,08/09/17,        10,      7731,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DIALOGSERVICEHISTORY          ,08/09/17,        39,     77128,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMBILLING                ,08/09/17,       2,1,      3974,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,DIALOGBULKLOG                 ,08/09/17,     376,1,   1737400,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,VZWMDN                        ,08/09/17,         6,    138285,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWCATEGORYPRICEPLAN          ,08/09/17,        ,1,        18,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MDN                           ,08/09/17,         3,     84172,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_K_TEMP   ,08/09/17,       960,   2293200,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMPVZW                        ,08/09/17,         1,     23970,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMMESSAGE                ,12/09/17,        ,8,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_26_AUG_2005         ,08/09/17,       568,   1143800,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VOTELOG_TEMP_1                ,08/09/17,        22,    520200,TABLE
-AMIDALA  ,DIALOGSERVER                  ,STUDIOSMXMSGLOG               ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,PST_NEW_1                     ,08/09/17,        ,2,      1756,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PST_NEW                       ,08/09/17,        ,2,      1849,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SCHEMA_PRIVILEGES             ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_SIMPLE_TRIGGERS           ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_SCHEDULER_STATE           ,08/09/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SYS_IOT_OVER_25964            ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_BIGBRO_2010_07_08    ,08/09/17,         2,      4602,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGDATA                       ,08/09/17,       232,    916700,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BILLINGTRANS_09_JUL_2012      ,08/09/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,IPC_INSERT                    ,08/09/17,        ,1,       503,TABLE
-AMIDALA  ,DIALOGSERVER                  ,APPLICATIONREGISTRYAUDIT      ,08/09/17,        81,     10499,TABLE
-AMIDALA  ,DIALOGSERVER                  ,APPLICATION_REGISTRY          ,08/09/17,        10,      1441,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHSTATUSCONTROL      ,08/09/17,        10,        31,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG                     ,08/09/17,  729773,4,1518712100,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,DIALOGXMLLOG                  ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,VZWSUBSCRIBERCLASS            ,08/09/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWCATEGORY                   ,08/09/17,        ,1,         3,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWPRODUCT                    ,08/09/17,        ,1,        49,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWPRICEPLAN                  ,08/09/17,        ,1,        75,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWREVENUESHAREDETAIL         ,08/09/17,       472,   2704000,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOGTST                  ,08/09/17,        ,4,       780,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_OPERA_LOOKUP              ,08/09/17,        ,1,       239,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_TEMP_FRI2,08/09/17,        ,3,       541,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_PED_LOOKUP                ,08/09/17,        ,1,       357,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMLOG                    ,08/09/17,        72,    207839,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SESSIONCLEANUP                ,08/09/17,         1,     11140,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_MAX                  ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROLITV       ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_TEMP_THUR,08/09/17,        72,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSG_SEPT24                 ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_TEMP1    ,08/09/17,        24,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_TRANS                     ,08/09/17,        ,1,       760,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTH_MSG_SEPT_RENEWALS ,08/09/17,        38,     80930,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SCHEMA_PRIVILEGES_EXCEPTIONS  ,08/09/17,        ,1,         4,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_BLOB_TRIGGERS             ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BULKSENDREQUEST               ,08/09/17,       256,    752600,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PROGRAMIVRSTATSLOG            ,08/09/17,       5,1,      1518,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,SMPPDELIVERY                  ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,TASKS                         ,08/09/17,        19,      1634,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DIALOGTXLOG                   ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,DIALOGSUBMITTAGLOG            ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,NPASPLIT                      ,08/09/17,        ,1,       388,TABLE
-AMIDALA  ,DIALOGSERVER                  ,APPBILLINGPROPERTIES          ,08/09/17,       1,1,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,OPTINSTATE                    ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMCAP                    ,08/09/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DIALOGSERVICEHIST             ,08/09/17,        ,5,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PROGRAMTRGSTATSLOG_04_SEP_2005,08/09/17,        24,     82883,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMPPDELIVERY_04_SEP_2005      ,08/09/17,        11,     46288,TABLE
-AMIDALA  ,DIALOGSERVER                  ,CARRIER_SPID_MAP              ,08/09/17,        ,1,      1411,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMX_22_JUN_2005               ,08/09/17,         8,     17304,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_27_AUG_2005         ,08/09/17,       544,   1141700,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100710    ,08/09/17,        ,1,        91,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BWSINSTANCE                   ,08/09/17,        ,1,         2,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MDRPARTITION_OLD              ,08/09/17,         4,     23501,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZW_BACKBILL_BIGBRO_2010_07_08,08/09/17,         5,      4602,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_JOB_LISTENERS             ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_CALENDARS                 ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100713    ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100714,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100714    ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZW_BACKBILL_BIGBRO_2010_07_09,08/09/17,        ,3,       221,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TASKSAUDIT                    ,08/09/17,        10,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWPRODUCTCATEGORYAUDIT       ,08/09/17,        10,        59,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG                     ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,CARRIER_ERROR_CODES           ,08/09/17,        ,1,       578,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TIME                          ,08/09/17,        ,2,      2557,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_FIX_TEMP             ,08/09/17,        ,3,      4515,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TASKS_BCK                     ,08/09/17,        ,8,      4969,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMTST                    ,08/09/17,        ,1,       125,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOGTST                  ,08/09/17,        ,7,      1560,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXLOG_MS           ,08/09/17,        51,    130970,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL_EXPORT   ,08/09/17,       440,   1128400,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100710,08/09/17,        ,1,        91,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100715,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BELLMOABADDBANNER             ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_FIRED_TRIGGERS            ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_LOCKS                     ,08/09/17,        ,1,         5,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100713,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE_BIGBRO_2010_07_09    ,08/09/17,        ,1,       221,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100712    ,08/09/17,        ,1,        41,TABLE
-AMIDALA  ,DIALOGSERVER                  ,REVERSETRANSACTION            ,08/09/17,       6,1,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,OPTINHISTORY                  ,08/09/17,      2183,  13851200,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGDEFAULTAUDIT        ,08/09/17,        10,         3,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGUSAGE               ,08/09/17,      40,1,     92503,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,VZWPRODUCTCATEGORYPROGRAM     ,08/09/17,        10,         9,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SHORTCODEMASTER               ,08/09/17,        ,1,       612,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWPRODUCTPRICE               ,08/09/17,        ,1,        98,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWREVENUESHARE               ,08/09/17,        ,1,       219,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_K_TEMP              ,08/09/17,       968,   1829600,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXMICRO            ,08/09/17,        ,1,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,DQA_MDR_TOTALS                ,08/09/17,        ,1,       340,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBACKBILLING                ,08/09/17,        ,1,       130,TABLE
-AMIDALA  ,DIALOGSERVER                  ,COMPAREHOURS                  ,08/09/17,        ,1,       516,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWSMPPBILLINGTAG             ,08/09/17,        ,1,        21,TABLE
-AMIDALA  ,DIALOGSERVER                  ,ABC                           ,08/09/17,       1,2,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_25_AUG_2005         ,08/09/17,       744,   1489700,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DUP_MESSAGES                  ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,STUDIOSMXMSGLOG_MAX           ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWUSAGE                      ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,MDRADMIN_OLD                  ,08/09/17,        ,1,        29,TABLE
-AMIDALA  ,DIALOGSERVER                  ,ALARMEMAILDIST_OLD            ,08/09/17,        10,         6,TABLE
-AMIDALA  ,DIALOGSERVER                  ,RSTEVENT                      ,08/09/17,       9,5,     36926,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,BILLINGTRANSACTION            ,08/09/17,       6,1,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,MMGDELIVERED                  ,08/09/17,        ,8,      3340,TABLE
-AMIDALA  ,DIALOGSERVER                  ,QPASSWAP                      ,08/09/17,        10,        92,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SESSIONS                      ,08/09/17,     44662, 119872400,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SUBSCRIBER                    ,08/09/17,      3456,  46445600,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGCODE                ,08/09/17,        81,        19,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWBILLINGCODEAUDIT           ,08/09/17,        10,        19,TABLE
-AMIDALA  ,DIALOGSERVER                  ,VZWACCOUNTINGPOLICY           ,08/09/17,        ,1,         1,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DEVICEROUTING                 ,08/09/17,        ,1,        67,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHTXCONTROL          ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,TMP_TABLE                     ,08/09/17,        ,3,      3885,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SMXMSGLOG_MS                  ,08/09/17,         7,     12797,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMG2                          ,08/09/17,       895,   1707100,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTH_ITV               ,08/09/17,        11,      5000,TABLE
-AMIDALA  ,DIALOGSERVER                  ,PAUTHBWS_MAX                  ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZWUSAGE_BIGBRO_100715    ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG_SEPT28              ,08/09/17,       784,   2170400,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMSMOPROGRAM                  ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,DEVICE_DATA                   ,08/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,BQS_CRON_TRIGGERS             ,08/09/17,        ,1,         3,TABLE
-AMIDALA  ,DIALOGSERVER                  ,BQS_TRIGGER_LISTENERS         ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,SYS_IOT_OVER_25966            ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,CORRELATIONLOG                ,08/09/17,   13448,4, 147748800,TABLE PARTITION
-AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100712,08/09/17,        ,1,        41,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMSDATA                       ,08/09/17,        ,4,      3690,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMG1                          ,08/09/17,        ,4,      4326,TABLE
-AMIDALA  ,MMREAD                        ,CONNECTIONS                   ,29/08/17,        ,1,       517,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_4A6FAILURES           ,29/08/17,         1,      1732,TABLE
-AMIDALA  ,MMREAD                        ,TMP_TXTWIRE_APR_2011          ,29/08/17,       128,    235026,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZWUSAGE                  ,29/08/17,        53,    133896,TABLE
-AMIDALA  ,MMREAD                        ,TMP_WAPMSGS_SENT              ,29/08/17,         8,    209696,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_SUB_MIGRATE_FINAL_BKUP,29/08/17,       408,    882022,TABLE
-AMIDALA  ,MMREAD                        ,TMP_FUNMO_MIGRAT_1999         ,29/08/17,        20,     57119,TABLE
-AMIDALA  ,MMREAD                        ,SCM_IPCS                      ,29/08/17,        ,1,       666,TABLE
-AMIDALA  ,MMREAD                        ,SF04888060_TEMP               ,29/08/17,        ,1,       650,TABLE
-AMIDALA  ,MMREAD                        ,TMP_ATT_1999_999_CLEANUP      ,29/08/17,        ,2,       339,TABLE
-AMIDALA  ,MMREAD                        ,TMP_JAY_SUBS_JJF2             ,29/08/17,         2,      4219,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZWUSAGE_2                ,29/08/17,         6,     13707,TABLE
-AMIDALA  ,MMREAD                        ,PLAN_TABLE                    ,29/08/17,        ,2,        34,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_ALLFAILURES           ,29/08/17,       152,    270689,TABLE
-AMIDALA  ,MMREAD                        ,MAPPING_TABLE                 ,29/08/17,        ,1,         4,TABLE
-AMIDALA  ,MMREAD                        ,TOAD_PLAN_TABLE               ,29/08/17,        ,2,       167,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_PAUTH_JAN_2010_2      ,29/08/17,         6,     13707,TABLE
-AMIDALA  ,MMREAD                        ,TMP_WAPMESSAGES               ,29/08/17,         3,     15957,TABLE
-AMIDALA  ,MMREAD                        ,TMP_SENDME_MIGRATION          ,29/08/17,        ,9,      2242,TABLE
-AMIDALA  ,MMREAD                        ,TMP_SENDME_TMOBILE_REDO       ,29/08/17,         7,     17946,TABLE
-AMIDALA  ,MMREAD                        ,TMP_EXPORT                    ,29/08/17,        ,4,       858,TABLE
-AMIDALA  ,MMREAD                        ,SUBSCRIPTION_TMP              ,29/08/17,       136,    391980,TABLE
-AMIDALA  ,MMREAD                        ,TMP_SUBSPEND_TMO3PG_MAY2010   ,29/08/17,        ,1,       671,TABLE
-AMIDALA  ,MMREAD                        ,TMP_MUSTAFA_SCS_JJF           ,29/08/17,        ,2,      1651,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_SUB_MIGRATE_FINAL     ,29/08/17,       176,    393262,TABLE
-AMIDALA  ,MMREAD                        ,SCM_IPCS_PART2                ,29/08/17,        ,1,        25,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_PAUTH_JAN_2010        ,29/08/17,        59,    134912,TABLE
-AMIDALA  ,MMREAD                        ,TMP_SUBTOOL_OUTPUT            ,29/08/17,         2,      5926,TABLE
-AMIDALA  ,MMREAD                        ,MM_ATT_MIGRATE_36903_1999     ,29/08/17,         1,      2890,TABLE
-AMIDALA  ,MMREAD                        ,TMP_77970_USCC_MIGRATION      ,29/08/17,        ,1,       244,TABLE
-AMIDALA  ,MMREAD                        ,DONATION_PERFORMANCE          ,29/08/17,        ,1,         2,TABLE
-AMIDALA  ,MMREAD                        ,TMP_ONTARIO_MIGRATION         ,29/08/17,         2,     41644,TABLE
-AMIDALA  ,MMREAD                        ,TMP_JAY_SUBS_JJF              ,29/08/17,         3,      6625,TABLE
-AMIDALA  ,MMREAD                        ,TMP_MM_ACK_DROPS_DEC_2010     ,29/08/17,        10,     36192,TABLE
-AMIDALA  ,MMREAD                        ,TMP_VZW_PAUTH_JAN_2010_ORIG   ,29/08/17,        51,    133584,TABLE
-AMIDALA  ,MMREAD                        ,TMP_ATT_1999_999_CLEANUP_1999 ,29/08/17,        ,3,       498,TABLE
-AMIDALA  ,MMREAD                        ,MMREAD_SUBSCRIPTION           ,29/08/17,       647,   2075072,TABLE
-AMIDALA  ,MMSGW                         ,MMSGWLOG_20160909             ,12/09/17,        ,1,        19,TABLE
-AMIDALA  ,MMSGW                         ,MMSMOPROGRAM                  ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MMSGW                         ,MMSGWLOG                      ,12/09/17,    1208,4,   2662890,TABLE PARTITION
-AMIDALA  ,MMSGW                         ,MMSGWLOG_BADMSG_20160114      ,12/09/17,        39,     88300,TABLE
-AMIDALA  ,MMSGW                         ,MMSGWLOG_20150912             ,12/09/17,      1472,   2966900,TABLE
-AMIDALA  ,MMSGW                         ,BAD_TRANS                     ,12/09/17,        13,    327540,TABLE
-AMIDALA  ,MMSGW                         ,MMSCCARRIER                   ,12/09/17,        ,1,        15,TABLE
-AMIDALA  ,MMSGW                         ,MMSGWLOG_20160912_DATA        ,12/09/17,        ,9,      2438,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_CRON_TRIGGERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,OPTIN                         ,12/09/17,        ,1,        12,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_BLOB_TRIGGERS          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_LOCKS                  ,12/09/17,        ,1,         2,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_CALENDARS              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,OPTIN_EVENT                   ,12/09/17,       3,3,         0,TABLE PARTITION
-AMIDALA  ,MTRUST                        ,QUARTZ_SIMPLE_TRIGGERS        ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_SIMPROP_TRIGGERS       ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_PAUSED_TRIGGER_GRPS    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_FIRED_TRIGGERS         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_SCHEDULER_STATE        ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_TRIGGERS               ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,MTRUST                        ,QUARTZ_JOB_DETAILS            ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,NMGMT                         ,CARRIERSHORTCODEUSAGEAUDIT    ,08/09/17,         1,      3107,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODEBEHAVIORAUDIT      ,08/09/17,         3,     35500,TABLE
-AMIDALA  ,NMGMT                         ,SVCCODERESERVATIONAUDIT       ,08/09/17,         1,      3042,TABLE
-AMIDALA  ,NMGMT                         ,SVCEMAILUSAGE                 ,08/09/17,         1,       664,TABLE
-AMIDALA  ,NMGMT                         ,SHORTCODETRANSLATION          ,08/09/17,        ,1,       316,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODERESERVATION        ,08/09/17,         1,        54,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODEUSAGEAUDIT         ,08/09/17,        ,1,        69,TABLE
-AMIDALA  ,NMGMT                         ,CARRIERPRODUCTCODEAUDIT       ,08/09/17,         4,     33060,TABLE
-AMIDALA  ,NMGMT                         ,SVCCODEUSAGEAUDIT             ,08/09/17,         7,     44930,TABLE
-AMIDALA  ,NMGMT                         ,SVCEMAILUSAGEAUDIT            ,08/09/17,         3,     11394,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODEBEHAVIOR           ,08/09/17,         2,     19219,TABLE
-AMIDALA  ,NMGMT                         ,SUBSCRIBERSHORTCODE           ,08/09/17,         2,     38660,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODERESERVATIONAUDIT   ,08/09/17,        ,1,        45,TABLE
-AMIDALA  ,NMGMT                         ,CARRIERPRODUCTCODE            ,08/09/17,         3,     17892,TABLE
-AMIDALA  ,NMGMT                         ,SVCCODERESERVATION            ,08/09/17,         1,      1224,TABLE
-AMIDALA  ,NMGMT                         ,CPC_KEN                       ,08/09/17,        ,1,        26,TABLE
-AMIDALA  ,NMGMT                         ,CARRIERSHORTCODEUSAGE         ,08/09/17,         1,      2067,TABLE
-AMIDALA  ,NMGMT                         ,SHORTCODETRANSLATIONAUDIT     ,08/09/17,        ,3,      1198,TABLE
-AMIDALA  ,NMGMT                         ,SVCCODEUSAGE                  ,08/09/17,         1,      3774,TABLE
-AMIDALA  ,NMGMT                         ,SVCEMAILRESERVATION           ,08/09/17,         1,       321,TABLE
-AMIDALA  ,NMGMT                         ,SVCEMAILRESERVATIONAUDIT      ,08/09/17,         1,       447,TABLE
-AMIDALA  ,NMGMT                         ,PRODUCTCODEUSAGE              ,08/09/17,         1,        54,TABLE
-AMIDALA  ,OUTLN                         ,OL$                           ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,OUTLN                         ,OL$HINTS                      ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,OUTLN                         ,OL$NODES                      ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SEG_STAT                ,29/08/17,      4288,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LEVEL_DESCRIPTION       ,29/08/17,        ,1,         5,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$FILESTATXS              ,29/08/17,       136,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQL_PLAN_USAGE          ,29/08/17,       864,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PGASTAT                 ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LATCH                   ,29/08/17,        63,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SYSSTAT                 ,29/08/17,        36,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SHARED_POOL_ADVICE      ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$EVENT_HISTOGRAM         ,29/08/17,       112,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PROPAGATION_SENDER      ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$BUFFERED_SUBSCRIBERS    ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$ENQUEUE_STATISTICS      ,29/08/17,         8,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SNAPSHOT                ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$JAVA_POOL_ADVICE        ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$FILE_HISTOGRAM          ,29/08/17,       344,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$TEMP_HISTOGRAM          ,29/08/17,         4,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQLTEXT                 ,29/08/17,         7,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PARAMETER               ,29/08/17,        25,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$INSTANCE_RECOVERY       ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LATCH_MISSES_SUMMARY    ,29/08/17,        72,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$BUFFER_POOL_STATISTICS  ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$ROLLSTAT                ,29/08/17,        33,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SGASTAT                 ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SYSTEM_EVENT            ,29/08/17,        18,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SYS_TIME_MODEL          ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$OSSTATNAME              ,29/08/17,         1,        11,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SGA_TARGET_ADVICE       ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$MUTEX_SLEEP             ,29/08/17,         3,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$IDLE_EVENT              ,29/08/17,        ,1,        70,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$DLM_MISC                ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$STATSPACK_PARAMETER     ,29/08/17,        ,1,         1,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$TEMPSTATXS              ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SGA                     ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PGA_TARGET_ADVICE       ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$THREAD                  ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$STREAMS_APPLY_SUM       ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PROCESS_MEMORY_ROLLUP   ,29/08/17,         6,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQL_SUMMARY             ,29/08/17,      1024,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$UNDOSTAT                ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$TIME_MODEL_STATNAME     ,29/08/17,         1,        19,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PROCESS_ROLLUP          ,29/08/17,         3,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$BG_EVENT_SUMMARY        ,29/08/17,         5,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQL_STATISTICS          ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQL_PLAN                ,29/08/17,         8,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$DATABASE_INSTANCE       ,29/08/17,         1,         6,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SESSTAT                 ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$BUFFERED_QUEUES         ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$RULE_SET                ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$WAITSTAT                ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$CR_BLOCK_SERVER         ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$INSTANCE_CACHE_TRANSFER ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SEG_STAT_OBJ            ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$DB_CACHE_ADVICE         ,29/08/17,         3,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LATCH_CHILDREN          ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LATCH_PARENT            ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$LIBRARYCACHE            ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$ROWCACHE_SUMMARY        ,29/08/17,         5,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SQL_WORKAREA_HISTOGRAM  ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SESS_TIME_MODEL         ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$STREAMS_CAPTURE         ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$PROPAGATION_RECEIVER    ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$OSSTAT                  ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$STREAMS_POOL_ADVICE     ,29/08/17,         2,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$DYNAMIC_REMASTER_STATS  ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$SESSION_EVENT           ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$RESOURCE_LIMIT          ,29/08/17,         1,         0,TABLE
-AMIDALA  ,PERFSTAT                      ,STATS$CURRENT_BLOCK_SERVER    ,29/08/17,         1,         0,TABLE
-AMIDALA  ,SMSGW                         ,SMSGWCONNECTIONLOG            ,12/09/17,       595,   6342870,TABLE PARTITION
-AMIDALA  ,SMSGW                         ,CONNECTION                    ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,MULTIPARTMESSAGE              ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,SHORTCODETRANSLATION          ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,ROUTEFILTER                   ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,SUBSCRIBERSHORTCODE           ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,ROUTE                         ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMSGW                         ,SHORTCODETRANSLATIONAUDIT     ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_OCNWORK                   ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_CARRIEROCN_CR_6029        ,12/09/17,        ,1,       191,TABLE
-AMIDALA  ,SMX                           ,OLD_LANDLINE_CARRIEROCN       ,12/09/17,        ,1,       137,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGADMIN                 ,12/09/17,        ,1,         1,TABLE
-AMIDALA  ,SMX                           ,OLD_LNPOCNCACHEAUDIT          ,12/09/17,       288,   5493350,TABLE
-AMIDALA  ,SMX                           ,OLD_OCNBACKUP                 ,12/09/17,         2,     14321,TABLE
-AMIDALA  ,SMX                           ,OLD_ROUTINGRANGEAUDIT         ,12/09/17,       104,    775900,TABLE
-AMIDALA  ,SMX                           ,OLD_CARRIER                   ,12/09/17,         5,       114,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGROUTINGRANGE          ,12/09/17,       208,   1570070,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGCATEGORY              ,12/09/17,         5,        14,TABLE
-AMIDALA  ,SMX                           ,OLD_SPIDCHECK                 ,12/09/17,        ,1,      1252,TABLE
-AMIDALA  ,SMX                           ,OLD_ROUTINGRANGEBACKUP        ,12/09/17,       224,   1660820,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGROUTINGWORK           ,12/09/17,         1,      1954,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGCITYTRANSLATION       ,12/09/17,        ,1,         3,TABLE
-AMIDALA  ,SMX                           ,OLD_CARRIEROCN_NLU_255        ,12/09/17,        ,1,       175,TABLE
-AMIDALA  ,SMX                           ,OLD_ALTROUTINGRANGE           ,12/09/17,        ,1,       103,TABLE
-AMIDALA  ,SMX                           ,OLD_OCN_BACKUP                ,12/09/17,        ,3,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_ROUTINGRANGE              ,12/09/17,     227,1,   1670640,TABLE PARTITION
-AMIDALA  ,SMX                           ,OLD_LINERANGE                 ,12/09/17,         2,     29540,TABLE
-AMIDALA  ,SMX                           ,OLD_LERGROUTINGRANGEAUDIT     ,12/09/17,       592,   4459740,TABLE
-AMIDALA  ,SMX                           ,OLD_ALTROUTINGADMIN           ,12/09/17,        ,1,         8,TABLE
-AMIDALA  ,SMX                           ,OLD_OCNBACK                   ,12/09/17,         5,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_CARRIEROCN                ,12/09/17,         5,       886,TABLE
-AMIDALA  ,SMX                           ,OLD_OCN                       ,12/09/17,         5,     14411,TABLE
-AMIDALA  ,SMX                           ,OLD_NPAWORK                   ,12/09/17,         1,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_OCNERROR                  ,12/09/17,         5,         0,TABLE
-AMIDALA  ,SMX                           ,OLD_MYOCN                     ,12/09/17,        ,1,        50,TABLE
-AMIDALA  ,SMX                           ,OLD_LNPOCNCACHE               ,12/09/17,     792,1,  14180440,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBBILLINGHISTORY             ,12/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBBILLING_BKUP               ,12/09/17,        13,     92120,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBMGMTACTIVITY               ,12/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBSCRIPTIONEVENTLOG          ,12/09/17,       1,4,         0,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBSCRIPTION                  ,12/09/17,      1646,    560400,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBSCRIPTIONCONTENTTYPE       ,12/09/17,         1,        16,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBBILLING                    ,20/07/12,       136,    704750,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,PLAN_TABLE                    ,20/07/12,        ,1,         0,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,TMP_SUBBILLING_BACKUP         ,12/09/17,         9,     69440,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,IDENTITYCOOKIES               ,20/07/12,       1,1,         3,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBSCRIPTION_BKUP             ,12/09/17,        11,     44180,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,TMP_USCC_77970_SUBS           ,20/07/12,        ,1,      2359,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBCARRIERACTION              ,20/07/12,        ,3,     12266,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,TMP_SUB_VZW_MIGRATE_BKUP      ,12/09/17,        ,1,         4,TABLE
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBARCHIVE                    ,20/07/12,       4,3,   9019070,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBANNIVACTIVITY              ,20/07/12,       1,4,         0,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,SUBDOWNLOADACTIVITY           ,20/07/12,       1,4,         0,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,DIALOGSTATE                   ,20/07/12,       1,5,        37,TABLE PARTITION
-AMIDALA  ,SUBSCRIPTIONS                 ,CARRIERNOTIFICATION           ,20/07/12,       4,3,   5148340,TABLE PARTITION
-AMIDALA  ,TSMSYS                        ,SRS$                          ,29/08/17,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$WORKSPACE_SAVEPOINTS_TABLE ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$REMOVED_WORKSPACES_TABLE   ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$TMP_DBA_CONSTRAINTS        ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$REPLICATION_TABLE          ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$RIC_LOCKING_TABLE          ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$EVENTS_INFO                ,27/10/12,        ,1,        12,TABLE
-AMIDALA  ,WMSYS                         ,WM$HINT_TABLE                 ,27/10/12,        ,1,        58,TABLE
-AMIDALA  ,WMSYS                         ,WM$CONSTRAINTS_TABLE          ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$BATCH_COMPRESSIBLE_TABLES  ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$NEXTVER_TABLE              ,27/10/12,        ,1,         1,TABLE
-AMIDALA  ,WMSYS                         ,WM$NESTED_COLUMNS_TABLE       ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$MP_PARENT_WORKSPACES_TABLE ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$LOG_TABLE                  ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$INSTEADOF_TRIGS_TABLE      ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$WORKSPACES_TABLE           ,27/10/12,        ,1,         1,TABLE
-AMIDALA  ,WMSYS                         ,WM$VERSIONED_TABLES           ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$UDTRIG_INFO                ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$ENV_VARS                   ,27/10/12,        ,1,         2,TABLE
-AMIDALA  ,WMSYS                         ,WM$VERSION_TABLE              ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$WORKSPACE_PRIV_TABLE       ,27/10/12,        ,1,         8,TABLE
-AMIDALA  ,WMSYS                         ,WM$MODIFIED_TABLES            ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$ADT_FUNC_TABLE             ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$VT_ERRORS_TABLE            ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$SYSPARAM_ALL_VALUES        ,27/10/12,        ,1,        27,TABLE
-AMIDALA  ,WMSYS                         ,WM$MP_GRAPH_WORKSPACES_TABLE  ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,AQ$_WM$EVENT_QUEUE_TABLE_S    ,27/10/12,        ,1,         3,TABLE
-AMIDALA  ,WMSYS                         ,WM$REPLICATION_DETAILS_TABLE  ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$LOG_TABLE_ERRORS           ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$CONS_COLUMNS               ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$EVENT_QUEUE_TABLE          ,        ,        ,1,          ,TABLE
-AMIDALA  ,WMSYS                         ,SYS_IOT_OVER_273490           ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$RIC_TABLE                  ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$RIC_TRIGGERS_TABLE         ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$VERSION_HIERARCHY_TABLE    ,27/10/12,        ,1,         1,TABLE
-AMIDALA  ,WMSYS                         ,WM$LOCKROWS_INFO              ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$UDTRIG_DISPATCH_PROCS      ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,WMSYS                         ,WM$RESOLVE_WORKSPACES_TABLE   ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,MIGR9202STATUS                ,27/10/12,        ,1,         1,TABLE
-AMIDALA  ,XDB                           ,XDB$CHECKOUTS                 ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,XDB$H_INDEX                   ,27/10/12,        ,2,        18,TABLE
-AMIDALA  ,XDB                           ,XDB$QNAME_ID                  ,27/10/12,        ,1,         7,TABLE
-AMIDALA  ,XDB                           ,XDB$COLUMN_INFO               ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,XDB$DXPATH                    ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,XDB$PATH_INDEX_PARAMS         ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,XDB$DXPTAB                    ,27/10/12,        ,1,         0,TABLE
-AMIDALA  ,XDB                           ,XDB$ROOT_INFO                 ,27/10/12,        ,1,         1,TABLE
-AMIDALA  ,XDB                           ,XDB$NMSPC_ID                  ,27/10/12,        ,1,         7,TABLE
-AMIDALA  ,XDB                           ,XDB$PATH_ID                   ,27/10/12,        ,1,         0,TABLE
+server_name,owner,table_name,last_analyzed,size_mb,num_rows,object_type
+AMIDALA,WMSYS,WM$WORKSPACES_TABLE,27/10/12,0,1,TABLE
+AMIDALA,WMSYS,WM$VERSION_HIERARCHY_TABLE,27/10/12,0,1,TABLE
+AMIDALA,WMSYS,WM$MODIFIED_TABLES,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$UDTRIG_DISPATCH_PROCS,27/10/12,0,0,TABLE
+AMIDALA,XDB,XDB$PATH_INDEX_PARAMS,27/10/12,0,0,TABLE
+AMIDALA,NMGMT,SVCEMAILUSAGEAUDIT,08/09/17,3,11394,TABLE
+AMIDALA,CAMPAIGNAPP,CLUSERALERT,12/09/17,2,27770,TABLE
+AMIDALA,CAMPAIGNAPP,CTIASHOWALERTSUBSCRIBER,12/09/17,0,137,TABLE
+AMIDALA,CAMPAIGNAPP,CURRENTSTATEREPORT,12/09/17,10,7,TABLE
+AMIDALA,CAMPAIGNAPP,SERVICE_SMS_EMAIL,12/09/17,3,0,TABLE
+AMIDALA,CAMPAIGNAPP,SUPPORT_PROGRAMINFO,12/09/17,3,0,TABLE
+AMIDALA,CAMPAIGNAPP,T3REGISTRATION,12/09/17,6,53120,TABLE
+AMIDALA,DIALOGSERVER,BULKSENDREQUEST,08/09/17,256,752600,TABLE
+AMIDALA,NMGMT,PRODUCTCODEBEHAVIOR,08/09/17,2,19219,TABLE
+AMIDALA,DIALOGSERVER,QPASSWAP,08/09/17,10,92,TABLE
+AMIDALA,DIALOGSERVER,SESSIONS,08/09/17,44662,119872400,TABLE
+AMIDALA,DIALOGSERVER,SMPPDELIVERY,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,VZWBILLINGCODE,08/09/17,81,19,TABLE
+AMIDALA,DIALOGSERVER,VZWBILLINGDEFAULTAUDIT,08/09/17,10,3,TABLE
+AMIDALA,DIALOGSERVER,VZWPRODUCTCATEGORY,08/09/17,0,19,TABLE
+AMIDALA,DIALOGSERVER,DIALOGMSGLOG,08/09/17,41,18989,TABLE PARTITION
+AMIDALA,DIALOGSERVER,DIALOGBULKLOG,08/09/17,376,1737400,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,WAPCONTENT,12/09/17,0,13,TABLE
+AMIDALA,CAMPAIGNAPP,WAPCONTENTITEM,12/09/17,1,383,TABLE
+AMIDALA,CAMPAIGNAPP,WAPSITECONTENT,12/09/17,0,10,TABLE
+AMIDALA,SMSGW,SMSGWCONNECTIONLOG,12/09/17,595,6342870,TABLE PARTITION
+AMIDALA,CMPADMIN,CARRIERCONTENTTYPE,12/09/17,0,92,TABLE
+AMIDALA,NMGMT,PRODUCTCODERESERVATIONAUDIT,08/09/17,0,45,TABLE
+AMIDALA,CAMPAIGNAPP,DEVICE,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,DEVICECARRIER,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,APPBILLINGPROPERTIES,08/09/17,1,0,TABLE PARTITION
+AMIDALA,SUBSCRIPTIONS,SUBMGMTACTIVITY,12/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONACCOUNT,12/09/17,37,181450,TABLE
+AMIDALA,CMPADMIN,REASONCODE,12/09/17,0,52,TABLE
+AMIDALA,CAMPAIGNAPP,MLOG$_FEEDDELIVERY,,2027,,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMCAP,08/09/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,MULTIPARTMESSAGE,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,NEXTELMMS,12/09/17,0,57,TABLE
+AMIDALA,CAMPAIGNAPP,IQALERTSTATUS,12/09/17,14,163880,TABLE
+AMIDALA,CMPADMIN,REPORTSETFAMILY,12/09/17,0,3,TABLE
+AMIDALA,CMPADMIN,TASKSAUDIT,12/09/17,0,2,TABLE
+AMIDALA,CMPADMIN,CSCCAMPAIGNERROR,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,MMGMSGLOGTST,08/09/17,1,1560,TABLE
+AMIDALA,SMSGW,CONNECTION,12/09/17,0,0,TABLE
+AMIDALA,SMSGW,ROUTE,12/09/17,0,0,TABLE
+AMIDALA,SMSGW,ROUTEFILTER,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTALERT,12/09/17,0,69,TABLE
+AMIDALA,CAMPAIGNAPP,USCELLULAR,12/09/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,DQA_MDR_TOTALS,08/09/17,0,340,TABLE
+AMIDALA,CAMPAIGNAPP,CATCHAG6,12/09/17,2,13302,TABLE
+AMIDALA,CAMPAIGNAPP,MMSLOGIN2LOGS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SUBSCRIPTIONPRODUCTCONTENTTYPE,12/09/17,0,170,TABLE
+AMIDALA,CAMPAIGNAPP,MLBPLAYERS,12/09/17,0,10877,TABLE
+AMIDALA,CMPADMIN,WORKFLOWOWNERHISTORY,12/09/17,7,59530,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBSCRIPTION,12/09/17,1646,560400,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,VMCWEIRDNEWS,12/09/17,0,62,TABLE
+AMIDALA,CMPADMIN,CONNECTION,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_PROCESSINSTANCE,12/09/17,0,6437,TABLE
+AMIDALA,CMPADMIN,JBPM_VARIABLE,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_EXELOG,12/09/17,552,6030820,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_26_AUG_2005,08/09/17,568,1143800,TABLE
+AMIDALA,CAMPAIGNAPP,TXT2SCREENCONFIG,12/09/17,0,6,TABLE
+AMIDALA,CAMPAIGNAPP,DEVICEPROFILE,12/09/17,128,372350,TABLE
+AMIDALA,CMPADMIN,SHORTCODEEMAIL,12/09/17,0,3,TABLE
+AMIDALA,DIALOGSERVER,MMG2,08/09/17,895,1707100,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBSCRIPTIONEVENTLOG,12/09/17,1,0,TABLE PARTITION
+AMIDALA,PERFSTAT,STATS$SQL_STATISTICS,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$INSTANCE_CACHE_TRANSFER,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$UNDOSTAT,29/08/17,1,0,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHPENDING,08/09/17,80,239799,TABLE
+AMIDALA,PERFSTAT,STATS$SEG_STAT,29/08/17,4288,0,TABLE
+AMIDALA,CAMPAIGNAPP,USNSUBSCRIBER,12/09/17,0,36,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONECC,12/09/17,7,30820,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTH_ITV,08/09/17,11,5000,TABLE
+AMIDALA,CAMPAIGNAPP,BMWSAPILOG,12/09/17,2897,13595140,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_TEMP_THUR,08/09/17,72,0,TABLE
+AMIDALA,CAMPAIGNAPP,FORDREDEMPTION,12/09/17,0,3863,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOVIDEOHANDSET,12/09/17,0,22,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMORATEPLANCACHE,12/09/17,1886,877330,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100715,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,IPCCARRIERCONFIGURATION,12/09/17,5,46960,TABLE
+AMIDALA,MMREAD,PLAN_TABLE,29/08/17,0,34,TABLE
+AMIDALA,CMPADMIN,JBPM_VARIABLEINSTANCE_NAV_1098,12/09/17,0,886,TABLE
+AMIDALA,MMREAD,TMP_SUBSPEND_TMO3PG_MAY2010,29/08/17,0,671,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCREDITCARDLOG,12/09/17,96,1112410,TABLE
+AMIDALA,MMREAD,TMP_EXPORT,29/08/17,0,858,TABLE
+AMIDALA,CMPADMIN,TMP_ORG_NAV_1129_2,12/09/17,0,8,TABLE
+AMIDALA,CMPADMIN,BILLINGINTERVALS,12/09/17,0,3,TABLE
+AMIDALA,CMPADMIN,RST_UPDTS,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMORPTEMP,12/09/17,0,168,TABLE
+AMIDALA,CMPADMIN,SCHEMAVERSION,12/09/17,0,1,TABLE
+AMIDALA,CMPADMIN,SHORTCODEALIAS,12/09/17,1,3682,TABLE
+AMIDALA,DIALOGSERVER,SCHEMA_PRIVILEGES,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONEUSERS,12/09/17,9,26720,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCUSTOMERMESSAGETEMP,12/09/17,17,37760,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_JOB_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,IPCCONFIG_DBO_887_ROLLBACK,12/09/17,0,31,TABLE
+AMIDALA,CMPADMIN,ALLOWEDSYSTEM,12/09/17,0,5,TABLE
+AMIDALA,SMX,OLD_LERGROUTINGRANGEAUDIT,12/09/17,592,4459740,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURELISTADDBANNER,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_JOB_DETAILS,12/09/17,5,6551,TABLE
+AMIDALA,TSMSYS,SRS$,29/08/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_INTERVALS,29/08/17,0,0,TABLE
+AMIDALA,XDB,MIGR9202STATUS,27/10/12,0,1,TABLE
+AMIDALA,WMSYS,WM$MP_PARENT_WORKSPACES_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$RIC_LOCKING_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,SYS_IOT_OVER_273490,27/10/12,0,0,TABLE
+AMIDALA,MTRUST,OPTIN,12/09/17,0,12,TABLE
+AMIDALA,MTRUST,QUARTZ_SIMPLE_TRIGGERS,12/09/17,0,1,TABLE
+AMIDALA,MTRUST,QUARTZ_FIRED_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,SYS_IOT_OVER_25966,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETUSERS_LOG,12/09/17,2,5192,TABLE
+AMIDALA,MMREAD,TMP_ATT_1999_999_CLEANUP,29/08/17,0,339,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100712,08/09/17,0,41,TABLE
+AMIDALA,MMREAD,MM_ATT_MIGRATE_36903_1999,29/08/17,1,2890,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_JOB_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_TRIGGERS,12/09/17,0,2,TABLE
+AMIDALA,DIALOGSERVER,MMGDATA,08/09/17,416,916700,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBCARRIERACTION,20/07/12,0,12266,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBBILLING,20/07/12,136,704750,TABLE
+AMIDALA,CMPADMIN,SF04888060_TEMP,12/09/17,0,650,TABLE
+AMIDALA,MMREAD,TMP_77970_USCC_MIGRATION,29/08/17,0,244,TABLE
+AMIDALA,DIALOGSERVER,BILLINGTRANSACTION,08/09/17,6,0,TABLE PARTITION
+AMIDALA,MMREAD,MMREAD_SUBSCRIPTION,29/08/17,647,2075072,TABLE
+AMIDALA,AVAIL,RMAN_NOBACKUP_FILES,29/08/17,0,0,TABLE
+AMIDALA,AVAIL,KNOWN_INVALID_OBJECTS,29/08/17,0,451,TABLE
+AMIDALA,AVAIL,TABLESPACE_OFFLINE,29/08/17,0,0,TABLE
+AMIDALA,SMX,OLD_LNPOCNCACHE,12/09/17,792,14180440,TABLE PARTITION
+AMIDALA,SMX,OLD_NPAWORK,12/09/17,1,0,TABLE
+AMIDALA,SMX,OLD_OCN,12/09/17,5,14411,TABLE
+AMIDALA,SMX,OLD_SPIDCHECK,12/09/17,0,1252,TABLE
+AMIDALA,DIALOGSERVER,SYNIVERSE1,08/09/17,0,7688,TABLE
+AMIDALA,PERFSTAT,STATS$LATCH_PARENT,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SESSTAT,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SYSTEM_EVENT,29/08/17,18,0,TABLE
+AMIDALA,PERFSTAT,STATS$PGA_TARGET_ADVICE,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$SESS_TIME_MODEL,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$PROCESS_ROLLUP,29/08/17,3,0,TABLE
+AMIDALA,MMSGW,BAD_TRANS,12/09/17,13,327540,TABLE
+AMIDALA,MMSGW,MMSGWLOG_20160909,12/09/17,0,19,TABLE
+AMIDALA,WMSYS,WM$RIC_TRIGGERS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$ENV_VARS,27/10/12,0,2,TABLE
+AMIDALA,NMGMT,PRODUCTCODEUSAGE,08/09/17,1,54,TABLE
+AMIDALA,NMGMT,SVCCODEUSAGEAUDIT,08/09/17,7,44930,TABLE
+AMIDALA,CAMPAIGNAPP,ARAMARKOFFER,12/09/17,0,174,TABLE
+AMIDALA,CAMPAIGNAPP,CAMPAIGN,12/09/17,4,9267,TABLE
+AMIDALA,CAMPAIGNAPP,REPORT,12/09/17,10,411,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENTSUBSCRIBERRESP,12/09/17,40,14,TABLE
+AMIDALA,DBADMIN,SCHEMA_REVISION,29/08/17,0,426,TABLE
+AMIDALA,DIALOGSERVER,APPLICATIONREGISTRYAUDIT,08/09/17,81,10499,TABLE
+AMIDALA,DIALOGSERVER,TASKSAUDIT,08/09/17,10,0,TABLE
+AMIDALA,CAMPAIGNAPP,MEDIATYPE,12/09/17,0,4,TABLE
+AMIDALA,CAMPAIGNAPP,TELUSKEYWORD,12/09/17,0,592,TABLE
+AMIDALA,DIALOGSERVER,VZWPRICEPLAN,08/09/17,0,75,TABLE
+AMIDALA,CAMPAIGNAPP,MLOG$_INODE,11/09/17,41,337030,TABLE
+AMIDALA,NMGMT,SHORTCODETRANSLATIONAUDIT,08/09/17,0,1198,TABLE
+AMIDALA,SMSGW,SHORTCODETRANSLATIONAUDIT,12/09/17,0,0,TABLE
+AMIDALA,MMREAD,SUBSCRIPTION_TMP,29/08/17,136,391980,TABLE
+AMIDALA,CAMPAIGNAPP,NASCARDRIVERSPOINTS,12/09/17,0,2331,TABLE
+AMIDALA,CAMPAIGNAPP,ATTRIBUTE,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,DEVICECAPABILITY,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_K_TEMP,08/09/17,968,1829600,TABLE
+AMIDALA,MMSGW,MMSGWLOG,12/09/17,1304,2662890,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWADBANNER2,12/09/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEW2,12/09/17,1,53,TABLE
+AMIDALA,DIALOGSERVER,OPTINSTATE,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,BELLMOBULKSEND,12/09/17,0,32,TABLE
+AMIDALA,CMPADMIN,IPCCARRIER,12/09/17,6,145850,TABLE
+AMIDALA,CMPADMIN,RULEDEFINITION,12/09/17,0,84,TABLE
+AMIDALA,DIALOGSERVER,TMP_OPERA_LOOKUP,08/09/17,0,239,TABLE
+AMIDALA,CMPADMIN,REPORTSETFAMILYORGMAPPING,12/09/17,0,1063,TABLE
+AMIDALA,CAMPAIGNAPP,VMCFASHIONFORWARD,12/09/17,0,31,TABLE
+AMIDALA,CAMPAIGNAPP,VMCHELLOTAROT,12/09/17,0,62,TABLE
+AMIDALA,CAMPAIGNAPP,VMCPICKUPLINES,12/09/17,0,227,TABLE
+AMIDALA,CAMPAIGNAPP,VMCRRINGRREMINDTASK,12/09/17,2,13233,TABLE
+AMIDALA,CMPADMIN,ORGANIZATIONROLE,12/09/17,0,1100,TABLE
+AMIDALA,DIALOGSERVER,TASKS_BCK,08/09/17,1,4969,TABLE
+AMIDALA,DBSNMP,MGMT_SNAPSHOT_SQL,29/08/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_LATEST_SQL,29/08/17,0,9,TABLE
+AMIDALA,CAMPAIGNAPP,SBGAMEPLAY,12/09/17,0,46,TABLE
+AMIDALA,CAMPAIGNAPP,USCELLULARATTACHMENT,12/09/17,0,2,TABLE
+AMIDALA,DIALOGSERVER,TMPVZW,08/09/17,1,23970,TABLE
+AMIDALA,CAMPAIGNAPP,QUESTIONPOLL,12/09/17,0,9,TABLE
+AMIDALA,CMPADMIN,PROGRAMPRICEPOINT,12/09/17,1,7831,TABLE
+AMIDALA,CMPADMIN,CURRENCYCODES,12/09/17,0,37,TABLE
+AMIDALA,CMPADMIN,REGION,12/09/17,0,40,TABLE
+AMIDALA,CMPADMIN,PROGRAMCUSTOMVALUE,12/09/17,41,279070,TABLE
+AMIDALA,CMPADMIN,JBPM_JOB,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_NODE,12/09/17,0,60,TABLE
+AMIDALA,CMPADMIN,JBPM_TOKEN,12/09/17,10,128050,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_MS,08/09/17,7,12797,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMMESSAGE,12/09/17,1,0,TABLE PARTITION
+AMIDALA,CMPADMIN,JBPM_TRANSITION,12/09/17,0,88,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_27_AUG_2005,08/09/17,544,1141700,TABLE
+AMIDALA,CAMPAIGNAPP,IQSWEEPS,12/09/17,0,20,TABLE
+AMIDALA,PERFSTAT,STATS$CR_BLOCK_SERVER,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$STATSPACK_PARAMETER,29/08/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,PST_NEW_1,08/09/17,0,1756,TABLE
+AMIDALA,CAMPAIGNAPP,INLAPARTICIPANT,12/09/17,0,2368,TABLE
+AMIDALA,DIALOGSERVER,DUP_MESSAGES,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TESTTAB,12/09/17,80,533700,TABLE
+AMIDALA,CMPADMIN,JBPM_TOKEN_NAV_1104,12/09/17,0,904,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBSCRIPTION_BKUP,12/09/17,11,44180,TABLE
+AMIDALA,BRAT,SUBBILLING_DELETE_SUBS_AMIDALA,12/09/17,2,44020,TABLE
+AMIDALA,CAMPAIGNAPP,PLAN_TABLE,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,ORGROUTING,12/09/17,0,4,TABLE
+AMIDALA,CAMPAIGNS,WORKFLOWHISTORY_CLEAN,12/09/17,112,580260,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONSTATS,12/09/17,2,35430,TABLE
+AMIDALA,CAMPAIGNAPP,TCAREMO,12/09/17,347,2299520,TABLE
+AMIDALA,CAMPAIGNAPP,TCAREMT,12/09/17,1280,4659280,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCCBLACKLIST,12/09/17,0,254,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIBERRESPDATA,12/09/17,528,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOSERVERSTATUSLOG,12/09/17,5,180250,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOASSIGNMENT,12/09/17,0,56,TABLE
+AMIDALA,CMPADMIN,CARRIERIDMAP,12/09/17,0,8,TABLE
+AMIDALA,MMREAD,TMP_WAPMSGS_SENT,29/08/17,8,209696,TABLE
+AMIDALA,CMPADMIN,REPORTPARAMCUSTOMVALUE,12/09/17,0,5,TABLE
+AMIDALA,CMPADMIN,REPORTFAVORITEPARAM,12/09/17,0,1030,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_CALENDARS,12/09/17,0,0,TABLE
+AMIDALA,MMREAD,SCM_IPCS_PART2,29/08/17,0,25,TABLE
+AMIDALA,CAMPAIGNAPP,BMPROVINCENPA,12/09/17,0,331,TABLE
+AMIDALA,DIALOGSERVER,BQS_SIMPLE_TRIGGERS,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOETULOG,12/09/17,0,2596,TABLE
+AMIDALA,CAMPAIGNAPP,MMSUSERMANAGER,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100714,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,REPORTDEFINITION_BACKUP,12/09/17,0,29,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_CRON_TRIGGERS,12/09/17,0,5,TABLE
+AMIDALA,CMPADMIN,REPORTSCHEDULER,12/09/17,0,4,TABLE
+AMIDALA,CMPADMIN,REPORTSCHEDULERPARAM,12/09/17,0,8,TABLE
+AMIDALA,CMPADMIN,SCHEDULERINTERVAL,12/09/17,0,3,TABLE
+AMIDALA,CMPADMIN,SCHEDULERDELIVERYMETHOD,12/09/17,0,4,TABLE
+AMIDALA,DBSNMP,MGMT_RESPONSE_CONFIG,29/08/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_METRICS,29/08/17,0,15,TABLE
+AMIDALA,XDB,XDB$QNAME_ID,27/10/12,0,7,TABLE
+AMIDALA,WMSYS,WM$SYSPARAM_ALL_VALUES,27/10/12,0,27,TABLE
+AMIDALA,WMSYS,WM$EVENTS_INFO,27/10/12,0,12,TABLE
+AMIDALA,WMSYS,WM$LOG_TABLE_ERRORS,27/10/12,0,0,TABLE
+AMIDALA,CMPADMIN,WORKFLOWHISTORY_NAV_1103,12/09/17,0,1843,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETFEATURES,12/09/17,0,1232,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_BIGBRO_2010_07_08,08/09/17,2,4602,TABLE
+AMIDALA,CAMPAIGNS,PLAN_TABLE,12/09/17,0,291,TABLE
+AMIDALA,CAMPAIGNS,VW_STATE_DURATION_FACT,12/09/17,168,564860,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_SCHEDULER_STATE,12/09/17,0,2,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_JOB_DETAILS,12/09/17,0,2,TABLE
+AMIDALA,SUBSCRIPTIONS,TMP_USCC_77970_SUBS,20/07/12,0,2359,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS_SF04796021,12/09/17,0,559,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS_PRE_ROLLBACK,12/09/17,2,12555,TABLE
+AMIDALA,CMPADMIN,SF04796021_TEMP_TRY2,12/09/17,0,8015,TABLE
+AMIDALA,CMPADMIN,IPCCV_TMOACM_ROLLBACK,12/09/17,2,20876,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBANNIVACTIVITY,20/07/12,1,0,TABLE PARTITION
+AMIDALA,AVAIL,FILE_NAME_SCAN,29/08/17,0,550,TABLE
+AMIDALA,DIALOGSERVER,SYNIVERSE,08/09/17,0,7714,TABLE
+AMIDALA,DIALOGSERVER,MMG1,08/09/17,0,4326,TABLE
+AMIDALA,PERFSTAT,STATS$SNAPSHOT,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$BUFFER_POOL_STATISTICS,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SHARED_POOL_ADVICE,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$JAVA_POOL_ADVICE,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$TEMP_HISTOGRAM,29/08/17,4,0,TABLE
+AMIDALA,PERFSTAT,STATS$PROPAGATION_SENDER,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$BUFFERED_SUBSCRIBERS,29/08/17,1,0,TABLE
+AMIDALA,DBADMIN,CONNECTIONS,29/08/17,0,652,TABLE
+AMIDALA,WMSYS,WM$INSTEADOF_TRIGS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$VERSION_TABLE,27/10/12,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCARECATEGRORY,12/09/17,0,13,TABLE
+AMIDALA,NMGMT,CARRIERPRODUCTCODE,08/09/17,3,17892,TABLE
+AMIDALA,CAMPAIGNAPP,ARAMARKOFFERDATA,12/09/17,7,33130,TABLE
+AMIDALA,CAMPAIGNAPP,ATTRIBUTEDEFINITION,12/09/17,7,136780,TABLE
+AMIDALA,CAMPAIGNAPP,CHANNELTYPE,12/09/17,3,6,TABLE
+AMIDALA,CAMPAIGNAPP,CTIASHOWALERT,12/09/17,0,591,TABLE
+AMIDALA,CAMPAIGNAPP,GROUPEDATTRIBUTEREPORT,12/09/17,3,2,TABLE
+AMIDALA,CAMPAIGNAPP,REPORTCAMPAIGN,12/09/17,3,415,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENTLIST,12/09/17,3,28740,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENT,12/09/17,4160,11595090,TABLE
+AMIDALA,DBADMIN,SCHEMA_PRIVILEGES_EXCEPTIONS,29/08/17,0,2,TABLE
+AMIDALA,CAMPAIGNAPP,TESTCARL_MAX,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,OPTINHISTORY,08/09/17,2183,13851200,TABLE
+AMIDALA,DIALOGSERVER,TASKS,08/09/17,19,1634,TABLE
+AMIDALA,DIALOGSERVER,VZWBILLINGADMIN,08/09/17,81,9,TABLE
+AMIDALA,CMPADMIN,INTERNALPRODUCTCODE,12/09/17,4,25330,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,DIALOGTXLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,SHORTCODEMASTER,08/09/17,0,612,TABLE
+AMIDALA,CAMPAIGNAPP,WAPUSERTDR,12/09/17,2,19674,TABLE
+AMIDALA,DIALOGSERVER,VZWACCOUNTINGPOLICY,08/09/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,VZWREVENUESHARE,08/09/17,0,219,TABLE
+AMIDALA,DIALOGSERVER,MLOG$_DIALOGSERVICE,02/11/12,7,52173,TABLE
+AMIDALA,SMSGW,MULTIPARTMESSAGE,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,HERBALALERT,12/09/17,0,24,TABLE
+AMIDALA,CAMPAIGNAPP,CHRISTDAILYSUBSCRIBER,12/09/17,0,1576,TABLE
+AMIDALA,DIALOGSERVER,MDN,08/09/17,3,84172,TABLE
+AMIDALA,CAMPAIGNAPP,NASCARSUBSCRIBER,12/09/17,0,2707,TABLE
+AMIDALA,CAMPAIGNAPP,NASCARSUBSCRIBERCHOICE,12/09/17,2,25780,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONSACCOUNTLOG,12/09/17,2320,11148720,TABLE
+AMIDALA,CAMPAIGNAPP,MLBTEAMNAME,12/09/17,0,31,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMODISCOUNTFEATURE,12/09/17,152,996410,TABLE
+AMIDALA,CAMPAIGNAPP,NEXTELMMSBLOB,12/09/17,0,87,TABLE
+AMIDALA,CAMPAIGNAPP,VMCGIGGLESCOPE,12/09/17,0,372,TABLE
+AMIDALA,CAMPAIGNAPP,VMCRESCUERINGREMINDER,12/09/17,0,69,TABLE
+AMIDALA,CMPADMIN,ORGANIZATION,12/09/17,0,1082,TABLE
+AMIDALA,DBSNMP,MGMT_HISTORY_SQL,29/08/17,0,217,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDDELIVERY,12/09/17,864,6138770,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDCATEGORY,12/09/17,0,1024,TABLE
+AMIDALA,CAMPAIGNAPP,SBSUBSCRIBERPLAY,12/09/17,2,34860,TABLE
+AMIDALA,DIALOGSERVER,TMP_PED_LOOKUP,08/09/17,0,357,TABLE
+AMIDALA,DIALOGSERVER,CARRIER_SPID_MAP,08/09/17,0,1411,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMLOG,08/09/17,72,207839,TABLE
+AMIDALA,CMPADMIN,IPCCC_NAV_1109,12/09/17,0,2258,TABLE
+AMIDALA,CAMPAIGNAPP,CATCHAG6ATTACHMENT,12/09/17,17,25740,TABLE
+AMIDALA,CAMPAIGNAPP,MMSACLCONFIG,12/09/17,0,10,TABLE
+AMIDALA,CAMPAIGNAPP,MMSACLLIST,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,MLBSUBSCRIBERS,12/09/17,2,17857,TABLE
+AMIDALA,CAMPAIGNAPP,PROMOINABOXDISTRIBUTOR,12/09/17,0,6,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_EXPORT,08/09/17,440,1128400,TABLE
+AMIDALA,CAMPAIGNAPP,NEXTELMMPOLL,12/09/17,0,19,TABLE
+AMIDALA,CAMPAIGNAPP,VMCCELEBRITYDIRT,12/09/17,0,62,TABLE
+AMIDALA,CMPADMIN,PROGRAMREASSIGNMENT,12/09/17,6,44090,TABLE
+AMIDALA,CMPADMIN,CONNECTIONGROUP,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_INVOKELOG,12/09/17,104,1680230,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_TMP,08/09/17,163,426400,TABLE
+AMIDALA,DIALOGSERVER,QPASSWAPPRODUCT,08/09/17,0,0,TABLE
+AMIDALA,MMSGW,MMSCCARRIER,12/09/17,0,15,TABLE
+AMIDALA,CAMPAIGNAPP,PROMOINABOXTRIVIA,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCARE,12/09/17,1,0,TABLE
+AMIDALA,CAMPAIGNAPP,IQPROGRAM,12/09/17,0,20,TABLE
+AMIDALA,PERFSTAT,STATS$SQL_PLAN,29/08/17,8,0,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_PREM,08/09/17,61,153146,TABLE
+AMIDALA,CMPADMIN,BKUP_SENDME_IPC_SUB_MIGRATION,12/09/17,0,4,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONECC_LOG,12/09/17,3,23894,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOMEDIAPLAYER,12/09/17,1,90,TABLE
+AMIDALA,DIALOGSERVER,BWSINSTANCE,08/09/17,0,2,TABLE
+AMIDALA,CMPADMIN,MTCARRIERTEMPLATE,12/09/17,0,12,TABLE
+AMIDALA,DIALOGSERVER,MMGMSG_SEPT24,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCAREFEATURES,12/09/17,0,45,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_TEMP1,08/09/17,24,0,TABLE
+AMIDALA,DIALOGSERVER,TMP_TRANS,08/09/17,0,760,TABLE
+AMIDALA,CAMPAIGNAPP,INSTANTPRIZE,12/09/17,0,492,TABLE
+AMIDALA,CMPADMIN,CUSTOMVALUE,12/09/17,0,258,TABLE
+AMIDALA,CAMPAIGNAPP,REMYSUBSCRIBER,12/09/17,0,228,TABLE
+AMIDALA,CAMPAIGNAPP,TCAREIVR,12/09/17,152,945840,TABLE
+AMIDALA,CMPADMIN,JBPM_INVOKELOG_NAV_1098,12/09/17,0,886,TABLE
+AMIDALA,MMREAD,TMP_MUSTAFA_SCS_JJF,29/08/17,0,1651,TABLE
+AMIDALA,CMPADMIN,REPORTSETMEMBER,12/09/17,0,69,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURELIST,12/09/17,1,66,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTH_MSG_SEPT_RENEWALS,08/09/17,38,80930,TABLE
+AMIDALA,CMPADMIN,RSTS_AUDIT,12/09/17,8,45050,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMORATEPLAN,12/09/17,8,3061,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONDELIVERYQUEUE,12/09/17,207,2506030,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONEUSERS_LOG,12/09/17,42,196610,TABLE
+AMIDALA,CMPADMIN,IPCCONFIG_DBO_878_ROLLBACK,12/09/17,0,666,TABLE
+AMIDALA,MMREAD,TMP_VZW_SUB_MIGRATE_FINAL_BKUP,29/08/17,408,882022,TABLE
+AMIDALA,CMPADMIN,REPORTSETCONNECTION,12/09/17,0,4,TABLE
+AMIDALA,MMREAD,TMP_SENDME_TMOBILE_REDO,29/08/17,7,17946,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_JOB_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_CRON_TRIGGERS,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_BLOB_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_LOCKS,12/09/17,0,5,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_TRIGGERS,12/09/17,0,2,TABLE
+AMIDALA,CAMPAIGNAPP,APPLICATIONREGISTRY,12/09/17,0,334,TABLE
+AMIDALA,CAMPAIGNAPP,BMPROVINCEMAP,12/09/17,0,13,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOABADDBANNER,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,IQGROUP,12/09/17,0,13,TABLE
+AMIDALA,CMPADMIN,USERALLOWEDSYSTEM,12/09/17,0,4149,TABLE
+AMIDALA,DIALOGSERVER,BQS_JOB_DETAILS,08/09/17,0,3,TABLE
+AMIDALA,DIALOGSERVER,BQS_CALENDARS,08/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,BQS_SCHEDULER_STATE,08/09/17,0,1,TABLE
+AMIDALA,SMX,OLD_LANDLINE_CARRIEROCN,12/09/17,0,137,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100713,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,MMSORGMGMT,12/09/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,MMSLOGIN,12/09/17,0,202,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMO_FAB_ASSOSIATION,12/09/17,59,447030,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOSSLOG,12/09/17,11424,54706210,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_TRIGGER_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SCHEDULERSTATUS,12/09/17,2,7052,TABLE
+AMIDALA,CMPADMIN,SCHEDULEREVENTFLAG,12/09/17,0,42,TABLE
+AMIDALA,MMREAD,TMP_VZWUSAGE,29/08/17,53,133896,TABLE
+AMIDALA,MMREAD,TMP_VZW_PAUTH_JAN_2010_ORIG,29/08/17,51,133584,TABLE
+AMIDALA,WMSYS,AQ$_WM$EVENT_QUEUE_TABLE_S,27/10/12,0,3,TABLE
+AMIDALA,MTRUST,QUARTZ_SIMPROP_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_VARIABLEINSTANCE_NAV_1103,12/09/17,0,1843,TABLE
+AMIDALA,MMREAD,MAPPING_TABLE,29/08/17,0,4,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_BLOB_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SF04796021_TEMP1,12/09/17,1,12110,TABLE
+AMIDALA,DIALOGSERVER,REVERSETRANSACTION,08/09/17,6,0,TABLE PARTITION
+AMIDALA,SUBSCRIPTIONS,DIALOGSTATE,20/07/12,2,37,TABLE PARTITION
+AMIDALA,SUBSCRIPTIONS,SUBARCHIVE,20/07/12,4,9019070,TABLE PARTITION
+AMIDALA,CMPADMIN,TMP_ORG_NAV_1129_1,12/09/17,0,12,TABLE
+AMIDALA,CMPADMIN,TMP_NAV_1129_1,12/09/17,0,784,TABLE
+AMIDALA,AVAIL,RMAN_BACKUP_SCHEDULE,29/08/17,0,2,TABLE
+AMIDALA,AVAIL,STARTUP_LOG,29/08/17,0,1,TABLE
+AMIDALA,SMX,OLD_LERGROUTINGWORK,12/09/17,1,1954,TABLE
+AMIDALA,SMX,OLD_OCNWORK,12/09/17,0,0,TABLE
+AMIDALA,PERFSTAT,STATS$STREAMS_CAPTURE,29/08/17,1,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOMEDIAPLAYER2,12/09/17,0,41,TABLE
+AMIDALA,WMSYS,WM$NEXTVER_TABLE,27/10/12,0,1,TABLE
+AMIDALA,WMSYS,WM$VERSIONED_TABLES,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$TMP_DBA_CONSTRAINTS,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$REPLICATION_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$REMOVED_WORKSPACES_TABLE,27/10/12,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TCARELOG,12/09/17,168,2302500,TABLE
+AMIDALA,CAMPAIGNAPP,CSGREGISTRATION,12/09/17,0,163,TABLE
+AMIDALA,CAMPAIGNAPP,DEPENDENCY,12/09/17,10,35170,TABLE
+AMIDALA,CAMPAIGNAPP,INODE,12/09/17,19,72220,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGETIMELINEREPORT,12/09/17,10,59,TABLE
+AMIDALA,CAMPAIGNAPP,QMQUIZENTRY,12/09/17,2,8459,TABLE
+AMIDALA,CAMPAIGNAPP,REGISTERONGO,12/09/17,0,33,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENTSESSIONDATA,12/09/17,40,12,TABLE
+AMIDALA,DIALOGSERVER,DIALOGSUBMITTAGLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,NMGMT,CARRIERPRODUCTCODEAUDIT,08/09/17,4,33060,TABLE
+AMIDALA,NMGMT,SUBSCRIBERSHORTCODE,08/09/17,2,38660,TABLE
+AMIDALA,CAMPAIGNAPP,NEXTELSBPOLL,12/09/17,0,15,TABLE
+AMIDALA,CAMPAIGNAPP,INLAFLASHREWARDPIN,12/09/17,0,5298,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOGTST,08/09/17,0,780,TABLE
+AMIDALA,CAMPAIGNAPP,WAPHEADER,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOAOC,12/09/17,0,9,TABLE
+AMIDALA,CAMPAIGNAPP,IQREGISTRY,12/09/17,0,14,TABLE
+AMIDALA,CMPADMIN,REPORTSET,12/09/17,0,15,TABLE
+AMIDALA,CAMPAIGNAPP,VMCPEPTALK,12/09/17,0,31,TABLE
+AMIDALA,DBSNMP,MGMT_BASELINE,29/08/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,BMSOLOSUBSWORK,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_04_SEP_2005,08/09/17,328,703300,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTPLAYER,12/09/17,3,23701,TABLE
+AMIDALA,DIALOGSERVER,TMP_TABLE,08/09/17,0,3885,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_DOND_SEPT18,08/09/17,96,236151,TABLE
+AMIDALA,MMREAD,TMP_FUNMO_MIGRAT_1999,29/08/17,20,57119,TABLE
+AMIDALA,MMREAD,TMP_MM_ACK_DROPS_DEC_2010,29/08/17,10,36192,TABLE
+AMIDALA,CAMPAIGNAPP,MMSORGMGMT2,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,MMSLOGIN2,12/09/17,0,209,TABLE
+AMIDALA,CAMPAIGNAPP,ANSWERPOLL,12/09/17,0,32,TABLE
+AMIDALA,CMPADMIN,BILLINGBEHAVIOR,12/09/17,0,17,TABLE
+AMIDALA,CMPADMIN,SUBSCRIPTIONPRODUCT,12/09/17,7,10228,TABLE
+AMIDALA,CAMPAIGNAPP,POLLCAMPAIGN,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,NEXTELMMPOLLQUESTION,12/09/17,0,19,TABLE
+AMIDALA,CMPADMIN,ROUTINGRULE,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,ROUTINGRULECONNGROUP,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,WORKFLOWHISTORY,12/09/17,144,795310,TABLE
+AMIDALA,CMPADMIN,JBPM_VARIABLEINSTANCE,12/09/17,36,408290,TABLE
+AMIDALA,CMPADMIN,JBPM_TYPE,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_DELEGATION,12/09/17,0,221,TABLE
+AMIDALA,CMPADMIN,JBPM_SWIMLANE,12/09/17,0,11,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_MAX,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SCHEMA_PRIVILEGES,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,ORG_RSTS,12/09/17,0,217,TABLE
+AMIDALA,CAMPAIGNAPP,IQSWEEPSSUBSCRIBER,12/09/17,2,13437,TABLE
+AMIDALA,CAMPAIGNAPP,IFUNTRANSACTION,12/09/17,0,330,TABLE
+AMIDALA,PERFSTAT,STATS$WAITSTAT,29/08/17,2,0,TABLE
+AMIDALA,CAMPAIGNAPP,FDUSERLISTBAK090906,12/09/17,0,1876,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDDISTRIBUTIONUSERLIST,12/09/17,3351,30489760,TABLE
+AMIDALA,PERFSTAT,STATS$PARAMETER,29/08/17,25,0,TABLE
+AMIDALA,CMPADMIN,CPCOVERRIDE,12/09/17,0,6,TABLE
+AMIDALA,DIALOGSERVER,EST_NEW_1,08/09/17,2,19327,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROLITV,08/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100710,08/09/17,0,91,TABLE
+AMIDALA,DIALOGSERVER,PST_NEW,08/09/17,0,1849,TABLE
+AMIDALA,CMPADMIN,JBPM_INVOKELOG_NAV_1104,12/09/17,0,904,TABLE
+AMIDALA,CMPADMIN,IPCCARRIER_NAV_1104,12/09/17,3,64660,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTH_ITV1,08/09/17,1,4999,TABLE
+AMIDALA,SMX,OLD_ROUTINGRANGE,12/09/17,227,1670640,TABLE PARTITION
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_TEMP2,08/09/17,3,0,TABLE
+AMIDALA,CMPADMIN,COMMENTHISTORY,12/09/17,7,49090,TABLE
+AMIDALA,CAMPAIGNAPP,TCAREUSERSESSION,12/09/17,64,143640,TABLE
+AMIDALA,CAMPAIGNAPP,TCARESUBSCRIBERS,12/09/17,5,41970,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCAREFAQ,12/09/17,0,100,TABLE
+AMIDALA,CMPADMIN,WORKFLOWHISTORY_NAV_1098,12/09/17,0,886,TABLE
+AMIDALA,CAMPAIGNAPP,CUSTBULKSENDMESSAGES,12/09/17,12859,58176490,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURECATEGORY,12/09/17,0,30,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100711,08/09/17,0,84,TABLE
+AMIDALA,CMPADMIN,REPORTINVOCATION,12/09/17,0,43,TABLE
+AMIDALA,CMPADMIN,REPORTRESTRICTION,12/09/17,0,46,TABLE
+AMIDALA,CMPADMIN,REPORTPARAM,12/09/17,0,16,TABLE
+AMIDALA,CMPADMIN,TMP_NAV_1129_2,12/09/17,0,841,TABLE
+AMIDALA,DBADMIN,MDRADMIN,29/08/17,0,38,TABLE
+AMIDALA,CMPADMIN,SF04327854_TEMP,12/09/17,0,2223,TABLE
+AMIDALA,DIALOGSERVER,VZW_BACKBILL_BIGBRO_2010_07_08,08/09/17,5,4602,TABLE
+AMIDALA,CMPADMIN,SHORTCODEURL,12/09/17,0,2448,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCAREFEATURESSEGMENT,12/09/17,0,972,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTFCDUPLICATES,12/09/17,104,816390,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONEFEATURES,12/09/17,48,167390,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCUSTOMERINFOTEMP,12/09/17,4,23466,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_JOB_DETAILS,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOMESSAGECONFIG,12/09/17,0,3,TABLE
+AMIDALA,CMPADMIN,USERGROUP,12/09/17,0,2241,TABLE
+AMIDALA,MMREAD,TMP_VZWUSAGE_2,29/08/17,6,13707,TABLE
+AMIDALA,DIALOGSERVER,BQS_CRON_TRIGGERS,08/09/17,0,3,TABLE
+AMIDALA,SMX,OLD_CARRIEROCN_CR_6029,12/09/17,0,191,TABLE
+AMIDALA,SMX,OLD_CARRIEROCN_NLU_255,12/09/17,0,175,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100714,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOAMEOBJECT,12/09/17,216,90510,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_JOB_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_LOCKS,12/09/17,0,5,TABLE
+AMIDALA,CMPADMIN,SCHEDULERRETRY,12/09/17,0,16,TABLE
+AMIDALA,XDB,XDB$DXPTAB,27/10/12,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_INVOKELOG_NAV_1103,12/09/17,0,1820,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETSECRETQUESTIONS,12/09/17,0,12,TABLE
+AMIDALA,MMREAD,TMP_TXTWIRE_APR_2011,29/08/17,128,235026,TABLE
+AMIDALA,DIALOGSERVER,VZW_BACKBILL_BIGBRO_2010_07_09,08/09/17,0,221,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_BIGBRO_2010_07_09,08/09/17,0,221,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_CALENDARS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_PAUSED_TRIGGER_GRPS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_FIRED_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_CALENDARS,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,MMSDATA,08/09/17,5,3690,TABLE
+AMIDALA,SUBSCRIPTIONS,PLAN_TABLE,20/07/12,0,0,TABLE
+AMIDALA,BRAT,SUBBILLING_AMIDALA_1_CLEAN,12/09/17,8,72040,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBBILLING_BKUP,12/09/17,13,92120,TABLE
+AMIDALA,CMPADMIN,TMP_TRUEDIGIT_MM_SHORTCODE,12/09/17,0,1,TABLE
+AMIDALA,SUBSCRIPTIONS,CARRIERNOTIFICATION,20/07/12,4,5148340,TABLE PARTITION
+AMIDALA,DIALOGSERVER,IPC_INSERT,08/09/17,0,503,TABLE
+AMIDALA,SUBSCRIPTIONS,TMP_SUB_VZW_MIGRATE_BKUP,12/09/17,0,4,TABLE
+AMIDALA,AVAIL,KNOWN_LONG_RUNNING_JOBS,29/08/17,0,3,TABLE
+AMIDALA,AVAIL,KNOWN_DISABLED_CONSTRAINTS01,29/08/17,0,39,TABLE
+AMIDALA,SMX,OLD_LINERANGE,12/09/17,2,29540,TABLE
+AMIDALA,SMX,OLD_OCN_BACKUP,12/09/17,0,0,TABLE
+AMIDALA,SMX,OLD_ROUTINGRANGEAUDIT,12/09/17,104,775900,TABLE
+AMIDALA,CMPADMIN,PRODUCTCODEBEHAVIOR_CR,12/09/17,0,7,TABLE
+AMIDALA,PERFSTAT,STATS$LEVEL_DESCRIPTION,29/08/17,0,5,TABLE
+AMIDALA,PERFSTAT,STATS$LATCH,29/08/17,63,0,TABLE
+AMIDALA,PERFSTAT,STATS$LATCH_CHILDREN,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SGA,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$FILE_HISTOGRAM,29/08/17,344,0,TABLE
+AMIDALA,PERFSTAT,STATS$IDLE_EVENT,29/08/17,0,70,TABLE
+AMIDALA,WMSYS,WM$RIC_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$WORKSPACE_PRIV_TABLE,27/10/12,0,8,TABLE
+AMIDALA,WMSYS,WM$WORKSPACE_SAVEPOINTS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$RESOLVE_WORKSPACES_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$HINT_TABLE,27/10/12,0,58,TABLE
+AMIDALA,NMGMT,CARRIERSHORTCODEUSAGE,08/09/17,1,2067,TABLE
+AMIDALA,NMGMT,PRODUCTCODERESERVATION,08/09/17,1,54,TABLE
+AMIDALA,CAMPAIGNAPP,ARAMARKOFFERREDEMPTION,12/09/17,0,48,TABLE
+AMIDALA,CAMPAIGNAPP,CTIABIGEZRESPONSE,12/09/17,3,112,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGETYPETOTALSREPORT,12/09/17,10,13,TABLE
+AMIDALA,CAMPAIGNAPP,REPLYNWIN,12/09/17,0,66,TABLE
+AMIDALA,CAMPAIGNAPP,SERVICE_CODE,12/09/17,3,0,TABLE
+AMIDALA,DIALOGSERVER,PROGRAMTRGSTATSLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,SUBSCRIBER,08/09/17,3456,46445600,TABLE
+AMIDALA,DIALOGSERVER,VZWBILLINGDEFAULT,08/09/17,81,1,TABLE
+AMIDALA,DIALOGSERVER,VZWBILLINGUSAGE,08/09/17,40,92503,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,TEXT4TUNES_PRIZES,12/09/17,0,326,TABLE
+AMIDALA,DIALOGSERVER,CONNECTION,08/09/17,0,277,TABLE
+AMIDALA,DIALOGSERVER,DIALOGXMLLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,VZWPRODUCTPRICE,08/09/17,0,98,TABLE
+AMIDALA,DIALOGSERVER,VZWCATEGORYPRICEPLAN,08/09/17,0,18,TABLE
+AMIDALA,CAMPAIGNAPP,MLOG$_SPONSORS,11/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,LADDER49_PRIZES,12/09/17,0,202,TABLE
+AMIDALA,NMGMT,PRODUCTCODEUSAGEAUDIT,08/09/17,0,69,TABLE
+AMIDALA,CAMPAIGNAPP,JEEPZIPCODE,12/09/17,2,41350,TABLE
+AMIDALA,CMPADMIN,PRODUCTCODERULE,12/09/17,0,57,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOSOCFEATURE,12/09/17,40,184630,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMSUBSCRIBERCHARGE,08/09/17,2048,36425400,TABLE
+AMIDALA,CAMPAIGNAPP,IQSERVICECODE,12/09/17,0,38,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_FIX_TEMP,08/09/17,0,4515,TABLE
+AMIDALA,CAMPAIGNAPP,VMCCLASSICSCOPE,12/09/17,0,732,TABLE
+AMIDALA,CAMPAIGNAPP,VMCDATEGENERATOR,12/09/17,0,35,TABLE
+AMIDALA,CMPADMIN,ORGANIZATIONSERVICETYPE,12/09/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_BASELINE_SQL,29/08/17,0,17,TABLE
+AMIDALA,DBSNMP,MGMT_LATEST,29/08/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,NASCARPROMO,12/09/17,0,37,TABLE
+AMIDALA,CAMPAIGNAPP,NESQUIKPLAYER,12/09/17,4,57020,TABLE
+AMIDALA,DIALOGSERVER,PROGRAMTRGSTATSLOG_04_SEP_2005,08/09/17,24,82883,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXLOG_MS,08/09/17,51,130970,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTWINNER,12/09/17,0,2373,TABLE
+AMIDALA,CAMPAIGNAPP,SBSUBSCRIBER,12/09/17,1,5322,TABLE
+AMIDALA,CAMPAIGNAPP,SBSUBSCRIBERPRIZECODE,12/09/17,0,3205,TABLE
+AMIDALA,CAMPAIGNAPP,SONYALERTSSUBSCRIBER,12/09/17,0,388,TABLE
+AMIDALA,CAMPAIGNAPP,POLLCHOICE,12/09/17,0,239,TABLE
+AMIDALA,DIALOGSERVER,SESSIONCLEANUP,08/09/17,1,11140,TABLE
+AMIDALA,DIALOGSERVER,SMX_22_JUN_2005,08/09/17,8,17304,TABLE
+AMIDALA,CMPADMIN,PROGRAMTYPE,12/09/17,16,9320,TABLE
+AMIDALA,CMPADMIN,JBPM_SEQUENCEBLOCK,12/09/17,0,1,TABLE
+AMIDALA,CMPADMIN,JBPM_ACTION,12/09/17,0,205,TABLE
+AMIDALA,DIALOGSERVER,SMXMSGLOG_25_AUG_2005,08/09/17,744,1489700,TABLE
+AMIDALA,CMPADMIN,EMAILCAMPAIGN,12/09/17,0,4,TABLE
+AMIDALA,CAMPAIGNAPP,NEXELSPRINTFIX,12/09/17,1,19152,TABLE
+AMIDALA,PERFSTAT,STATS$SQL_SUMMARY,29/08/17,1024,0,TABLE
+AMIDALA,PERFSTAT,STATS$SQLTEXT,29/08/17,7,0,TABLE
+AMIDALA,PERFSTAT,STATS$CURRENT_BLOCK_SERVER,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SQL_PLAN_USAGE,29/08/17,864,0,TABLE
+AMIDALA,PERFSTAT,STATS$SEG_STAT_OBJ,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$INSTANCE_RECOVERY,29/08/17,1,0,TABLE
+AMIDALA,DIALOGSERVER,STUDIOSMXMSGLOG_MAX,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOSELFSERVEFAQ,12/09/17,1,140,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_TEMP,08/09/17,136,0,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100710,08/09/17,0,91,TABLE
+AMIDALA,CMPADMIN,JBPM_VARIABLEINSTANCE_NAV_1104,12/09/17,0,904,TABLE
+AMIDALA,CMPADMIN,SHORTCODE_GUIDS,12/09/17,0,1440,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100715,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,MTGLOBALTEMPLATE,12/09/17,0,20,TABLE
+AMIDALA,CMPADMIN,SHORTCODEURLTYPE,12/09/17,0,11,TABLE
+AMIDALA,CMPADMIN,ORGANIZATIONWHITELISTING,12/09/17,0,375,TABLE
+AMIDALA,DIALOGSERVER,MMSMOPROGRAM,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_TOKEN_NAV_1098,12/09/17,0,886,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZWUSAGE_BIGBRO_100711,08/09/17,0,84,TABLE
+AMIDALA,CMPADMIN,REPORTDEFINITION,12/09/17,0,34,TABLE
+AMIDALA,CMPADMIN,OUTPUTFORMAT,12/09/17,0,9,TABLE
+AMIDALA,DBADMIN,ALARMEMAILDIST,29/08/17,0,6,TABLE
+AMIDALA,DIALOGSERVER,MDRPARTITION_OLD,08/09/17,4,23501,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOMEDIAPLAYERUSERAGENT,12/09/17,0,259,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTFCSTATUS,12/09/17,0,9,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOHANDSETDETAILS,12/09/17,0,163,TABLE
+AMIDALA,CMPADMIN,CARRIERCONFIGURATION,12/09/17,0,52,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONEUSERDTLS_LOG,12/09/17,7,50040,TABLE
+AMIDALA,CMPADMIN,IPCCUSTOMVALUE,12/09/17,2,28790,TABLE
+AMIDALA,CMPADMIN,REPORTHISTORY,12/09/17,144,524220,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_SIMPLE_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,BELLMOABADDBANNER,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_PAUSED_TRIGGER_GRPS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOMESSAGEUSERS,12/09/17,0,79,TABLE
+AMIDALA,MMREAD,TMP_VZW_PAUTH_JAN_2010_2,29/08/17,6,13707,TABLE
+AMIDALA,DIALOGSERVER,APPLICATION_REGISTRY_0221,08/09/17,0,1156,TABLE
+AMIDALA,DIALOGSERVER,BQS_BLOB_TRIGGERS,08/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,BQS_LOCKS,08/09/17,0,5,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOETUBLACKLIST,12/09/17,0,0,TABLE
+AMIDALA,SMX,OLD_LERGCITYTRANSLATION,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFABCONTACTS,12/09/17,8,48260,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFABCONTACTSLIST,12/09/17,72,453290,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_TRIGGERS,12/09/17,1,1352,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_SIMPLE_TRIGGERS,12/09/17,0,982,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_PAUSED_TRIGGER_GRPS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_SCHEDULER_STATE,12/09/17,0,1,TABLE
+AMIDALA,CMPADMIN,EVENTFLAG,12/09/17,0,3,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_STATISTICS,29/08/17,0,0,TABLE
+AMIDALA,WMSYS,WM$LOG_TABLE,27/10/12,0,0,TABLE
+AMIDALA,MTRUST,OPTIN_EVENT,12/09/17,3,0,TABLE PARTITION
+AMIDALA,MTRUST,QUARTZ_TRIGGERS,12/09/17,0,1,TABLE
+AMIDALA,MTRUST,QUARTZ_BLOB_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_CALENDARS,12/09/17,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_PAUSED_TRIGGER_GRPS,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,SYS_IOT_OVER_25964,08/09/17,0,0,TABLE
+AMIDALA,MMREAD,TMP_SUBTOOL_OUTPUT,29/08/17,2,5926,TABLE
+AMIDALA,DIALOGSERVER,CORRELATIONLOG,08/09/17,13776,147748800,TABLE PARTITION
+AMIDALA,MMREAD,TMP_JAY_SUBS_JJF2,29/08/17,2,4219,TABLE
+AMIDALA,MMREAD,TMP_JAY_SUBS_JJF,29/08/17,3,6625,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETUSERSADDRESS_LOG,12/09/17,0,897,TABLE
+AMIDALA,MMREAD,TOAD_PLAN_TABLE,29/08/17,0,167,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100712,08/09/17,0,41,TABLE
+AMIDALA,BRAT,SUBBILLING_AMIDALA,12/09/17,2,12074,TABLE
+AMIDALA,MMREAD,SF04888060_TEMP,29/08/17,0,650,TABLE
+AMIDALA,BRAT,SUBBILLING_AMIDALA_1,12/09/17,8,72460,TABLE
+AMIDALA,MMREAD,SCM_IPCS,29/08/17,0,666,TABLE
+AMIDALA,MMREAD,DONATION_PERFORMANCE,29/08/17,0,2,TABLE
+AMIDALA,MMREAD,TMP_VZW_SUB_MIGRATE_FINAL,29/08/17,176,393262,TABLE
+AMIDALA,AVAIL,OBJECT_VERSION,29/08/17,0,18,TABLE
+AMIDALA,AVAIL,TABLESPACE_MONITORING,29/08/17,0,0,TABLE
+AMIDALA,AVAIL,KNOWN_SYSTEM_SCHEMAS,29/08/17,0,36,TABLE
+AMIDALA,SMX,OLD_LNPOCNCACHEAUDIT,12/09/17,288,5493350,TABLE
+AMIDALA,SMX,OLD_OCNBACK,12/09/17,5,0,TABLE
+AMIDALA,SMX,OLD_ROUTINGRANGEBACKUP,12/09/17,224,1660820,TABLE
+AMIDALA,DIALOGSERVER,MMGDELIVERED,08/09/17,1,3340,TABLE
+AMIDALA,PERFSTAT,STATS$ROLLSTAT,29/08/17,33,0,TABLE
+AMIDALA,MMSGW,MMSGWLOG_20160912_DATA,12/09/17,1,2438,TABLE
+AMIDALA,PERFSTAT,STATS$EVENT_HISTOGRAM,29/08/17,112,0,TABLE
+AMIDALA,PERFSTAT,STATS$RULE_SET,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$OSSTAT,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SGA_TARGET_ADVICE,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$STREAMS_POOL_ADVICE,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$DYNAMIC_REMASTER_STATS,29/08/17,1,0,TABLE
+AMIDALA,MMSGW,MMSGWLOG_BADMSG_20160114,12/09/17,39,88300,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWADBANNER,12/09/17,0,0,TABLE
+AMIDALA,XDB,XDB$CHECKOUTS,27/10/12,0,0,TABLE
+AMIDALA,NMGMT,SVCCODEUSAGE,08/09/17,1,3774,TABLE
+AMIDALA,CAMPAIGNAPP,CTIASESSION,12/09/17,0,53,TABLE
+AMIDALA,CAMPAIGNAPP,JAMNREGISTRATION,12/09/17,3,2525,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGEDELIVERYREPORT,12/09/17,3,111,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGESUMMARYREPORT,12/09/17,3,8,TABLE
+AMIDALA,CAMPAIGNAPP,QMQUIZ,12/09/17,0,146,TABLE
+AMIDALA,CAMPAIGNAPP,QUIZ,12/09/17,0,49,TABLE
+AMIDALA,CAMPAIGNAPP,REPLYNWINDELIVERYTIMES,12/09/17,0,66,TABLE
+AMIDALA,CAMPAIGNAPP,SIMPLEATTRIBUTEREPORT,12/09/17,3,113,TABLE
+AMIDALA,CAMPAIGNAPP,SPONSORS,12/09/17,3,4,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIBER_POINTS,12/09/17,3,0,TABLE
+AMIDALA,CAMPAIGNAPP,CAMPAIGNFLOW,12/09/17,7,9181,TABLE
+AMIDALA,DBADMIN,SCHEMA_PRIVILEGES,29/08/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,DIALOGSERVICEHISTORY,08/09/17,39,77128,TABLE
+AMIDALA,MMREAD,CONNECTIONS,29/08/17,0,517,TABLE
+AMIDALA,NMGMT,PRODUCTCODEBEHAVIORAUDIT,08/09/17,3,35500,TABLE
+AMIDALA,DIALOGSERVER,OPTIN,08/09/17,512,3198400,TABLE PARTITION
+AMIDALA,DIALOGSERVER,PREMIUMBILLING,08/09/17,2,3974,TABLE PARTITION
+AMIDALA,DIALOGSERVER,VZWPRODUCTCATEGORYAUDIT,08/09/17,10,59,TABLE
+AMIDALA,DIALOGSERVER,VZWPRODUCTCATEGORYPROGRAM,08/09/17,10,9,TABLE
+AMIDALA,CMPADMIN,PROGRAMPRODUCT,12/09/17,3,20877,TABLE
+AMIDALA,CAMPAIGNAPP,WAPREQUESTCTXT,12/09/17,1,16908,TABLE
+AMIDALA,DIALOGSERVER,CARRIER_ERROR_CODES,08/09/17,0,578,TABLE
+AMIDALA,DIALOGSERVER,VZWMDN,08/09/17,6,138285,TABLE
+AMIDALA,DIALOGSERVER,VZWCATEGORY,08/09/17,0,3,TABLE
+AMIDALA,SMSGW,SHORTCODETRANSLATION,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,CHRISTDAILYMESSAGE,12/09/17,0,377,TABLE
+AMIDALA,CAMPAIGNAPP,BOOSTSUBSCRIBER,12/09/17,2,11079,TABLE
+AMIDALA,CAMPAIGNAPP,INLAFLASHREWARDENTRY,12/09/17,1,6500,TABLE
+AMIDALA,DIALOGSERVER,TIME,08/09/17,0,2557,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONBLACKLIST,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,RULEOVERRIDE,12/09/17,0,10,TABLE
+AMIDALA,MMREAD,TMP_VZW_ALLFAILURES,29/08/17,152,270689,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXMICRO,08/09/17,0,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,IQALERT,12/09/17,1,1917,TABLE
+AMIDALA,CAMPAIGNAPP,IQREPORT,12/09/17,0,58,TABLE
+AMIDALA,DBSNMP,MGMT_SNAPSHOT,29/08/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_CAPTURE_SQL,29/08/17,0,24,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDDISTRIBUTION,12/09/17,0,1010,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMTST,08/09/17,0,125,TABLE
+AMIDALA,CAMPAIGNAPP,BMSOLOSUBS,12/09/17,2,22629,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTSEGMENT,12/09/17,0,56,TABLE
+AMIDALA,CAMPAIGNAPP,MMSUSERAPPLICATION,12/09/17,0,2079,TABLE
+AMIDALA,CAMPAIGNAPP,CHRISTDAILYGIFTS,12/09/17,0,16,TABLE
+AMIDALA,CAMPAIGNAPP,DWANGOVOTER,12/09/17,2,25980,TABLE
+AMIDALA,CAMPAIGNAPP,POLLRESPONSE,12/09/17,0,195,TABLE
+AMIDALA,DIALOGSERVER,DQA_PREMIUM_TOTALS,08/09/17,0,109,TABLE
+AMIDALA,CMPADMIN,PROMOTIONDETAIL,12/09/17,2,7561,TABLE
+AMIDALA,CMPADMIN,CARRIERPARTICIPATION,12/09/17,19,116470,TABLE
+AMIDALA,DIALOGSERVER,VOTELOG_TEMP_1,08/09/17,22,520200,TABLE
+AMIDALA,CAMPAIGNAPP,SPRINTWINNERS,12/09/17,0,7,TABLE
+AMIDALA,MMSGW,MMSMOPROGRAM,12/09/17,0,0,TABLE
+AMIDALA,PERFSTAT,STATS$RESOURCE_LIMIT,29/08/17,1,0,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONDELIVERYPREF,12/09/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$PGASTAT,29/08/17,2,0,TABLE
+AMIDALA,CAMPAIGNAPP,BMNOPAYSUBS,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,NOKIARR,12/09/17,0,569,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMMESSAGE_TEMP,08/09/17,12,143596,TABLE
+AMIDALA,CAMPAIGNAPP,SUNKISTPLAYER,12/09/17,1,8172,TABLE
+AMIDALA,CMPADMIN,JBPM_EXELOG_NAV_1104,12/09/17,0,904,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWAPCONTENT,12/09/17,0,11,TABLE
+AMIDALA,CAMPAIGNAPP,REMYQUESTION,12/09/17,0,77,TABLE
+AMIDALA,CAMPAIGNAPP,CUSTBULKSENDMESSAGECONTROL,12/09/17,5,66810,TABLE
+AMIDALA,CMPADMIN,CARRIERENCODING,12/09/17,0,28,TABLE
+AMIDALA,DIALOGSERVER,MDRADMIN_OLD,08/09/17,0,29,TABLE
+AMIDALA,CAMPAIGNAPP,SESSIONDATA,12/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,BELLMOTFCERRORCODE,12/09/17,0,81,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURESUSERAGENTS,12/09/17,0,1240,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCAREFEATURES2,12/09/17,0,76,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTRANSPORTFEECHARGE,12/09/17,8234,53542450,TABLE
+AMIDALA,DIALOGSERVER,SCHEMA_PRIVILEGES_EXCEPTIONS,08/09/17,0,4,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_PAUSED_TRIGGER_GRPS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_JOB_DETAILS,12/09/17,0,2,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_BLOB_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_FIRED_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_LOCKS,12/09/17,0,5,TABLE
+AMIDALA,BRAT,TMP_SUBBILLING,12/09/17,1,4933,TABLE
+AMIDALA,DIALOGSERVER,BQS_JOB_LISTENERS,08/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,BQS_TRIGGERS,08/09/17,0,3,TABLE
+AMIDALA,DIALOGSERVER,BQS_FIRED_TRIGGERS,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOETUBLACKLISTLOG,12/09/17,0,92,TABLE
+AMIDALA,SMX,OLD_CARRIER,12/09/17,5,114,TABLE
+AMIDALA,SMX,OLD_CARRIEROCN,12/09/17,5,886,TABLE
+AMIDALA,CMPADMIN,SCHEDULERINTERVALDETAIL,12/09/17,0,4,TABLE
+AMIDALA,CMPADMIN,DELIVERYMETHOD,12/09/17,0,2,TABLE
+AMIDALA,MMREAD,TMP_VZW_PAUTH_JAN_2010,29/08/17,59,134912,TABLE
+AMIDALA,CAMPAIGNAPP,VIRGINRATEPLANCACHE,12/09/17,1409,922090,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_DATASOURCES,29/08/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_THRESHOLD_PARMS,29/08/17,0,0,TABLE
+AMIDALA,XDB,XDB$NMSPC_ID,27/10/12,0,7,TABLE
+AMIDALA,WMSYS,WM$EVENT_QUEUE_TABLE,,0,,TABLE
+AMIDALA,WMSYS,WM$BATCH_COMPRESSIBLE_TABLES,27/10/12,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_CRON_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_SCHEDULER_STATE,12/09/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,PLAN_TABLE,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_TOKEN_NAV_1103,12/09/17,0,1843,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETUSERS,12/09/17,0,781,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETUSERSADDRESS,12/09/17,0,709,TABLE
+AMIDALA,MMREAD,TMP_ATT_1999_999_CLEANUP_1999,29/08/17,0,498,TABLE
+AMIDALA,DBADMIN,APPLICATION_REGISTRYTEST,29/08/17,10,4,TABLE
+AMIDALA,CAMPAIGNS,VW_CAMPAIGN_PARTICIPATION,12/09/17,20,74560,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_TRIGGER_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SF04796021_TEMP,12/09/17,1,12285,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS_SF04796021_TRY2,12/09/17,0,559,TABLE
+AMIDALA,CMPADMIN,IPCCV_VZWSCM_ROLLBACK,12/09/17,2,20128,TABLE
+AMIDALA,MMREAD,TMP_SENDME_MIGRATION,29/08/17,1,2242,TABLE
+AMIDALA,AVAIL,AVAIL_TEST,29/08/17,0,0,TABLE
+AMIDALA,AVAIL,KEEP_ARCH_AVG_HIST,29/08/17,0,4,TABLE
+AMIDALA,DIALOGSERVER,SYNDEL,08/09/17,0,3526,TABLE
+AMIDALA,PERFSTAT,STATS$DATABASE_INSTANCE,29/08/17,1,6,TABLE
+AMIDALA,PERFSTAT,STATS$DB_CACHE_ADVICE,29/08/17,3,0,TABLE
+AMIDALA,PERFSTAT,STATS$FILESTATXS,29/08/17,136,0,TABLE
+AMIDALA,PERFSTAT,STATS$OSSTATNAME,29/08/17,1,11,TABLE
+AMIDALA,PERFSTAT,STATS$MUTEX_SLEEP,29/08/17,3,0,TABLE
+AMIDALA,OUTLN,OL$,27/10/12,0,0,TABLE
+AMIDALA,OUTLN,OL$HINTS,27/10/12,0,0,TABLE
+AMIDALA,OUTLN,OL$NODES,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$ADT_FUNC_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$UDTRIG_INFO,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$VT_ERRORS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTCAREFEATURESSEGMENT_TMP,12/09/17,0,146,TABLE
+AMIDALA,NMGMT,SVCCODERESERVATION,08/09/17,1,1224,TABLE
+AMIDALA,NMGMT,SVCEMAILUSAGE,08/09/17,1,664,TABLE
+AMIDALA,CAMPAIGNAPP,CUMULATIVESTATEREPORT,12/09/17,10,5,TABLE
+AMIDALA,CAMPAIGNAPP,OFFERREDEMPTION,12/09/17,0,38,TABLE
+AMIDALA,CAMPAIGNAPP,OFFERSTAGEDLOCAL,12/09/17,0,20,TABLE
+AMIDALA,CAMPAIGNAPP,RUNDOWNREGISTRATION,12/09/17,3,4670,TABLE
+AMIDALA,CAMPAIGNAPP,CF2,12/09/17,3,0,TABLE
+AMIDALA,DIALOGSERVER,DIALOGSERVICE,08/09/17,10,7731,TABLE
+AMIDALA,CAMPAIGNAPP,POPTARTSALERT,12/09/17,0,12,TABLE
+AMIDALA,DIALOGSERVER,PROGRAMIVRSTATSLOG,08/09/17,5,1518,TABLE PARTITION
+AMIDALA,DIALOGSERVER,MMGMSGLOG,08/09/17,742125,1518712100,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,WAPSITE,12/09/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,WAPCONTENTLIST,12/09/17,0,0,TABLE
+AMIDALA,DIALOGSERVER,VZWPRODUCT,08/09/17,0,49,TABLE
+AMIDALA,DIALOGSERVER,VZWREVENUESHAREDETAIL,08/09/17,472,2704000,TABLE
+AMIDALA,CAMPAIGNAPP,USWEEKLYSTORY,12/09/17,0,210,TABLE
+AMIDALA,NMGMT,SHORTCODETRANSLATION,08/09/17,0,316,TABLE
+AMIDALA,DIALOGSERVER,NPASPLIT,08/09/17,0,388,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_K_TEMP,08/09/17,960,2293200,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONLEDGER,12/09/17,0,594,TABLE
+AMIDALA,CAMPAIGNAPP,MARKETWATCHALERT,12/09/17,0,16,TABLE
+AMIDALA,CAMPAIGNAPP,MAXIMEVENT,12/09/17,0,367,TABLE
+AMIDALA,MMREAD,TMP_VZW_4A6FAILURES,29/08/17,1,1732,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOSUBS,12/09/17,200,2536800,TABLE
+AMIDALA,CMPADMIN,SHORTCODERESERVATION,12/09/17,1,4861,TABLE
+AMIDALA,CAMPAIGNAPP,BOOSTINSTANTPRIZE,12/09/17,0,26,TABLE
+AMIDALA,DBSNMP,MGMT_CAPTURE,29/08/17,0,2,TABLE
+AMIDALA,DIALOGSERVER,DIALOGSERVICEHIST,08/09/17,1,0,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROL_TEMP_FRI2,08/09/17,0,541,TABLE
+AMIDALA,CAMPAIGNAPP,SONYALERTSSUBSLOG,12/09/17,0,1153,TABLE
+AMIDALA,CAMPAIGNAPP,KEYWORD,12/09/17,0,15,TABLE
+AMIDALA,CAMPAIGNAPP,CATCHAG6RINGTONEREG,12/09/17,0,576,TABLE
+AMIDALA,DIALOGSERVER,VZWBACKBILLING,08/09/17,0,130,TABLE
+AMIDALA,DIALOGSERVER,COMPAREHOURS,08/09/17,0,516,TABLE
+AMIDALA,CAMPAIGNAPP,MMSUSERORGANIZATION,12/09/17,0,213,TABLE
+AMIDALA,CMPADMIN,CARRIERPRODUCTCODE,12/09/17,3,35850,TABLE
+AMIDALA,CMPADMIN,SUBSCRIPTIONOVERRIDEMESSAGE,12/09/17,0,772,TABLE
+AMIDALA,CMPADMIN,CARRIERBILLINGBEHAVIOR,12/09/17,0,140,TABLE
+AMIDALA,DIALOGSERVER,VZWSMPPBILLINGTAG,08/09/17,0,21,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBSCRIPTIONCONTENTTYPE,12/09/17,1,16,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,MLBMESSAGES,12/09/17,2,9089,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGESTATUSDATA,12/09/17,1,0,TABLE PARTITION
+AMIDALA,NMGMT,CPC_KEN,08/09/17,0,26,TABLE
+AMIDALA,CAMPAIGNAPP,PROMOINABOXDATING,12/09/17,0,11,TABLE
+AMIDALA,CMPADMIN,PROGRAMLOB,12/09/17,2,6032,TABLE
+AMIDALA,DIALOGSERVER,SMX_25,08/09/17,16,32143,TABLE
+AMIDALA,CMPADMIN,SHORTCODEUSAGE,12/09/17,2,7846,TABLE
+AMIDALA,CMPADMIN,TRANSFORMER,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,ROUTINGRULETRANSFORMER,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,JBPM_DEFINITION,12/09/17,0,1,TABLE
+AMIDALA,BRAT,SUBBILLING_CLEAN,12/09/17,2,12126,TABLE
+AMIDALA,CMPADMIN,JBPM_TASK,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SCHEMA_PRIVILEGES_EXCEPTIONS,12/09/17,0,54,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS,12/09/17,2,8470,TABLE
+AMIDALA,PERFSTAT,STATS$SESSION_EVENT,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$ENQUEUE_STATISTICS,29/08/17,8,0,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONDELIVERYCOUNT,12/09/17,1,7210,TABLE
+AMIDALA,PERFSTAT,STATS$DLM_MISC,29/08/17,1,0,TABLE
+AMIDALA,CAMPAIGNAPP,MILLERPIN,12/09/17,96,5970960,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTLOSER,12/09/17,1,10275,TABLE
+AMIDALA,MMREAD,TMP_ONTARIO_MIGRATION,29/08/17,2,41644,TABLE
+AMIDALA,DIALOGSERVER,EST_NEW,08/09/17,2,20074,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHTXCONTROLBWS,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CMPADMIN,RPT_755_ORGANIZATION_ROLLBACK,12/09/17,0,787,TABLE
+AMIDALA,DIALOGSERVER,MMGMSGLOG_SEPT28,08/09/17,784,2170400,TABLE
+AMIDALA,DIALOGSERVER,VZWUSAGE_BSGW_733,08/09/17,2,3210,TABLE
+AMIDALA,CAMPAIGNAPP,REMYINTERACTIONLOG,12/09/17,1,9356,TABLE
+AMIDALA,CMPADMIN,JBPM_EXELOG_NAV_1098,12/09/17,0,886,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMQAMSISDN,08/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,REPORTDATERESTRICTION,12/09/17,0,4,TABLE
+AMIDALA,DBADMIN,MDRPARTITION,29/08/17,15,104004,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWSEGMENT,12/09/17,0,393,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS_SF04327854,12/09/17,0,406,TABLE
+AMIDALA,CMPADMIN,CARRIERBILLINGINTERVALSEXCLS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURELIST2,12/09/17,1,182,TABLE
+AMIDALA,DIALOGSERVER,RSTEVENT,08/09/17,10,36926,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,BELLMOMEDIAPLAYER2PRIORITY,12/09/17,2,269,TABLE
+AMIDALA,CMPADMIN,REPORTPARAMGROUP,12/09/17,0,217,TABLE
+AMIDALA,CMPADMIN,REPORTFAVORITE,12/09/17,0,212,TABLE
+AMIDALA,CMPADMIN,DATERANGE,12/09/17,0,9,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_SIMPLE_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_FIRED_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_SCHEDULER_STATE,12/09/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_CRON_TRIGGERS,12/09/17,0,2,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_SCHEDULER_STATE,12/09/17,0,2,TABLE
+AMIDALA,CMPADMIN,IQUSER,12/09/17,0,2161,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOUSERPROFILE,12/09/17,0,40,TABLE
+AMIDALA,DIALOGSERVER,DEVICE_DATA,08/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,BQS_PAUSED_TRIGGER_GRPS,08/09/17,0,0,TABLE
+AMIDALA,SMX,OLD_LERGADMIN,12/09/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,TMP_VZW_BACKBILL_BIGBRO_100713,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_BLOB_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_FIRED_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,XDB,XDB$H_INDEX,27/10/12,0,18,TABLE
+AMIDALA,XDB,XDB$COLUMN_INFO,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$MP_GRAPH_WORKSPACES_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$REPLICATION_DETAILS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_LOCKS,12/09/17,0,2,TABLE
+AMIDALA,CMPADMIN,JBPM_EXELOG_NAV_1103,12/09/17,0,1820,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_TRIGGER_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BTQRTZ_LOCKS,12/09/17,0,5,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_SIMPLE_TRIGGERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BCQRTZ_CRON_TRIGGERS,12/09/17,0,2,TABLE
+AMIDALA,SUBSCRIPTIONS,IDENTITYCOOKIES,20/07/12,1,3,TABLE PARTITION
+AMIDALA,CMPADMIN,TMP_TRUEDIGIT_MM,12/09/17,0,3,TABLE
+AMIDALA,SMX,OLD_MYOCN,12/09/17,0,50,TABLE
+AMIDALA,SMX,OLD_OCNBACKUP,12/09/17,2,14321,TABLE
+AMIDALA,SMX,OLD_OCNERROR,12/09/17,5,0,TABLE
+AMIDALA,PERFSTAT,STATS$TEMPSTATXS,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$LATCH_MISSES_SUMMARY,29/08/17,72,0,TABLE
+AMIDALA,PERFSTAT,STATS$SQL_WORKAREA_HISTOGRAM,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$THREAD,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$SYS_TIME_MODEL,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$PROPAGATION_RECEIVER,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$BUFFERED_QUEUES,29/08/17,1,0,TABLE
+AMIDALA,DIALOGSERVER,AQUA_EXPLAIN_363190680,08/09/17,0,0,TABLE
+AMIDALA,WMSYS,WM$LOCKROWS_INFO,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$NESTED_COLUMNS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,NMGMT,CARRIERSHORTCODEUSAGEAUDIT,08/09/17,1,3107,TABLE
+AMIDALA,NMGMT,SVCCODERESERVATIONAUDIT,08/09/17,1,3042,TABLE
+AMIDALA,NMGMT,SVCEMAILRESERVATION,08/09/17,1,321,TABLE
+AMIDALA,NMGMT,SVCEMAILRESERVATIONAUDIT,08/09/17,1,447,TABLE
+AMIDALA,CAMPAIGNAPP,CAMPAIGNTYPE,12/09/17,3,10,TABLE
+AMIDALA,CAMPAIGNAPP,CTIAREGISTRATION,12/09/17,3,482,TABLE
+AMIDALA,CAMPAIGNAPP,MESSAGETYPEREPORT,12/09/17,10,93,TABLE
+AMIDALA,CAMPAIGNAPP,MYTABLE,12/09/17,3,70,TABLE
+AMIDALA,CAMPAIGNAPP,OFFER,12/09/17,3,67,TABLE
+AMIDALA,CAMPAIGNAPP,OFFERDATA,12/09/17,3,1532,TABLE
+AMIDALA,CAMPAIGNAPP,OFFERGENERATION,12/09/17,0,979,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENT_TEST,12/09/17,3,246,TABLE
+AMIDALA,CAMPAIGNAPP,WHEELDATA,12/09/17,3,233,TABLE
+AMIDALA,CAMPAIGNAPP,SEGMENTFILTER,12/09/17,10,356,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIBERLISTDATA,12/09/17,37952,313825680,TABLE
+AMIDALA,DIALOGSERVER,APPLICATION_REGISTRY,08/09/17,10,1441,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTHSTATUSCONTROL,08/09/17,10,31,TABLE
+AMIDALA,DIALOGSERVER,VZWBILLINGCODEAUDIT,08/09/17,10,19,TABLE
+AMIDALA,DIALOGSERVER,VZWFILECONTROL,08/09/17,288,1454100,TABLE
+AMIDALA,CAMPAIGNAPP,WAPFORMAT,12/09/17,0,19,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBBILLINGHISTORY,12/09/17,1,0,TABLE PARTITION
+AMIDALA,DIALOGSERVER,VZWSUBSCRIBERCLASS,08/09/17,0,1,TABLE
+AMIDALA,CAMPAIGNAPP,USWEEKLYSUBSCRIBER,12/09/17,2,35470,TABLE
+AMIDALA,SMSGW,SUBSCRIBERSHORTCODE,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,CHRISTDAILYPRAYER,12/09/17,0,95,TABLE
+AMIDALA,CAMPAIGNAPP,INLAFLASHREWARD,12/09/17,0,58,TABLE
+AMIDALA,DIALOGSERVER,DEVICEROUTING,08/09/17,0,67,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOAOCPRIORITY,12/09/17,0,22,TABLE
+AMIDALA,CAMPAIGNAPP,BRIDALTIP,12/09/17,0,12,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONCONTENTROUTING,12/09/17,0,281,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONCONTENT,12/09/17,0,62,TABLE
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONBLACKLISTLOG,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,FLASHCONCERTMARKET,12/09/17,0,19,TABLE
+AMIDALA,CAMPAIGNAPP,MLBGAMEUPDATE,12/09/17,0,2312,TABLE
+AMIDALA,CAMPAIGNAPP,MARKETWATCHSUBSCRIPTION,12/09/17,0,150,TABLE
+AMIDALA,CAMPAIGNAPP,IQALERTSERVICE,12/09/17,0,152,TABLE
+AMIDALA,CMPADMIN,REPORTSETFAMILYMEMBER,12/09/17,0,15,TABLE
+AMIDALA,CAMPAIGNAPP,VMCLUVSCOPE,12/09/17,0,372,TABLE
+AMIDALA,CAMPAIGNAPP,BOOSTSUBSCRIBERPOINTS,12/09/17,0,5547,TABLE
+AMIDALA,CMPADMIN,TASKS,12/09/17,0,2,TABLE
+AMIDALA,CMPADMIN,CSCRESERVATION,12/09/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_HISTORY,29/08/17,0,25,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDCONFIG,12/09/17,0,64,TABLE
+AMIDALA,CAMPAIGNAPP,FEEDDATA,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,MLBPROMOTION,12/09/17,0,467,TABLE
+AMIDALA,DIALOGSERVER,SMPPDELIVERY_04_SEP_2005,08/09/17,11,46288,TABLE
+AMIDALA,CAMPAIGNAPP,VMCFRENCHPICKUPLINE,12/09/17,0,99,TABLE
+AMIDALA,CAMPAIGNAPP,BOOSTSUBSCRIBERPOINTS02MAR05,12/09/17,0,541,TABLE
+AMIDALA,CAMPAIGNAPP,ONPACKKEYS,12/09/17,8,58460,TABLE
+AMIDALA,CMPADMIN,PRODUCTCODEBEHAVIOR,12/09/17,15,122420,TABLE
+AMIDALA,CAMPAIGNAPP,MLBTEAMLOOKUP,12/09/17,0,48,TABLE
+AMIDALA,CAMPAIGNAPP,POLLQN,12/09/17,0,79,TABLE
+AMIDALA,CMPADMIN,PROGRAM,12/09/17,4,7652,TABLE
+AMIDALA,CMPADMIN,SHORTCODERECEIPT,12/09/17,2,5094,TABLE
+AMIDALA,CMPADMIN,JBPM_FILE,12/09/17,0,0,TABLE
+AMIDALA,SUBSCRIPTIONS,TMP_SUBBILLING_BACKUP,12/09/17,9,69440,TABLE
+AMIDALA,DIALOGSERVER,DUP_MINS2,08/09/17,0,5428,TABLE
+AMIDALA,DIALOGSERVER,ABC,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,TXT2SCREENMSGLOG,12/09/17,14,84320,TABLE
+AMIDALA,CAMPAIGNAPP,INSTANTWINNER,12/09/17,0,590,TABLE
+AMIDALA,CAMPAIGNAPP,PROMOINABOXSUBSCRIBER,12/09/17,0,0,TABLE
+AMIDALA,CMPADMIN,SHORTCODE_RSTS,12/09/17,0,1610,TABLE
+AMIDALA,CAMPAIGNAPP,INSTANTPOLLCONFIG,12/09/17,0,95,TABLE
+AMIDALA,CAMPAIGNAPP,INSTANTPOLLPARTICIPANT,12/09/17,49,597970,TABLE
+AMIDALA,PERFSTAT,STATS$BG_EVENT_SUMMARY,29/08/17,5,0,TABLE
+AMIDALA,DIALOGSERVER,STUDIOSMXMSGLOG,08/09/17,1,0,TABLE PARTITION
+AMIDALA,CAMPAIGNAPP,SUBSCRIPTIONDELIVERYLOG,12/09/17,398,5206490,TABLE
+AMIDALA,DIALOGSERVER,VOTING_VZW_CING,08/09/17,1,16580,TABLE
+AMIDALA,CMPADMIN,WORKFLOWHISTORY_NAV_1104,12/09/17,0,904,TABLE
+AMIDALA,CMPADMIN,SHORTCODE,12/09/17,1,4704,TABLE
+AMIDALA,DIALOGSERVER,PAUTHBWS_MAX,08/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOLOG,12/09/17,3757,44352060,TABLE
+AMIDALA,CMPADMIN,PROGRAMWHITELISTING,12/09/17,11,94460,TABLE
+AMIDALA,CAMPAIGNAPP,GETITTOGO,12/09/17,3,154750,TABLE
+AMIDALA,CMPADMIN,IPCCARRIER_NAV_1068,12/09/17,3,67820,TABLE
+AMIDALA,CAMPAIGNAPP,SOURPATCHREMINDER,12/09/17,0,1542,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCCBLACKLISTLOG,12/09/17,1,7383,TABLE
+AMIDALA,DBADMIN,DB_ADMIN_NAME_STANDARDS,29/08/17,0,1,TABLE
+AMIDALA,DIALOGSERVER,ALARMEMAILDIST_OLD,08/09/17,10,6,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWUSERAGENT,12/09/17,0,526,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWREGIONSELECTED,12/09/17,0,63,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOWHATSNEWAREALIST,12/09/17,2,3,TABLE
+AMIDALA,CAMPAIGNAPP,SOURPATCH,12/09/17,1,6542,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOFEATURESSEGMENT,12/09/17,0,1815,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOTFCLOG,12/09/17,11712,113562560,TABLE
+AMIDALA,DIALOGSERVER,PREMIUMAUTH_MSG_SEPT_PAID,08/09/17,36,89357,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCONTENTMAPPING,12/09/17,0,39,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONEUSERDTLS,12/09/17,4,30780,TABLE
+AMIDALA,MMREAD,TMP_WAPMESSAGES,29/08/17,3,15957,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCUSTOMERINFO,12/09/17,22,122070,TABLE
+AMIDALA,CAMPAIGNAPP,BELLMOCUSTOMERMESSAGE,12/09/17,72,161500,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_TRIGGERS,12/09/17,0,3,TABLE
+AMIDALA,CAMPAIGNAPP,TCQRTZ_TRIGGER_LISTENERS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BMPROVINCETAX,12/09/17,0,10,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMARTPHONELOG,12/09/17,216,1516170,TABLE
+AMIDALA,DIALOGSERVER,BQS_TRIGGER_LISTENERS,08/09/17,0,0,TABLE
+AMIDALA,SMX,OLD_ALTROUTINGADMIN,12/09/17,0,8,TABLE
+AMIDALA,SMX,OLD_ALTROUTINGRANGE,12/09/17,0,103,TABLE
+AMIDALA,SMX,OLD_LERGCATEGORY,12/09/17,5,14,TABLE
+AMIDALA,SMX,OLD_LERGROUTINGRANGE,12/09/17,208,1570070,TABLE
+AMIDALA,CAMPAIGNAPP,QRTZ_CALENDARS,12/09/17,0,0,TABLE
+AMIDALA,CAMPAIGNAPP,BMSMRTPHONEFEATURETEMP,12/09/17,0,48,TABLE
+AMIDALA,CMPADMIN,GROUPGROUP,12/09/17,0,0,TABLE
+AMIDALA,DBSNMP,MGMT_BSLN_BASELINES,29/08/17,0,0,TABLE
+AMIDALA,XDB,XDB$ROOT_INFO,27/10/12,0,1,TABLE
+AMIDALA,XDB,XDB$PATH_ID,27/10/12,0,0,TABLE
+AMIDALA,XDB,XDB$DXPATH,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$CONSTRAINTS_TABLE,27/10/12,0,0,TABLE
+AMIDALA,WMSYS,WM$CONS_COLUMNS,27/10/12,0,0,TABLE
+AMIDALA,MTRUST,QUARTZ_JOB_DETAILS,12/09/17,0,1,TABLE
+AMIDALA,CMPADMIN,TMP_ROLLBACK_CR3937_IPC_RSTS,12/09/17,0,2575,TABLE
+AMIDALA,CAMPAIGNAPP,BMTABLETLOG,12/09/17,6,37860,TABLE
+AMIDALA,CMPADMIN,IPC_RSTS_SF04888060,12/09/17,2,8519,TABLE
+AMIDALA,DIALOGSERVER,BILLINGTRANS_09_JUL_2012,08/09/17,0,1,TABLE
+AMIDALA,SUBSCRIPTIONS,SUBDOWNLOADACTIVITY,20/07/12,1,0,TABLE PARTITION
+AMIDALA,AVAIL,TABLESPACE_HISTORY,29/08/17,0,4325,TABLE
+AMIDALA,DIALOGSERVER,MMG,08/09/17,821,1713300,TABLE
+AMIDALA,PERFSTAT,STATS$LIBRARYCACHE,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$ROWCACHE_SUMMARY,29/08/17,5,0,TABLE
+AMIDALA,PERFSTAT,STATS$SGASTAT,29/08/17,2,0,TABLE
+AMIDALA,PERFSTAT,STATS$SYSSTAT,29/08/17,36,0,TABLE
+AMIDALA,MMSGW,MMSGWLOG_20150912,12/09/17,1472,2966900,TABLE
+AMIDALA,PERFSTAT,STATS$TIME_MODEL_STATNAME,29/08/17,1,19,TABLE
+AMIDALA,PERFSTAT,STATS$STREAMS_APPLY_SUM,29/08/17,1,0,TABLE
+AMIDALA,PERFSTAT,STATS$PROCESS_MEMORY_ROLLUP,29/08/17,6,0,TABLE
