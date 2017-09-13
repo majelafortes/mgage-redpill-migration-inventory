@@ -1,0 +1,6 @@
+     (select name from v$database  ) ||','||
+                       *
+ERRO na linha 11:
+ORA-00936: missing expression
+
+
