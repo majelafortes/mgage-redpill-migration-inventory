@@ -1,4 +1,4 @@
-SERVER_NA,OWNER                         ,TABLE_NAME                    ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
+SERVER_NA,OWNER                         ,TABLE_NAME                    ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 PRODDW3  ,AVAIL                         ,TABLESPACE_HISTORY            ,29/08/17,        ,1,       162,TABLE
 PRODDW3  ,AVAIL                         ,TABLESPACE_MONITORING         ,29/08/17,        ,1,         0,TABLE
 PRODDW3  ,AVAIL                         ,RMAN_NOBACKUP_FILES           ,29/08/17,        ,1,         0,TABLE
