@@ -1,4 +1,4 @@
-SERVER_NA,OWNER                         ,OBJECT_NAME                                                                                                                     ,AST_DDL_,STATUS ,OBJECT_TYPE
+SERVER_NA,OWNER                         ,OBJECT_NAME                                                                                                                     ,AST_DDL_,STATUS ,OBJECT_TYPE
 AMIDALA  ,CAMPAIGNAPP                   ,SEARCH_N_REPLACE_CLOB                                                                                                           ,08/11/10,VALID  ,PROCEDURE
 AMIDALA  ,CAMPAIGNAPP                   ,PURGE_FEEDDATA                                                                                                                  ,08/11/10,VALID  ,PROCEDURE
 AMIDALA  ,CAMPAIGNAPP                   ,DEL_SUBSCRIBERRESPDATA                                                                                                          ,08/11/10,VALID  ,PROCEDURE

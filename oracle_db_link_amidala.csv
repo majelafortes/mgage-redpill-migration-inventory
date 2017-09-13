@@ -1,4 +1,4 @@
-SERVER_NA,OWNER                         ,DB_LINK                                                                                                                         ,USERNAME                      ,OBJECT_TYPE
+SERVER_NA,OWNER                         ,DB_LINK                                                                                                                         ,USERNAME                      ,OBJECT_TYPE
 AMIDALA  ,MMREAD                        ,TYPHO.MQUBE.COM                                                                                                                 ,BRAT                          ,DATABASE LINK
 AMIDALA  ,DIALOGSERVER                  ,TYPHO.MQUBE.US                                                                                                                  ,BILLING                       ,DATABASE LINK
 AMIDALA  ,REFUND_API                    ,TYPHO.MQUBE.US                                                                                                                  ,BRAT                          ,DATABASE LINK

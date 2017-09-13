@@ -1,4 +1,4 @@
-SERVER_NA,OWNER                         ,TABLE_NAME                    ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
+SERVER_NA,OWNER                         ,TABLE_NAME                    ,LAST_ANA,   SIZE_MB,  NUM_ROWS,OBJECT_TYPE
 AMIDALA  ,AVAIL                         ,OBJECT_VERSION                ,29/08/17,        ,1,        18,TABLE
 AMIDALA  ,AVAIL                         ,KEEP_ARCH_AVG_HIST            ,29/08/17,        ,1,         4,TABLE
 AMIDALA  ,AVAIL                         ,KNOWN_LONG_RUNNING_JOBS       ,29/08/17,        ,1,         3,TABLE
@@ -654,7 +654,7 @@ AMIDALA  ,DIALOGSERVER                  ,IPC_INSERT                    ,08/09/17
 AMIDALA  ,DIALOGSERVER                  ,APPLICATIONREGISTRYAUDIT      ,08/09/17,        81,     10499,TABLE
 AMIDALA  ,DIALOGSERVER                  ,APPLICATION_REGISTRY          ,08/09/17,        10,      1441,TABLE
 AMIDALA  ,DIALOGSERVER                  ,PREMIUMAUTHSTATUSCONTROL      ,08/09/17,        10,        31,TABLE
-AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG                     ,08/09/17,  726125,4,1518712100,TABLE PARTITION
+AMIDALA  ,DIALOGSERVER                  ,MMGMSGLOG                     ,08/09/17,  729773,4,1518712100,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,DIALOGXMLLOG                  ,08/09/17,       1,4,         0,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,VZWSUBSCRIBERCLASS            ,08/09/17,        ,1,         1,TABLE
 AMIDALA  ,DIALOGSERVER                  ,VZWCATEGORY                   ,08/09/17,        ,1,         3,TABLE
@@ -765,7 +765,7 @@ AMIDALA  ,DIALOGSERVER                  ,DEVICE_DATA                   ,08/09/17
 AMIDALA  ,DIALOGSERVER                  ,BQS_CRON_TRIGGERS             ,08/09/17,        ,1,         3,TABLE
 AMIDALA  ,DIALOGSERVER                  ,BQS_TRIGGER_LISTENERS         ,08/09/17,        ,1,         0,TABLE
 AMIDALA  ,DIALOGSERVER                  ,SYS_IOT_OVER_25966            ,08/09/17,        ,1,         0,TABLE
-AMIDALA  ,DIALOGSERVER                  ,CORRELATIONLOG                ,08/09/17,   13344,4, 147748800,TABLE PARTITION
+AMIDALA  ,DIALOGSERVER                  ,CORRELATIONLOG                ,08/09/17,   13448,4, 147748800,TABLE PARTITION
 AMIDALA  ,DIALOGSERVER                  ,TMP_VZW_BACKBILL_BIGBRO_100712,08/09/17,        ,1,        41,TABLE
 AMIDALA  ,DIALOGSERVER                  ,MMSDATA                       ,08/09/17,        ,4,      3690,TABLE
 AMIDALA  ,DIALOGSERVER                  ,MMG1                          ,08/09/17,        ,4,      4326,TABLE
@@ -808,7 +808,7 @@ AMIDALA  ,MMREAD                        ,TMP_ATT_1999_999_CLEANUP_1999 ,29/08/17
 AMIDALA  ,MMREAD                        ,MMREAD_SUBSCRIPTION           ,29/08/17,       647,   2075072,TABLE
 AMIDALA  ,MMSGW                         ,MMSGWLOG_20160909             ,12/09/17,        ,1,        19,TABLE
 AMIDALA  ,MMSGW                         ,MMSMOPROGRAM                  ,12/09/17,        ,1,         0,TABLE
-AMIDALA  ,MMSGW                         ,MMSGWLOG                      ,12/09/17,    1207,4,   2662890,TABLE PARTITION
+AMIDALA  ,MMSGW                         ,MMSGWLOG                      ,12/09/17,    1208,4,   2662890,TABLE PARTITION
 AMIDALA  ,MMSGW                         ,MMSGWLOG_BADMSG_20160114      ,12/09/17,        39,     88300,TABLE
 AMIDALA  ,MMSGW                         ,MMSGWLOG_20150912             ,12/09/17,      1472,   2966900,TABLE
 AMIDALA  ,MMSGW                         ,BAD_TRANS                     ,12/09/17,        13,    327540,TABLE
