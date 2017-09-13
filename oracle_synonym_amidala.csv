@@ -1,6 +1,6 @@
-     (select name from v$database  ) ||','||
-                       *
-ERRO na linha 11:
-ORA-00936: missing expression
+  Order by 1,2
+             *
+ERRO na linha 23:
+ORA-01785: ORDER BY item must be the number of a SELECT-list expression
 
 
